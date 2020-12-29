@@ -21,4 +21,4 @@ jobs:
         env:
           FRAMER_TOKEN: ${{ secrets.FRAMER_TOKEN }}
         with:
-          args: publish confetti.framerfx --yes
+          args: publish confetti.framerfx --yes --public
