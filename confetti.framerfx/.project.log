@@ -1,0 +1,1455 @@
+[2020-12-21 18:04:16.2750] - INFO - Reading from /Users/ruucm/Desktop/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-21 18:04:16.2760] - INFO - Done reading
+[2020-12-21 18:04:16.2770] - INFO - Marking changed: false
+[2020-12-21 18:04:16.3930] - INFO - Marking changed: false
+[2020-12-21 18:04:16.4320] - DEBUG - [Save session: 0] Completed super.save
+[2020-12-21 18:04:16.8420] - INFO - Marking changed: false
+[2020-12-21 18:04:17.0140] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /20-12-21 18:04:17.0140] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /endencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /ng contents of project folder: true
+[2020-12-21 18:04:16.2760] - INFO - Done reading
+[2020-12-21 18:04:16.2770] - INFO - Marking changed: false
+[2020-12-21 18:04:16.3930] - INFO - Marking changed: false
+[2020-12-21 18:04:16.4320] - DEBUG - [Save session: 0] Completed super.save
+[2020-12-21 18:04:16.8420] - INFO - Marking changed: false
+[2020-12-21 18:04:17.0140] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /e to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-21 18:04:44.4880] - INFO - Done reading
+[2020-12-21 18:04:44.4880] - INFO - Marking changed: false
+[2020-12-21 18:04:44.5520] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-21 18:04:45.3050] - INFO - Project server PID: 31985
+[2020-12-21 18:04:45.5540] - ERROR - Tue, 22 Dec 2020 02:04:45 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-21 18:04:45.5720] - INFO - GET 200 /design/document.json 683 B (4ms)
+[2020-12-21 18:04:46.8490] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:46.8500] - INFO - Installing dependencies…
+[2020-12-21 18:04:47.1960] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:47.1970] - INFO - Installing dependencies - DONE. Took 346ms
+[2020-12-21 18:04:47.2790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:47.3030] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 18:04:47.3690] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:47.4770] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:47.5770] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:47.7320] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:49.3010] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 18:04:49.3010] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-21 18:04:49.3010] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-21 18:04:49.3080] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-21 18:05:03.2950] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:05:03.3300] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:05:03.7120] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:05:03.7450] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:05:04.2090] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:05:04.4920] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:05:04.8580] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:07:04.1980] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 18:07:04.1980] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-12-21 18:07:04.1980] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
+[2020-12-21 18:07:04.2030] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-12-21 18:14:44.5260] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 18.14.44.zip
+[2020-12-21 18:24:44.5400] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 18.24.44.zip
+[2020-12-21 18:27:08.2900] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (2ms)
+[2020-12-21 18:27:10.3060] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 18:27:10.5960] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 18:27:42.4430] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 18:27:42.5430] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 18:33:33.5920] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 18:33:33.7990] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 18:34:44.5410] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 18.34.44.zip
+[2020-12-21 18:37:11.9390] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 18:37:12.0390] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 18:37:24.9670] - DEBUG - [Save session: 2] Started, operation: autosaveInPlaceOperation
+[2020-12-21 18:37:24.9670] - DEBUG - [Save session: 2] Before container.writeChanges
+[2020-12-21 18:37:24.9670] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2020-12-21 18:37:24.9740] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2020-12-21 18:37:24.9750] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2020-12-21 18:37:24.9790] - DEBUG - [Save session: 2] Completed super.save
+[2020-12-21 18:38:08.4130] - DEBUG - [Save session: 3] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 18:38:08.4130] - DEBUG - [Save session: 3] Before container.writeChanges
+[2020-12-21 18:38:08.4130] - DEBUG - [Save session: 3] Not autosaving to archive, implicitly cancellable
+[2020-12-21 18:38:08.4190] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2020-12-21 18:38:18.2480] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 18:38:18.2480] - DEBUG - [Save session: 4] Before container.writeChanges
+[2020-12-21 18:38:18.2480] - DEBUG - [Save session: 4] Not autosaving to archive, implicitly cancellable
+[2020-12-21 18:38:18.2540] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2020-12-21 18:38:39.3650] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 18:38:39.5470] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 18:39:43.0490] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 18:39:43.1530] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 18:39:57.4210] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 18:39:57.5230] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 18:39:58.9850] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 18:39:59.0800] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 18:44:54.4560] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 18.44.54.zip
+[2020-12-21 18:47:13.9870] - DEBUG - [Save session: 5] Started, operation: autosaveInPlaceOperation
+[2020-12-21 18:47:13.9870] - DEBUG - [Save session: 5] Before container.writeChanges
+[2020-12-21 18:47:13.9870] - DEBUG - [Save session: 5] Before waitUsingRecursiveRunLoop
+[2020-12-21 18:47:13.9930] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2020-12-21 18:47:13.9930] - DEBUG - [Save session: 5] Completed waitUsingRecursiveRunLoop
+[2020-12-21 18:47:13.9980] - DEBUG - [Save session: 5] Completed super.save
+[2020-12-21 18:47:23.0570] - DEBUG - [Save session: 6] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 18:47:23.0570] - DEBUG - [Save session: 6] Before container.writeChanges
+[2020-12-21 18:47:23.0570] - DEBUG - [Save session: 6] Not autosaving to archive, implicitly cancellable
+[2020-12-21 18:47:23.0640] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2020-12-21 18:51:41.1610] - DEBUG - [Save session: 7] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 18:51:41.1610] - DEBUG - [Save session: 7] Before container.writeChanges
+[2020-12-21 18:51:41.1610] - DEBUG - [Save session: 7] Not autosaving to archive, implicitly cancellable
+[2020-12-21 18:51:41.1670] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2020-12-21 18:54:00.7630] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 18:54:01.0490] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 18:54:54.4750] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 18.54.54.zip
+[2020-12-21 19:03:42.9120] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 19:04:55.0550] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 19.04.55.zip
+[2020-12-21 19:06:59.1400] - DEBUG - [Save session: 8] Started, operation: autosaveInPlaceOperation
+[2020-12-21 19:06:59.1400] - DEBUG - [Save session: 8] Before container.writeChanges
+[2020-12-21 19:06:59.1400] - DEBUG - [Save session: 8] Before waitUsingRecursiveRunLoop
+[2020-12-21 19:06:59.1580] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2020-12-21 19:06:59.1580] - DEBUG - [Save session: 8] Completed waitUsingRecursiveRunLoop
+[2020-12-21 19:06:59.1630] - DEBUG - [Save session: 8] Completed super.save
+[2020-12-21 19:07:00.3940] - DEBUG - [Save session: 9] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 19:07:00.3940] - DEBUG - [Save session: 9] Before container.writeChanges
+[2020-12-21 19:07:00.3940] - DEBUG - [Save session: 9] Not autosaving to archive, implicitly cancellable
+[2020-12-21 19:07:00.4040] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2020-12-21 19:12:40.0330] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (3ms)
+[2020-12-21 19:12:40.3320] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 19:14:55.0460] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 19.14.55.zip
+[2020-12-21 19:14:56.1570] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 19:14:56.4640] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+
+[2020-12-21 19:20:17.8990] - INFO - Reading from /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-21 19:20:17.9030] - INFO - Done reading
+[2020-12-21 19:20:17.9040] - INFO - Marking changed: false
+[2020-12-21 19:20:17.9720] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-21 19:20:18.7370] - INFO - Project server PID: 43160
+[2020-12-21 19:20:18.8770] - INFO - Installing dependencies…
+[2020-12-21 19:20:18.9800] - ERROR - Tue, 22 Dec 2020 03:20:18 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-21 19:20:19.0220] - INFO - GET 200 /design/document.json 0 B (4ms)
+[2020-12-21 19:20:19.5010] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 19:20:20.5580] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 19:20:20.5590] - INFO - Installing dependencies - DONE. Took 1681ms
+[2020-12-21 19:20:20.7250] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 19:20:21.0200] - INFO - Marking changed: false
+[2020-12-21 19:20:21.2250] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 19:20:21.4340] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 19:20:37.4400] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 19:20:38.0630] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 19:20:43.3340] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 19:20:43.3340] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-21 19:20:43.3340] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-21 19:20:43.3490] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-21 19:20:47.8380] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 19:20:52.2100] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 19:20:52.5010] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 19:20:54.2010] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 19:20:54.2010] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-12-21 19:20:54.2010] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
+[2020-12-21 19:20:54.2140] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-12-21 19:23:01.0080] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 19:23:01.1050] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 19:23:14.2320] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 19:23:14.3340] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 19:23:50.6810] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 19:23:50.7710] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 19:25:02.0490] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 19:25:02.1550] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 19:25:23.2610] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 19:25:23.3550] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-21 19:25:24.2800] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-21 19:25:24.3720] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-21 19:25:36.8180] - DEBUG - [Save session: 2] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 19:25:36.8180] - DEBUG - [Save session: 2] Before container.writeChanges
+[2020-12-21 19:25:36.8180] - DEBUG - [Save session: 2] Not autosaving to archive, implicitly cancellable
+[2020-12-21 19:25:36.8240] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2020-12-21 19:40:48.3860] - DEBUG - [Save session: 3] Started, operation: autosaveInPlaceOperation
+[2020-12-21 19:40:48.3860] - DEBUG - [Save session: 3] Before container.writeChanges
+[2020-12-21 19:40:48.3860] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2020-12-21 19:40:48.3950] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2020-12-21 19:40:48.3950] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2020-12-21 19:40:48.4000] - DEBUG - [Save session: 3] Completed super.save
+[2020-12-21 19:41:01.7470] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 19:41:01.7470] - DEBUG - [Save session: 4] Before container.writeChanges
+[2020-12-21 19:41:01.7470] - DEBUG - [Save session: 4] Not autosaving to archive, implicitly cancellable
+[2020-12-21 19:41:01.7550] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2020-12-21 19:49:55.7990] - DEBUG - [Save session: 5] Started, operation: autosaveInPlaceOperation
+[2020-12-21 19:49:55.7990] - DEBUG - [Save session: 5] Before container.writeChanges
+[2020-12-21 19:49:55.7990] - DEBUG - [Save session: 5] Before waitUsingRecursiveRunLoop
+[2020-12-21 19:49:55.8140] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2020-12-21 19:49:55.8140] - DEBUG - [Save session: 5] Completed waitUsingRecursiveRunLoop
+[2020-12-21 19:49:55.8190] - DEBUG - [Save session: 5] Completed super.save
+[2020-12-21 19:49:56.9270] - DEBUG - [Save session: 6] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 19:49:56.9270] - DEBUG - [Save session: 6] Before container.writeChanges
+[2020-12-21 19:49:56.9270] - DEBUG - [Save session: 6] Not autosaving to archive, implicitly cancellable
+[2020-12-21 19:49:56.9350] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2020-12-21 19:50:19.0580] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 19.50.19.zip
+[2020-12-21 19:57:07.0670] - DEBUG - [Save session: 7] Started, operation: autosaveInPlaceOperation
+[2020-12-21 19:57:07.0670] - DEBUG - [Save session: 7] Before container.writeChanges
+[2020-12-21 19:57:07.0670] - DEBUG - [Save session: 7] Before waitUsingRecursiveRunLoop
+[2020-12-21 19:57:07.0730] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2020-12-21 19:57:07.0730] - DEBUG - [Save session: 7] Completed waitUsingRecursiveRunLoop
+[2020-12-21 19:57:07.0790] - DEBUG - [Save session: 7] Completed super.save
+[2020-12-21 19:57:17.3820] - DEBUG - [Save session: 8] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 19:57:17.3820] - DEBUG - [Save session: 8] Before container.writeChanges
+[2020-12-21 19:57:17.3820] - DEBUG - [Save session: 8] Not autosaving to archive, implicitly cancellable
+[2020-12-21 19:57:17.3880] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2020-12-21 20:00:19.0780] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 20.00.19.zip
+[2020-12-21 20:10:26.6400] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 20.10.26.zip
+[2020-12-21 20:13:53.5270] - DEBUG - [Save session: 9] Started, operation: autosaveInPlaceOperation
+[2020-12-21 20:13:53.5270] - DEBUG - [Save session: 9] Before container.writeChanges
+[2020-12-21 20:13:53.5270] - DEBUG - [Save session: 9] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:13:53.5410] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2020-12-21 20:13:53.5410] - DEBUG - [Save session: 9] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:13:53.5460] - DEBUG - [Save session: 9] Completed super.save
+[2020-12-21 20:14:00.5490] - DEBUG - [Save session: 10] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:14:00.5500] - DEBUG - [Save session: 10] Before container.writeChanges
+[2020-12-21 20:14:00.5500] - DEBUG - [Save session: 10] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:14:00.5640] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2020-12-21 20:14:26.1270] - DEBUG - [Save session: 11] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:14:26.1270] - DEBUG - [Save session: 11] Before container.writeChanges
+[2020-12-21 20:14:26.1270] - DEBUG - [Save session: 11] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:14:26.1320] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2020-12-21 20:15:49.0440] - DEBUG - [Save session: 12] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:15:49.0440] - DEBUG - [Save session: 12] Before container.writeChanges
+[2020-12-21 20:15:49.0450] - DEBUG - [Save session: 12] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:15:49.0500] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2020-12-21 20:16:09.2830] - DEBUG - [Save session: 13] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:16:09.2830] - DEBUG - [Save session: 13] Before container.writeChanges
+[2020-12-21 20:16:09.2830] - DEBUG - [Save session: 13] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:16:09.2960] - DEBUG - [Save session: 13] Completed container.writeChanges
+[2020-12-21 20:17:09.3050] - DEBUG - [Save session: 14] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:17:09.3050] - DEBUG - [Save session: 14] Before container.writeChanges
+[2020-12-21 20:17:09.3050] - DEBUG - [Save session: 14] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:17:09.3480] - DEBUG - [Save session: 14] Completed container.writeChanges
+[2020-12-21 20:18:01.6730] - DEBUG - [Save session: 15] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:18:01.6730] - DEBUG - [Save session: 15] Before container.writeChanges
+[2020-12-21 20:18:01.6730] - DEBUG - [Save session: 15] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:18:01.6790] - DEBUG - [Save session: 15] Completed container.writeChanges
+[2020-12-21 20:18:07.8480] - DEBUG - [Save session: 16] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:18:07.8480] - DEBUG - [Save session: 16] Before container.writeChanges
+[2020-12-21 20:18:07.8480] - DEBUG - [Save session: 16] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:18:07.8560] - DEBUG - [Save session: 16] Completed container.writeChanges
+[2020-12-21 20:18:18.1180] - DEBUG - [Save session: 17] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:18:18.1180] - DEBUG - [Save session: 17] Before container.writeChanges
+[2020-12-21 20:18:18.1180] - DEBUG - [Save session: 17] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:18:18.1290] - DEBUG - [Save session: 17] Completed container.writeChanges
+[2020-12-21 20:18:28.2830] - DEBUG - [Save session: 18] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:18:28.2830] - DEBUG - [Save session: 18] Before container.writeChanges
+[2020-12-21 20:18:28.2840] - DEBUG - [Save session: 18] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:18:28.2890] - DEBUG - [Save session: 18] Completed container.writeChanges
+[2020-12-21 20:19:36.3680] - DEBUG - [Save session: 19] Started, operation: autosaveInPlaceOperation
+[2020-12-21 20:19:36.3680] - DEBUG - [Save session: 19] Before container.writeChanges
+[2020-12-21 20:19:36.3680] - DEBUG - [Save session: 19] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:19:36.3730] - DEBUG - [Save session: 19] Completed container.writeChanges
+[2020-12-21 20:19:36.3730] - DEBUG - [Save session: 19] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:19:36.3800] - DEBUG - [Save session: 19] Completed super.save
+[2020-12-21 20:19:45.6690] - DEBUG - [Save session: 20] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:19:45.6690] - DEBUG - [Save session: 20] Before container.writeChanges
+[2020-12-21 20:19:45.6690] - DEBUG - [Save session: 20] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:19:45.6740] - DEBUG - [Save session: 20] Completed container.writeChanges
+[2020-12-21 20:20:03.2970] - DEBUG - [Save session: 21] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:20:03.2970] - DEBUG - [Save session: 21] Before container.writeChanges
+[2020-12-21 20:20:03.2970] - DEBUG - [Save session: 21] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:20:03.3020] - DEBUG - [Save session: 21] Completed container.writeChanges
+[2020-12-21 20:20:27.0320] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 20.20.27.zip
+[2020-12-21 20:22:17.5590] - DEBUG - [Save session: 22] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:22:17.5590] - DEBUG - [Save session: 22] Before container.writeChanges
+[2020-12-21 20:22:17.5590] - DEBUG - [Save session: 22] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:22:17.5630] - DEBUG - [Save session: 22] Completed container.writeChanges
+[2020-12-21 20:22:26.2720] - DEBUG - [Save session: 23] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:22:26.2720] - DEBUG - [Save session: 23] Before container.writeChanges
+[2020-12-21 20:22:26.2720] - DEBUG - [Save session: 23] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:22:26.2770] - DEBUG - [Save session: 23] Completed container.writeChanges
+[2020-12-21 20:23:26.9890] - DEBUG - [Save session: 24] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:23:26.9890] - DEBUG - [Save session: 24] Before container.writeChanges
+[2020-12-21 20:23:26.9890] - DEBUG - [Save session: 24] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:23:27.0010] - DEBUG - [Save session: 24] Completed container.writeChanges
+[2020-12-21 20:23:49.1080] - DEBUG - [Save session: 25] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:23:49.1080] - DEBUG - [Save session: 25] Before container.writeChanges
+[2020-12-21 20:23:49.1080] - DEBUG - [Save session: 25] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:23:49.1200] - DEBUG - [Save session: 25] Completed container.writeChanges
+[2020-12-21 20:24:20.0420] - DEBUG - [Save session: 26] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:24:20.0420] - DEBUG - [Save session: 26] Before container.writeChanges
+[2020-12-21 20:24:20.0420] - DEBUG - [Save session: 26] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:24:20.0530] - DEBUG - [Save session: 26] Completed container.writeChanges
+[2020-12-21 20:24:41.3440] - DEBUG - [Save session: 27] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:24:41.3440] - DEBUG - [Save session: 27] Before container.writeChanges
+[2020-12-21 20:24:41.3440] - DEBUG - [Save session: 27] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:24:41.3480] - DEBUG - [Save session: 27] Completed container.writeChanges
+[2020-12-21 20:24:45.8360] - DEBUG - [Save session: 28] Started, operation: autosaveInPlaceOperation
+[2020-12-21 20:24:45.8370] - DEBUG - [Save session: 28] Before container.writeChanges
+[2020-12-21 20:24:45.8370] - DEBUG - [Save session: 28] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:24:45.8410] - DEBUG - [Save session: 28] Completed container.writeChanges
+[2020-12-21 20:24:45.8420] - DEBUG - [Save session: 28] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:24:45.8460] - DEBUG - [Save session: 28] Completed super.save
+[2020-12-21 20:25:03.0130] - DEBUG - [Save session: 29] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:25:03.0130] - DEBUG - [Save session: 29] Before container.writeChanges
+[2020-12-21 20:25:03.0130] - DEBUG - [Save session: 29] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:25:03.0180] - DEBUG - [Save session: 29] Completed container.writeChanges
+[2020-12-21 20:26:16.5380] - DEBUG - [Save session: 30] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:26:16.5380] - DEBUG - [Save session: 30] Before container.writeChanges
+[2020-12-21 20:26:16.5380] - DEBUG - [Save session: 30] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:26:16.5450] - DEBUG - [Save session: 30] Completed container.writeChanges
+[2020-12-21 20:27:16.5140] - DEBUG - [Save session: 31] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:27:16.5140] - DEBUG - [Save session: 31] Before container.writeChanges
+[2020-12-21 20:27:16.5140] - DEBUG - [Save session: 31] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:27:16.5200] - DEBUG - [Save session: 31] Completed container.writeChanges
+[2020-12-21 20:27:28.5550] - DEBUG - [Save session: 32] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:27:28.5550] - DEBUG - [Save session: 32] Before container.writeChanges
+[2020-12-21 20:27:28.5550] - DEBUG - [Save session: 32] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:27:28.5640] - DEBUG - [Save session: 32] Completed container.writeChanges
+[2020-12-21 20:29:13.0490] - DEBUG - [Save session: 33] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:29:13.0490] - DEBUG - [Save session: 33] Before container.writeChanges
+[2020-12-21 20:29:13.0490] - DEBUG - [Save session: 33] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:29:13.0560] - DEBUG - [Save session: 33] Completed container.writeChanges
+[2020-12-21 20:29:33.2170] - DEBUG - [Save session: 34] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:29:33.2170] - DEBUG - [Save session: 34] Before container.writeChanges
+[2020-12-21 20:29:33.2170] - DEBUG - [Save session: 34] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:29:33.2230] - DEBUG - [Save session: 34] Completed container.writeChanges
+[2020-12-21 20:30:00.7430] - DEBUG - [Save session: 35] Started, operation: autosaveInPlaceOperation
+[2020-12-21 20:30:00.7430] - DEBUG - [Save session: 35] Before container.writeChanges
+[2020-12-21 20:30:00.7430] - DEBUG - [Save session: 35] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:30:00.7530] - DEBUG - [Save session: 35] Completed container.writeChanges
+[2020-12-21 20:30:00.7530] - DEBUG - [Save session: 35] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:30:00.7600] - DEBUG - [Save session: 35] Completed super.save
+[2020-12-21 20:30:27.0860] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 20.30.27.zip
+[2020-12-21 20:31:46.4540] - INFO - GET 200 /.cache/images/512/pUsTrN77YvlojN2Yijbr6q3oug.png 112 kB (1ms)
+[2020-12-21 20:31:46.4550] - INFO - GET 200 /.cache/images/2048/pUsTrN77YvlojN2Yijbr6q3oug.png 370 kB (2ms)
+[2020-12-21 20:31:46.7730] - INFO - GET 200 /design/images/pUsTrN77YvlojN2Yijbr6q3oug.png 370 kB (1ms)
+[2020-12-21 20:31:49.0840] - DEBUG - [Save session: 36] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:31:49.0840] - DEBUG - [Save session: 36] Before container.writeChanges
+[2020-12-21 20:31:49.0850] - DEBUG - [Save session: 36] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:31:49.0890] - DEBUG - [Save session: 36] Completed container.writeChanges
+[2020-12-21 20:33:05.0670] - DEBUG - [Save session: 37] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:33:05.0670] - DEBUG - [Save session: 37] Before container.writeChanges
+[2020-12-21 20:33:05.0670] - DEBUG - [Save session: 37] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:33:05.0730] - DEBUG - [Save session: 37] Completed container.writeChanges
+[2020-12-21 20:34:42.9200] - DEBUG - [Save session: 38] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:34:42.9200] - DEBUG - [Save session: 38] Before container.writeChanges
+[2020-12-21 20:34:42.9200] - DEBUG - [Save session: 38] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:34:42.9250] - DEBUG - [Save session: 38] Completed container.writeChanges
+[2020-12-21 20:35:34.6290] - DEBUG - [Save session: 39] Started, operation: autosaveInPlaceOperation
+[2020-12-21 20:35:34.6290] - DEBUG - [Save session: 39] Before container.writeChanges
+[2020-12-21 20:35:34.6290] - DEBUG - [Save session: 39] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:35:34.6520] - DEBUG - [Save session: 39] Completed container.writeChanges
+[2020-12-21 20:35:34.6520] - DEBUG - [Save session: 39] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:35:34.6560] - DEBUG - [Save session: 39] Completed super.save
+[2020-12-21 20:35:50.2700] - DEBUG - [Save session: 40] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:35:50.2700] - DEBUG - [Save session: 40] Before container.writeChanges
+[2020-12-21 20:35:50.2700] - DEBUG - [Save session: 40] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:35:50.2750] - DEBUG - [Save session: 40] Completed container.writeChanges
+[2020-12-21 20:36:42.1380] - DEBUG - [Save session: 41] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:36:42.1390] - DEBUG - [Save session: 41] Before container.writeChanges
+[2020-12-21 20:36:42.1390] - DEBUG - [Save session: 41] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:36:42.1440] - DEBUG - [Save session: 41] Completed container.writeChanges
+[2020-12-21 20:37:12.7240] - DEBUG - [Save session: 42] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:37:12.7250] - DEBUG - [Save session: 42] Before container.writeChanges
+[2020-12-21 20:37:12.7250] - DEBUG - [Save session: 42] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:37:12.7310] - DEBUG - [Save session: 42] Completed container.writeChanges
+[2020-12-21 20:37:25.3040] - DEBUG - [Save session: 43] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:37:25.3040] - DEBUG - [Save session: 43] Before container.writeChanges
+[2020-12-21 20:37:25.3050] - DEBUG - [Save session: 43] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:37:25.3130] - DEBUG - [Save session: 43] Completed container.writeChanges
+[2020-12-21 20:37:40.9760] - DEBUG - [Save session: 44] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:37:40.9760] - DEBUG - [Save session: 44] Before container.writeChanges
+[2020-12-21 20:37:40.9760] - DEBUG - [Save session: 44] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:37:40.9820] - DEBUG - [Save session: 44] Completed container.writeChanges
+[2020-12-21 20:37:46.8180] - DEBUG - [Save session: 45] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:37:46.8180] - DEBUG - [Save session: 45] Before container.writeChanges
+[2020-12-21 20:37:46.8180] - DEBUG - [Save session: 45] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:37:46.8220] - DEBUG - [Save session: 45] Completed container.writeChanges
+[2020-12-21 20:37:58.0260] - DEBUG - [Save session: 46] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:37:58.0260] - DEBUG - [Save session: 46] Before container.writeChanges
+[2020-12-21 20:37:58.0260] - DEBUG - [Save session: 46] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:37:58.0320] - DEBUG - [Save session: 46] Completed container.writeChanges
+[2020-12-21 20:38:06.6860] - DEBUG - [Save session: 47] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:38:06.6860] - DEBUG - [Save session: 47] Before container.writeChanges
+[2020-12-21 20:38:06.6860] - DEBUG - [Save session: 47] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:38:06.6930] - DEBUG - [Save session: 47] Completed container.writeChanges
+[2020-12-21 20:38:22.1420] - DEBUG - [Save session: 48] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:38:22.1420] - DEBUG - [Save session: 48] Before container.writeChanges
+[2020-12-21 20:38:22.1420] - DEBUG - [Save session: 48] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:38:22.1560] - DEBUG - [Save session: 48] Completed container.writeChanges
+[2020-12-21 20:38:36.2420] - DEBUG - [Save session: 49] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:38:36.2420] - DEBUG - [Save session: 49] Before container.writeChanges
+[2020-12-21 20:38:36.2420] - DEBUG - [Save session: 49] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:38:36.2480] - DEBUG - [Save session: 49] Completed container.writeChanges
+[2020-12-21 20:40:27.1100] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 20.40.27.zip
+[2020-12-21 20:42:29.4160] - DEBUG - [Save session: 50] Started, operation: autosaveInPlaceOperation
+[2020-12-21 20:42:29.4160] - DEBUG - [Save session: 50] Before container.writeChanges
+[2020-12-21 20:42:29.4160] - DEBUG - [Save session: 50] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:42:29.4330] - DEBUG - [Save session: 50] Completed container.writeChanges
+[2020-12-21 20:42:29.4330] - DEBUG - [Save session: 50] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:42:29.4390] - DEBUG - [Save session: 50] Completed super.save
+[2020-12-21 20:42:51.1930] - DEBUG - [Save session: 51] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:42:51.1930] - DEBUG - [Save session: 51] Before container.writeChanges
+[2020-12-21 20:42:51.1930] - DEBUG - [Save session: 51] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:42:51.2120] - DEBUG - [Save session: 51] Completed container.writeChanges
+[2020-12-21 20:44:01.8200] - DEBUG - [Save session: 52] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:44:01.8200] - DEBUG - [Save session: 52] Before container.writeChanges
+[2020-12-21 20:44:01.8200] - DEBUG - [Save session: 52] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:44:01.8320] - DEBUG - [Save session: 52] Completed container.writeChanges
+[2020-12-21 20:44:48.8950] - DEBUG - [Save session: 53] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:44:48.8950] - DEBUG - [Save session: 53] Before container.writeChanges
+[2020-12-21 20:44:48.8950] - DEBUG - [Save session: 53] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:44:48.9110] - DEBUG - [Save session: 53] Completed container.writeChanges
+[2020-12-21 20:45:50.7610] - DEBUG - [Save session: 54] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:45:50.7610] - DEBUG - [Save session: 54] Before container.writeChanges
+[2020-12-21 20:45:50.7610] - DEBUG - [Save session: 54] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:45:50.7790] - DEBUG - [Save session: 54] Completed container.writeChanges
+[2020-12-21 20:46:30.9920] - DEBUG - [Save session: 55] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:46:30.9920] - DEBUG - [Save session: 55] Before container.writeChanges
+[2020-12-21 20:46:30.9920] - DEBUG - [Save session: 55] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:46:31.0060] - DEBUG - [Save session: 55] Completed container.writeChanges
+[2020-12-21 20:46:58.8610] - DEBUG - [Save session: 56] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:46:58.8610] - DEBUG - [Save session: 56] Before container.writeChanges
+[2020-12-21 20:46:58.8610] - DEBUG - [Save session: 56] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:46:58.8790] - DEBUG - [Save session: 56] Completed container.writeChanges
+[2020-12-21 20:47:57.4470] - DEBUG - [Save session: 57] Started, operation: autosaveInPlaceOperation
+[2020-12-21 20:47:57.4470] - DEBUG - [Save session: 57] Before container.writeChanges
+[2020-12-21 20:47:57.4470] - DEBUG - [Save session: 57] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:47:57.4650] - DEBUG - [Save session: 57] Completed container.writeChanges
+[2020-12-21 20:47:57.4650] - DEBUG - [Save session: 57] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:47:57.4690] - DEBUG - [Save session: 57] Completed super.save
+[2020-12-21 20:48:04.2580] - DEBUG - [Save session: 58] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:48:04.2580] - DEBUG - [Save session: 58] Before container.writeChanges
+[2020-12-21 20:48:04.2580] - DEBUG - [Save session: 58] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:48:04.2690] - DEBUG - [Save session: 58] Completed container.writeChanges
+[2020-12-21 20:49:04.6160] - DEBUG - [Save session: 59] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:49:04.6170] - DEBUG - [Save session: 59] Before container.writeChanges
+[2020-12-21 20:49:04.6170] - DEBUG - [Save session: 59] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:49:04.6320] - DEBUG - [Save session: 59] Completed container.writeChanges
+[2020-12-21 20:49:33.9080] - DEBUG - [Save session: 60] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:49:33.9080] - DEBUG - [Save session: 60] Before container.writeChanges
+[2020-12-21 20:49:33.9080] - DEBUG - [Save session: 60] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:49:33.9230] - DEBUG - [Save session: 60] Completed container.writeChanges
+[2020-12-21 20:50:27.1140] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-21 20.50.27.zip
+[2020-12-21 20:51:34.6350] - DEBUG - [Save session: 61] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-21 20:51:34.6350] - DEBUG - [Save session: 61] Before container.writeChanges
+[2020-12-21 20:51:34.6350] - DEBUG - [Save session: 61] Not autosaving to archive, implicitly cancellable
+[2020-12-21 20:51:34.6470] - DEBUG - [Save session: 61] Completed container.writeChanges
+[2020-12-21 20:52:06.6130] - DEBUG - [Save session: 62] Started, operation: saveOperation
+[2020-12-21 20:52:06.6130] - DEBUG - [Save session: 62] Before container.writeChanges
+[2020-12-21 20:52:06.6130] - DEBUG - [Save session: 62] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:52:06.6280] - DEBUG - [Save session: 62] Completed container.writeChanges
+[2020-12-21 20:52:06.6280] - DEBUG - [Save session: 62] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:52:06.6310] - INFO - Marking changed: false
+[2020-12-21 20:52:06.6330] - DEBUG - [Save session: 62] Completed super.save
+[2020-12-21 20:52:22.3550] - INFO - GET 200 /design/document.json 0 B (3ms)
+[2020-12-21 20:52:27.3310] - DEBUG - [Save session: 63] Started, operation: saveOperation
+[2020-12-21 20:52:27.3310] - DEBUG - [Save session: 63] Before container.writeChanges
+[2020-12-21 20:52:27.3310] - DEBUG - [Save session: 63] Before waitUsingRecursiveRunLoop
+[2020-12-21 20:52:27.3390] - DEBUG - [Save session: 63] Completed container.writeChanges
+[2020-12-21 20:52:27.3390] - DEBUG - [Save session: 63] Completed waitUsingRecursiveRunLoop
+[2020-12-21 20:52:27.3400] - INFO - Marking changed: false
+[2020-12-21 20:52:27.3420] - DEBUG - [Save session: 63] Completed super.save
+
+[2020-12-21 20:52:31.4580] - INFO - Reading from /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-21 20:52:31.4680] - INFO - Done reading
+[2020-12-21 20:52:31.4680] - INFO - Marking changed: false
+[2020-12-21 20:52:31.5310] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-21 20:52:32.3110] - INFO - Project server PID: 55508
+[2020-12-21 20:52:32.4460] - INFO - Installing dependencies…
+[2020-12-21 20:52:32.4920] - ERROR - Tue, 22 Dec 2020 04:52:32 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-21 20:52:32.5040] - INFO - GET 200 /design/document.json 0 B (5ms)
+[2020-12-21 20:52:32.8960] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 20:52:33.4660] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 20:52:33.4680] - INFO - Installing dependencies - DONE. Took 1022ms
+[2020-12-21 20:52:33.6410] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:52:33.9040] - INFO - Marking changed: false
+[2020-12-21 20:52:34.3440] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:52:34.3930] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:52:34.5960] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:52:50.5940] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+
+[2020-12-21 20:53:56.6160] - INFO - Reading from /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-21 20:53:56.6240] - INFO - Done reading
+[2020-12-21 20:53:56.6240] - INFO - Marking changed: false
+[2020-12-21 20:53:56.7370] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-21 20:53:57.4620] - INFO - Project server PID: 55750
+[2020-12-21 20:53:57.5950] - INFO - Installing dependencies…
+[2020-12-21 20:53:57.7270] - ERROR - Tue, 22 Dec 2020 04:53:57 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-21 20:53:57.7380] - INFO - GET 304 /design/document.json 0 B (2ms)
+[2020-12-21 20:53:58.1570] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-21 20:53:58.8440] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:53:58.8450] - INFO - Installing dependencies - DONE. Took 1251ms
+[2020-12-21 20:53:59.2780] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:53:59.2780] - INFO - Marking changed: false
+[2020-12-21 20:53:59.5030] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:53:59.6090] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:54:15.4210] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:54:15.6530] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 20:54:16.3360] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+
+[2020-12-22 21:55:36.8270] - INFO - Reading from /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-22 21:55:36.8360] - INFO - Done reading
+[2020-12-22 21:55:36.8370] - INFO - Marking changed: false
+[2020-12-22 21:55:37.0750] - INFO - Proxy Config: exceptions: *.local, 169.254/16, localhost, lx.astxsvc.com, 127.0.0.1:21300
+[2020-12-22 21:55:38.0630] - INFO - Project server PID: 15759
+[2020-12-22 21:55:38.5480] - ERROR - Tue, 22 Dec 2020 12:55:38 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-22 21:55:38.5900] - INFO - GET 200 /design/document.json 0 B (4ms)
+[2020-12-22 21:55:38.7280] - INFO - GET 200 /.cache/images/2048/pUsTrN77YvlojN2Yijbr6q3oug.png 370 kB (1ms)
+[2020-12-22 21:55:38.7510] - INFO - GET 200 /.cache/images/512/pUsTrN77YvlojN2Yijbr6q3oug.png 112 kB (1ms)
+[2020-12-22 21:55:39.5810] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2020-12-22 21:55:39.5930] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2020-12-22 21:55:39.7000] - ERROR - error running yarn: {"type":"error","data":"No lockfile in this directory. Run `yarn install` to generate one."}
+[2020-12-22 21:55:39.7100] - ERROR - error running yarn: {"type":"error","data":"No lockfile in this directory. Run `yarn install` to generate one."}
+[2020-12-22 21:55:39.9150] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-22 21:55:39.9160] - INFO - Installing dependencies…
+[2020-12-22 21:55:40.4660] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-22 21:55:40.4680] - INFO - Installing dependencies - DONE. Took 552ms
+[2020-12-22 21:55:40.6230] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-22 21:55:52.4270] - INFO - GET 200 /design/images/pUsTrN77YvlojN2Yijbr6q3oug.png 370 kB (1ms)
+[2020-12-22 21:55:55.3520] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-22 21:59:38.9740] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-22 21:59:38.9740] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-22 21:59:38.9740] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-22 21:59:38.9930] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-22 22:05:37.3370] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-22 22.05.37.zip
+
+[2020-12-23 12:28:35.5290] - INFO - Reading from /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-23 12:28:35.5520] - INFO - Done reading
+[2020-12-23 12:28:35.5530] - INFO - Marking changed: false
+[2020-12-23 12:28:35.5560] - INFO - Marking changed: false
+[2020-12-23 12:28:35.8140] - INFO - Proxy Config: exceptions: *.local, 169.254/16, localhost, lx.astxsvc.com, 127.0.0.1:21300
+[2020-12-23 12:28:37.9460] - INFO - Project server PID: 632
+[2020-12-23 12:28:38.2010] - INFO - Installing dependencies…
+[2020-12-23 12:28:38.2930] - ERROR - Wed, 23 Dec 2020 03:28:38 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-23 12:28:38.3190] - INFO - GET 200 /design/document.json 0 B (9ms)
+[2020-12-23 12:28:39.2270] - INFO - GET 304 /.cache/images/2048/pUsTrN77YvlojN2Yijbr6q3oug.png 0 B (1ms)
+[2020-12-23 12:28:39.2340] - INFO - GET 200 /.cache/images/512/pUsTrN77YvlojN2Yijbr6q3oug.png 112 kB (1ms)
+[2020-12-23 12:28:39.4130] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-23 12:28:39.4810] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-23 12:28:39.4820] - INFO - Installing dependencies - DONE. Took 1282ms
+[2020-12-23 12:28:39.7760] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 12:28:39.8110] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 12:28:39.8710] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 12:28:40.0600] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 12:28:55.5740] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 12:29:38.3520] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:29:38.3520] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-23 12:29:38.3520] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:29:38.4040] - DEBUG - [Save session: 0] Completed container.writeChanges
+
+[2020-12-23 12:39:32.5510] - INFO - Reading from /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-23 12:39:32.5720] - INFO - Done reading
+[2020-12-23 12:39:32.5720] - INFO - Marking changed: false
+[2020-12-23 12:39:32.6880] - INFO - Proxy Config: exceptions: *.local, 169.254/16, localhost, lx.astxsvc.com, 127.0.0.1:21300
+[2020-12-23 12:39:34.2140] - INFO - Project server PID: 2231
+[2020-12-23 12:39:34.4640] - INFO - Installing dependencies…
+[2020-12-23 12:39:34.5380] - ERROR - Wed, 23 Dec 2020 03:39:34 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-23 12:39:34.5550] - INFO - GET 200 /design/document.json 0 B (10ms)
+[2020-12-23 12:39:35.2650] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-23 12:39:36.3010] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 12:39:36.4410] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 12:39:36.4430] - INFO - Installing dependencies - DONE. Took 1979ms
+[2020-12-23 12:39:42.3740] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:39:42.3740] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-23 12:39:42.3740] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:39:42.3940] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-23 12:39:51.5640] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 12:41:34.6720] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:41:34.6720] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-12-23 12:41:34.6720] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:41:34.6800] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-12-23 12:43:10.5900] - DEBUG - [Save session: 2] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:43:10.5900] - DEBUG - [Save session: 2] Before container.writeChanges
+[2020-12-23 12:43:10.5900] - DEBUG - [Save session: 2] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:43:10.6000] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2020-12-23 12:45:11.7540] - DEBUG - [Save session: 3] Started, operation: autosaveInPlaceOperation
+[2020-12-23 12:45:11.7540] - DEBUG - [Save session: 3] Before container.writeChanges
+[2020-12-23 12:45:11.7540] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2020-12-23 12:45:11.7620] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2020-12-23 12:45:11.7630] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2020-12-23 12:45:11.8430] - DEBUG - [Save session: 3] Completed super.save
+[2020-12-23 12:45:34.1310] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:45:34.1310] - DEBUG - [Save session: 4] Before container.writeChanges
+[2020-12-23 12:45:34.1320] - DEBUG - [Save session: 4] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:45:34.1390] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2020-12-23 12:45:50.1010] - DEBUG - [Save session: 5] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:45:50.1010] - DEBUG - [Save session: 5] Before container.writeChanges
+[2020-12-23 12:45:50.1010] - DEBUG - [Save session: 5] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:45:50.1140] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2020-12-23 12:49:29.5330] - DEBUG - [Save session: 6] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:49:29.5330] - DEBUG - [Save session: 6] Before container.writeChanges
+[2020-12-23 12:49:29.5330] - DEBUG - [Save session: 6] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:49:29.5410] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2020-12-23 12:49:32.8570] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 12.49.32.zip
+[2020-12-23 12:50:14.0910] - DEBUG - [Save session: 7] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:50:14.0910] - DEBUG - [Save session: 7] Before container.writeChanges
+[2020-12-23 12:50:14.0910] - DEBUG - [Save session: 7] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:50:14.0990] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2020-12-23 12:50:24.7740] - DEBUG - [Save session: 8] Started, operation: autosaveInPlaceOperation
+[2020-12-23 12:50:24.7740] - DEBUG - [Save session: 8] Before container.writeChanges
+[2020-12-23 12:50:24.7750] - DEBUG - [Save session: 8] Before waitUsingRecursiveRunLoop
+[2020-12-23 12:50:24.7810] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2020-12-23 12:50:24.7820] - DEBUG - [Save session: 8] Completed waitUsingRecursiveRunLoop
+[2020-12-23 12:50:24.7860] - DEBUG - [Save session: 8] Completed super.save
+[2020-12-23 12:50:26.0130] - INFO - GET 304 /design/images/pUsTrN77YvlojN2Yijbr6q3oug.png 0 B (4ms)
+[2020-12-23 12:51:23.3120] - DEBUG - [Save session: 9] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:51:23.3120] - DEBUG - [Save session: 9] Before container.writeChanges
+[2020-12-23 12:51:23.3120] - DEBUG - [Save session: 9] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:51:23.3260] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2020-12-23 12:51:41.8020] - DEBUG - [Save session: 10] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:51:41.8020] - DEBUG - [Save session: 10] Before container.writeChanges
+[2020-12-23 12:51:41.8020] - DEBUG - [Save session: 10] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:51:41.8170] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2020-12-23 12:53:14.9180] - DEBUG - [Save session: 11] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:53:14.9180] - DEBUG - [Save session: 11] Before container.writeChanges
+[2020-12-23 12:53:14.9180] - DEBUG - [Save session: 11] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:53:14.9300] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2020-12-23 12:55:53.7840] - DEBUG - [Save session: 12] Started, operation: autosaveInPlaceOperation
+[2020-12-23 12:55:53.7840] - DEBUG - [Save session: 12] Before container.writeChanges
+[2020-12-23 12:55:53.7840] - DEBUG - [Save session: 12] Before waitUsingRecursiveRunLoop
+[2020-12-23 12:55:53.8160] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2020-12-23 12:55:53.8160] - DEBUG - [Save session: 12] Completed waitUsingRecursiveRunLoop
+[2020-12-23 12:55:53.8280] - DEBUG - [Save session: 12] Completed super.save
+[2020-12-23 12:56:05.1280] - DEBUG - [Save session: 13] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:56:05.1280] - DEBUG - [Save session: 13] Before container.writeChanges
+[2020-12-23 12:56:05.1280] - DEBUG - [Save session: 13] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:56:05.1380] - DEBUG - [Save session: 13] Completed container.writeChanges
+[2020-12-23 12:57:07.7690] - DEBUG - [Save session: 14] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:57:07.7690] - DEBUG - [Save session: 14] Before container.writeChanges
+[2020-12-23 12:57:07.7690] - DEBUG - [Save session: 14] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:57:07.7800] - DEBUG - [Save session: 14] Completed container.writeChanges
+[2020-12-23 12:57:25.4400] - DEBUG - [Save session: 15] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:57:25.4400] - DEBUG - [Save session: 15] Before container.writeChanges
+[2020-12-23 12:57:25.4400] - DEBUG - [Save session: 15] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:57:25.4520] - DEBUG - [Save session: 15] Completed container.writeChanges
+[2020-12-23 12:58:39.5560] - DEBUG - [Save session: 16] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 12:58:39.5560] - DEBUG - [Save session: 16] Before container.writeChanges
+[2020-12-23 12:58:39.5560] - DEBUG - [Save session: 16] Not autosaving to archive, implicitly cancellable
+[2020-12-23 12:58:39.5810] - DEBUG - [Save session: 16] Completed container.writeChanges
+[2020-12-23 12:59:33.7020] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 12.59.33.zip
+[2020-12-23 13:01:56.9650] - DEBUG - [Save session: 17] Started, operation: autosaveInPlaceOperation
+[2020-12-23 13:01:56.9650] - DEBUG - [Save session: 17] Before container.writeChanges
+[2020-12-23 13:01:56.9650] - DEBUG - [Save session: 17] Before waitUsingRecursiveRunLoop
+[2020-12-23 13:01:56.9770] - DEBUG - [Save session: 17] Completed container.writeChanges
+[2020-12-23 13:01:56.9770] - DEBUG - [Save session: 17] Completed waitUsingRecursiveRunLoop
+[2020-12-23 13:01:56.9850] - DEBUG - [Save session: 17] Completed super.save
+[2020-12-23 13:02:01.8080] - DEBUG - [Save session: 18] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:02:01.8080] - DEBUG - [Save session: 18] Before container.writeChanges
+[2020-12-23 13:02:01.8080] - DEBUG - [Save session: 18] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:02:01.8250] - DEBUG - [Save session: 18] Completed container.writeChanges
+[2020-12-23 13:03:22.5640] - DEBUG - [Save session: 19] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:03:22.5650] - DEBUG - [Save session: 19] Before container.writeChanges
+[2020-12-23 13:03:22.5650] - DEBUG - [Save session: 19] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:03:22.5980] - DEBUG - [Save session: 19] Completed container.writeChanges
+[2020-12-23 13:04:13.8580] - DEBUG - [Save session: 20] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:04:13.8580] - DEBUG - [Save session: 20] Before container.writeChanges
+[2020-12-23 13:04:13.8580] - DEBUG - [Save session: 20] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:04:13.8770] - DEBUG - [Save session: 20] Completed container.writeChanges
+[2020-12-23 13:06:08.4080] - DEBUG - [Save session: 21] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:06:08.4090] - DEBUG - [Save session: 21] Before container.writeChanges
+[2020-12-23 13:06:08.4090] - DEBUG - [Save session: 21] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:06:08.4520] - DEBUG - [Save session: 21] Completed container.writeChanges
+[2020-12-23 13:06:28.7770] - DEBUG - [Save session: 22] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:06:28.7770] - DEBUG - [Save session: 22] Before container.writeChanges
+[2020-12-23 13:06:28.7770] - DEBUG - [Save session: 22] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:06:28.7940] - DEBUG - [Save session: 22] Completed container.writeChanges
+[2020-12-23 13:06:57.0520] - DEBUG - [Save session: 23] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:06:57.0520] - DEBUG - [Save session: 23] Before container.writeChanges
+[2020-12-23 13:06:57.0520] - DEBUG - [Save session: 23] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:06:57.0530] - DEBUG - [Save session: 24] Started, operation: autosaveInPlaceOperation
+[2020-12-23 13:06:57.0530] - DEBUG - [Save session: 24] Before container.writeChanges
+[2020-12-23 13:06:57.0530] - DEBUG - [Save session: 24] Before waitUsingRecursiveRunLoop
+[2020-12-23 13:06:57.0620] - DEBUG - [Save session: 24] Completed container.writeChanges
+[2020-12-23 13:06:57.0620] - DEBUG - [Save session: 24] Completed waitUsingRecursiveRunLoop
+[2020-12-23 13:06:57.1670] - DEBUG - [Save session: 24] Completed super.save
+[2020-12-23 13:07:01.6800] - DEBUG - [Save session: 25] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:07:01.6800] - DEBUG - [Save session: 25] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:07:20.8340] - DEBUG - [Save session: 26] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:07:20.8340] - DEBUG - [Save session: 26] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:07:45.4910] - DEBUG - [Save session: 27] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:07:45.4910] - DEBUG - [Save session: 27] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:08:13.2020] - DEBUG - [Save session: 28] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:08:13.2020] - DEBUG - [Save session: 28] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:08:37.3930] - DEBUG - [Save session: 29] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:08:37.3940] - DEBUG - [Save session: 29] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:08:58.8600] - DEBUG - [Save session: 30] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:08:58.8600] - DEBUG - [Save session: 30] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:09:29.3530] - DEBUG - [Save session: 31] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:09:29.3530] - DEBUG - [Save session: 31] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:09:33.7020] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 13.09.33.zip
+[2020-12-23 13:19:33.8030] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 13.19.33.zip
+[2020-12-23 13:20:49.9610] - DEBUG - [Save session: 32] Started, operation: autosaveInPlaceOperation
+[2020-12-23 13:20:49.9610] - DEBUG - [Save session: 32] Before container.writeChanges
+[2020-12-23 13:20:49.9610] - DEBUG - [Save session: 32] Before waitUsingRecursiveRunLoop
+[2020-12-23 13:20:49.9760] - DEBUG - [Save session: 32] Completed container.writeChanges
+[2020-12-23 13:20:49.9760] - DEBUG - [Save session: 32] Completed waitUsingRecursiveRunLoop
+[2020-12-23 13:20:50.0220] - DEBUG - [Save session: 32] Completed super.save
+[2020-12-23 13:20:53.5630] - DEBUG - [Save session: 33] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:20:53.5630] - DEBUG - [Save session: 33] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:21:00.2930] - DEBUG - [Save session: 34] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:21:00.2930] - DEBUG - [Save session: 34] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:21:10.8430] - DEBUG - [Save session: 35] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:21:10.8430] - DEBUG - [Save session: 35] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:21:47.9370] - DEBUG - [Save session: 36] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:21:47.9370] - DEBUG - [Save session: 36] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:22:05.5900] - DEBUG - [Save session: 37] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:22:05.5910] - DEBUG - [Save session: 37] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:22:20.4240] - DEBUG - [Save session: 38] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:22:20.4240] - DEBUG - [Save session: 38] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:22:25.6990] - DEBUG - [Save session: 39] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:22:25.6990] - DEBUG - [Save session: 39] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:22:28.7180] - DEBUG - [Save session: 40] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:22:28.7180] - DEBUG - [Save session: 40] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:22:45.0340] - DEBUG - [Save session: 41] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:22:45.0340] - DEBUG - [Save session: 41] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:23:12.0090] - DEBUG - [Save session: 42] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:23:12.0090] - DEBUG - [Save session: 42] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:23:55.9320] - DEBUG - [Save session: 43] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:23:55.9330] - DEBUG - [Save session: 43] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:24:24.6900] - DEBUG - [Save session: 44] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:24:24.6900] - DEBUG - [Save session: 44] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:25:04.8270] - DEBUG - [Save session: 45] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:25:04.8270] - DEBUG - [Save session: 45] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:25:11.8510] - DEBUG - [Save session: 46] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:25:11.8510] - DEBUG - [Save session: 46] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:25:18.3430] - DEBUG - [Save session: 47] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:25:18.3440] - DEBUG - [Save session: 47] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:25:55.0670] - DEBUG - [Save session: 48] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:25:55.0670] - DEBUG - [Save session: 48] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:26:01.2840] - DEBUG - [Save session: 49] Started, operation: autosaveInPlaceOperation
+[2020-12-23 13:26:01.2840] - DEBUG - [Save session: 49] Before container.writeChanges
+[2020-12-23 13:26:01.2840] - DEBUG - [Save session: 49] Before waitUsingRecursiveRunLoop
+[2020-12-23 13:26:01.3000] - DEBUG - [Save session: 49] Completed container.writeChanges
+[2020-12-23 13:26:01.3000] - DEBUG - [Save session: 49] Completed waitUsingRecursiveRunLoop
+[2020-12-23 13:26:01.3510] - DEBUG - [Save session: 49] Completed super.save
+[2020-12-23 13:26:08.2170] - DEBUG - [Save session: 50] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:26:08.2170] - DEBUG - [Save session: 50] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:26:52.5440] - DEBUG - [Save session: 51] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:26:52.5440] - DEBUG - [Save session: 51] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:27:05.6300] - DEBUG - [Save session: 52] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:27:05.6300] - DEBUG - [Save session: 52] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:27:57.0910] - DEBUG - [Save session: 53] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:27:57.0910] - DEBUG - [Save session: 53] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:28:27.1640] - DEBUG - [Save session: 54] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:28:27.1640] - DEBUG - [Save session: 54] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:28:50.5940] - DEBUG - [Save session: 55] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:28:50.5940] - DEBUG - [Save session: 55] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:29:05.8910] - DEBUG - [Save session: 56] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:29:05.8910] - DEBUG - [Save session: 56] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:29:10.9830] - DEBUG - [Save session: 57] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:29:10.9830] - DEBUG - [Save session: 57] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:29:40.5370] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 13.29.40.zip
+[2020-12-23 13:33:02.8930] - DEBUG - [Save session: 58] Started, operation: autosaveInPlaceOperation
+[2020-12-23 13:33:02.8930] - DEBUG - [Save session: 58] Before container.writeChanges
+[2020-12-23 13:33:02.8930] - DEBUG - [Save session: 58] Before waitUsingRecursiveRunLoop
+[2020-12-23 13:33:02.9900] - DEBUG - [Save session: 58] Completed container.writeChanges
+[2020-12-23 13:33:02.9910] - DEBUG - [Save session: 58] Completed waitUsingRecursiveRunLoop
+[2020-12-23 13:33:03.0370] - DEBUG - [Save session: 58] Completed super.save
+[2020-12-23 13:33:17.2290] - DEBUG - [Save session: 59] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:33:17.2300] - DEBUG - [Save session: 59] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:33:20.1100] - DEBUG - [Save session: 60] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:33:20.1100] - DEBUG - [Save session: 60] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:33:58.6800] - DEBUG - [Save session: 61] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:33:58.6800] - DEBUG - [Save session: 61] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:34:15.0220] - DEBUG - [Save session: 62] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:34:15.0220] - DEBUG - [Save session: 62] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:35:06.6260] - DEBUG - [Save session: 63] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:35:06.6260] - DEBUG - [Save session: 63] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:35:28.5110] - DEBUG - [Save session: 64] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:35:28.5110] - DEBUG - [Save session: 64] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:35:45.9130] - DEBUG - [Save session: 65] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:35:45.9130] - DEBUG - [Save session: 65] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:35:50.4630] - DEBUG - [Save session: 66] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:35:50.4630] - DEBUG - [Save session: 66] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:35:52.7360] - DEBUG - [Save session: 67] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:35:52.7360] - DEBUG - [Save session: 67] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:35:55.1890] - DEBUG - [Save session: 68] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:35:55.1890] - DEBUG - [Save session: 68] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:35:57.7990] - DEBUG - [Save session: 69] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:35:57.7990] - DEBUG - [Save session: 69] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:36:01.5860] - DEBUG - [Save session: 70] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:36:01.5860] - DEBUG - [Save session: 70] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:36:04.0590] - DEBUG - [Save session: 71] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:36:04.0590] - DEBUG - [Save session: 71] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:36:05.7760] - DEBUG - [Save session: 72] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:36:05.7760] - DEBUG - [Save session: 72] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:36:21.6720] - DEBUG - [Save session: 73] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:36:21.6720] - DEBUG - [Save session: 73] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:38:24.8010] - DEBUG - [Save session: 74] Started, operation: autosaveInPlaceOperation
+[2020-12-23 13:38:24.8020] - DEBUG - [Save session: 74] Before container.writeChanges
+[2020-12-23 13:38:24.8020] - DEBUG - [Save session: 74] Before waitUsingRecursiveRunLoop
+[2020-12-23 13:38:24.8330] - DEBUG - [Save session: 74] Completed container.writeChanges
+[2020-12-23 13:38:24.8330] - DEBUG - [Save session: 74] Completed waitUsingRecursiveRunLoop
+[2020-12-23 13:38:24.8460] - DEBUG - [Save session: 74] Completed super.save
+[2020-12-23 13:38:51.0210] - DEBUG - [Save session: 75] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:38:51.0220] - DEBUG - [Save session: 75] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:39:23.3070] - DEBUG - [Save session: 76] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:39:23.3070] - DEBUG - [Save session: 76] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:39:40.7700] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 13.39.40.zip
+[2020-12-23 13:42:00.2460] - DEBUG - [Save session: 77] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:42:00.2460] - DEBUG - [Save session: 77] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:42:13.1530] - DEBUG - [Save session: 78] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:42:13.1530] - DEBUG - [Save session: 78] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:42:18.9360] - DEBUG - [Save session: 79] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:42:18.9360] - DEBUG - [Save session: 79] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:43:01.4200] - DEBUG - [Save session: 80] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:43:01.4200] - DEBUG - [Save session: 80] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:43:07.9090] - DEBUG - [Save session: 81] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:43:07.9090] - DEBUG - [Save session: 81] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:43:19.1720] - DEBUG - [Save session: 82] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:43:19.1720] - DEBUG - [Save session: 82] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:43:23.1300] - DEBUG - [Save session: 83] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:43:23.1300] - DEBUG - [Save session: 83] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:43:24.2970] - DEBUG - [Save session: 84] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 13:43:24.2980] - DEBUG - [Save session: 84] Not autosaving to archive, implicitly cancellable
+[2020-12-23 13:43:27.1520] - DEBUG - [Save session: 85] Started, operation: autosaveInPlaceOperation
+[2020-12-23 13:43:27.1520] - DEBUG - [Save session: 85] Before container.writeChanges
+[2020-12-23 13:43:27.1520] - DEBUG - [Save session: 85] Before waitUsingRecursiveRunLoop
+[2020-12-23 13:43:27.1670] - DEBUG - [Save session: 85] Completed container.writeChanges
+[2020-12-23 13:43:27.1670] - DEBUG - [Save session: 85] Completed waitUsingRecursiveRunLoop
+[2020-12-23 13:43:27.2050] - DEBUG - [Save session: 85] Completed super.save
+[2020-12-23 13:49:40.8710] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 13.49.40.zip
+[2020-12-23 13:59:40.8590] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 13.59.40.zip
+[2020-12-23 14:01:24.0170] - DEBUG - [Save session: 86] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:01:24.0170] - DEBUG - [Save session: 86] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:01:30.3680] - DEBUG - [Save session: 87] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:01:30.3680] - DEBUG - [Save session: 87] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:01:38.0360] - DEBUG - [Save session: 88] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:01:38.0360] - DEBUG - [Save session: 88] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:01:46.9570] - DEBUG - [Save session: 89] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:01:46.9570] - DEBUG - [Save session: 89] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:02:45.0380] - DEBUG - [Save session: 90] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:02:45.0380] - DEBUG - [Save session: 90] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:02:46.4350] - DEBUG - [Save session: 91] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:02:46.4350] - DEBUG - [Save session: 91] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:02:57.1020] - DEBUG - [Save session: 92] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:02:57.1020] - DEBUG - [Save session: 92] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:03:27.9470] - DEBUG - [Save session: 93] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:03:27.9470] - DEBUG - [Save session: 93] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:03:40.1550] - INFO - GET 200 /design/document.json 0 B (79ms)
+[2020-12-23 14:03:51.1640] - DEBUG - [Save session: 94] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:03:51.1640] - DEBUG - [Save session: 94] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:03:57.1630] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-23 14:03:57.3330] - DEBUG - [Save session: 95] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:03:57.3330] - DEBUG - [Save session: 95] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:04:01.4390] - DEBUG - [Save session: 96] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:04:01.4390] - DEBUG - [Save session: 96] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:05:01.7870] - DEBUG - [Save session: 97] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:05:01.7870] - DEBUG - [Save session: 97] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:05:48.1660] - DEBUG - [Save session: 98] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:05:48.1660] - DEBUG - [Save session: 98] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:05:52.5140] - DEBUG - [Save session: 99] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:05:52.5140] - DEBUG - [Save session: 99] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:05:54.1990] - DEBUG - [Save session: 100] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:05:54.1990] - DEBUG - [Save session: 100] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:06:03.3510] - DEBUG - [Save session: 101] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:06:03.3510] - DEBUG - [Save session: 101] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:06:10.5180] - DEBUG - [Save session: 102] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:06:10.5180] - DEBUG - [Save session: 102] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:06:11.1850] - DEBUG - [Save session: 103] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:06:11.1850] - DEBUG - [Save session: 103] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:06:26.3530] - DEBUG - [Save session: 104] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:06:26.3530] - DEBUG - [Save session: 104] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:06:31.9710] - DEBUG - [Save session: 105] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:06:31.9710] - DEBUG - [Save session: 105] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:06:37.0730] - DEBUG - [Save session: 106] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:06:37.0730] - DEBUG - [Save session: 106] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:08:09.5500] - DEBUG - [Save session: 107] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:08:09.5500] - DEBUG - [Save session: 107] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:08:15.5670] - DEBUG - [Save session: 108] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:08:15.5670] - DEBUG - [Save session: 108] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:08:22.6030] - DEBUG - [Save session: 109] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:08:22.6030] - DEBUG - [Save session: 109] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:08:29.3880] - DEBUG - [Save session: 110] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:08:29.3880] - DEBUG - [Save session: 110] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:08:33.7540] - DEBUG - [Save session: 111] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:08:33.7540] - DEBUG - [Save session: 111] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:09:41.8120] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 14.09.41.zip
+[2020-12-23 14:12:18.4370] - DEBUG - [Save session: 112] Started, operation: autosaveInPlaceOperation
+[2020-12-23 14:12:18.4370] - DEBUG - [Save session: 112] Before container.writeChanges
+[2020-12-23 14:12:18.4370] - DEBUG - [Save session: 112] Before waitUsingRecursiveRunLoop
+[2020-12-23 14:12:18.4450] - DEBUG - [Save session: 112] Completed container.writeChanges
+[2020-12-23 14:12:18.4450] - DEBUG - [Save session: 112] Completed waitUsingRecursiveRunLoop
+[2020-12-23 14:12:18.4960] - DEBUG - [Save session: 112] Completed super.save
+[2020-12-23 14:12:25.6520] - DEBUG - [Save session: 113] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:12:25.6520] - DEBUG - [Save session: 113] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:12:41.6680] - DEBUG - [Save session: 114] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:12:41.6690] - DEBUG - [Save session: 114] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:12:49.6550] - DEBUG - [Save session: 115] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:12:49.6550] - DEBUG - [Save session: 115] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:12:53.6210] - DEBUG - [Save session: 116] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:12:53.6210] - DEBUG - [Save session: 116] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:13:19.1740] - DEBUG - [Save session: 117] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:13:19.1740] - DEBUG - [Save session: 117] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:13:33.3090] - DEBUG - [Save session: 118] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:13:33.3090] - DEBUG - [Save session: 118] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:14:32.2050] - DEBUG - [Save session: 119] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:14:32.2050] - DEBUG - [Save session: 119] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:14:59.4380] - DEBUG - [Save session: 120] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:14:59.4380] - DEBUG - [Save session: 120] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:15:06.8550] - DEBUG - [Save session: 121] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:15:06.8550] - DEBUG - [Save session: 121] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:15:14.2740] - DEBUG - [Save session: 122] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:15:14.2740] - DEBUG - [Save session: 122] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:15:21.0400] - DEBUG - [Save session: 123] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:15:21.0410] - DEBUG - [Save session: 123] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:15:49.9580] - DEBUG - [Save session: 124] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:15:49.9590] - DEBUG - [Save session: 124] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:16:11.2470] - DEBUG - [Save session: 125] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:16:11.2480] - DEBUG - [Save session: 125] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:16:17.8390] - DEBUG - [Save session: 126] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:16:17.8400] - DEBUG - [Save session: 126] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:18:28.6460] - DEBUG - [Save session: 127] Started, operation: autosaveInPlaceOperation
+[2020-12-23 14:18:28.6460] - DEBUG - [Save session: 127] Before container.writeChanges
+[2020-12-23 14:18:28.6460] - DEBUG - [Save session: 127] Before waitUsingRecursiveRunLoop
+[2020-12-23 14:18:28.6530] - DEBUG - [Save session: 127] Completed container.writeChanges
+[2020-12-23 14:18:28.6530] - DEBUG - [Save session: 127] Completed waitUsingRecursiveRunLoop
+[2020-12-23 14:18:28.6990] - DEBUG - [Save session: 127] Completed super.save
+[2020-12-23 14:18:34.8590] - DEBUG - [Save session: 128] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:18:34.8590] - DEBUG - [Save session: 128] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:18:58.4850] - DEBUG - [Save session: 129] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:18:58.4850] - DEBUG - [Save session: 129] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:19:03.8710] - DEBUG - [Save session: 130] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:19:03.8710] - DEBUG - [Save session: 130] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:19:11.8540] - DEBUG - [Save session: 131] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:19:11.8550] - DEBUG - [Save session: 131] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:19:18.1880] - DEBUG - [Save session: 132] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:19:18.1890] - DEBUG - [Save session: 132] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:19:28.2540] - DEBUG - [Save session: 133] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:19:28.2540] - DEBUG - [Save session: 133] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:19:30.7520] - DEBUG - [Save session: 134] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:19:30.7520] - DEBUG - [Save session: 134] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:19:40.2760] - DEBUG - [Save session: 135] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:19:40.2760] - DEBUG - [Save session: 135] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:19:42.0650] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 14.19.42.zip
+[2020-12-23 14:19:49.8770] - DEBUG - [Save session: 136] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:19:49.8770] - DEBUG - [Save session: 136] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:20:26.0010] - DEBUG - [Save session: 137] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:20:26.0020] - DEBUG - [Save session: 137] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:20:50.0240] - DEBUG - [Save session: 138] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:20:50.0240] - DEBUG - [Save session: 138] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:21:36.4310] - DEBUG - [Save session: 139] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:21:36.4310] - DEBUG - [Save session: 139] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:22:06.7160] - DEBUG - [Save session: 140] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:22:06.7160] - DEBUG - [Save session: 140] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:22:14.4270] - DEBUG - [Save session: 141] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:22:14.4270] - DEBUG - [Save session: 141] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:22:20.3630] - DEBUG - [Save session: 142] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:22:20.3630] - DEBUG - [Save session: 142] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:22:37.3820] - DEBUG - [Save session: 143] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:22:37.3820] - DEBUG - [Save session: 143] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:22:43.7940] - DEBUG - [Save session: 144] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:22:43.7940] - DEBUG - [Save session: 144] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:23:30.9000] - DEBUG - [Save session: 145] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:23:30.9000] - DEBUG - [Save session: 145] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:23:30.9640] - DEBUG - [Save session: 146] Started, operation: autosaveInPlaceOperation
+[2020-12-23 14:23:30.9640] - DEBUG - [Save session: 146] Before container.writeChanges
+[2020-12-23 14:23:30.9640] - DEBUG - [Save session: 146] Before waitUsingRecursiveRunLoop
+[2020-12-23 14:23:31.1540] - DEBUG - [Save session: 146] Completed container.writeChanges
+[2020-12-23 14:23:31.1550] - DEBUG - [Save session: 146] Completed waitUsingRecursiveRunLoop
+[2020-12-23 14:23:31.2580] - DEBUG - [Save session: 146] Completed super.save
+[2020-12-23 14:23:32.8200] - DEBUG - [Save session: 147] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:23:32.8200] - DEBUG - [Save session: 147] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:23:46.0710] - DEBUG - [Save session: 148] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:23:46.0710] - DEBUG - [Save session: 148] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:23:51.3950] - DEBUG - [Save session: 149] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:23:51.3950] - DEBUG - [Save session: 149] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:24:34.8030] - DEBUG - [Save session: 150] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:24:34.8030] - DEBUG - [Save session: 150] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:24:44.4230] - DEBUG - [Save session: 151] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:24:44.4230] - DEBUG - [Save session: 151] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:25:02.5300] - DEBUG - [Save session: 152] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:25:02.5300] - DEBUG - [Save session: 152] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:25:05.8480] - DEBUG - [Save session: 153] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:25:05.8480] - DEBUG - [Save session: 153] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:25:30.0450] - DEBUG - [Save session: 154] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:25:30.0450] - DEBUG - [Save session: 154] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:25:46.6790] - DEBUG - [Save session: 155] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:25:46.6790] - DEBUG - [Save session: 155] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:25:59.0570] - DEBUG - [Save session: 156] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:25:59.0570] - DEBUG - [Save session: 156] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:26:06.1590] - DEBUG - [Save session: 157] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:26:06.1590] - DEBUG - [Save session: 157] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:26:12.9420] - DEBUG - [Save session: 158] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:26:12.9420] - DEBUG - [Save session: 158] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:26:27.8450] - DEBUG - [Save session: 159] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:26:27.8450] - DEBUG - [Save session: 159] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:26:39.0290] - DEBUG - [Save session: 160] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:26:39.0290] - DEBUG - [Save session: 160] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:27:11.8340] - DEBUG - [Save session: 161] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:27:11.8340] - DEBUG - [Save session: 161] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:27:50.8550] - DEBUG - [Save session: 162] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:27:50.8550] - DEBUG - [Save session: 162] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:27:57.6780] - DEBUG - [Save session: 163] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:27:57.6780] - DEBUG - [Save session: 163] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:28:09.3230] - DEBUG - [Save session: 164] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:28:09.3230] - DEBUG - [Save session: 164] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:29:10.4150] - DEBUG - [Save session: 165] Started, operation: autosaveInPlaceOperation
+[2020-12-23 14:29:10.4150] - DEBUG - [Save session: 165] Before container.writeChanges
+[2020-12-23 14:29:10.4150] - DEBUG - [Save session: 165] Before waitUsingRecursiveRunLoop
+[2020-12-23 14:29:10.5020] - DEBUG - [Save session: 165] Completed container.writeChanges
+[2020-12-23 14:29:10.5020] - DEBUG - [Save session: 165] Completed waitUsingRecursiveRunLoop
+[2020-12-23 14:29:10.5080] - DEBUG - [Save session: 165] Completed super.save
+[2020-12-23 14:29:42.6670] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 14.29.42.zip
+[2020-12-23 14:39:23.6690] - DEBUG - [Save session: 166] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:39:23.6690] - DEBUG - [Save session: 166] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:39:36.7160] - DEBUG - [Save session: 167] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:39:36.7160] - DEBUG - [Save session: 167] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:39:42.6680] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 14.39.42.zip
+[2020-12-23 14:41:10.7010] - DEBUG - [Save session: 168] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:41:10.7010] - DEBUG - [Save session: 168] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:41:26.5120] - DEBUG - [Save session: 169] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:41:26.5120] - DEBUG - [Save session: 169] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:41:28.5400] - DEBUG - [Save session: 170] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:41:28.5400] - DEBUG - [Save session: 170] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:41:43.7800] - DEBUG - [Save session: 171] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:41:43.7800] - DEBUG - [Save session: 171] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:42:53.1990] - DEBUG - [Save session: 172] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:42:53.1990] - DEBUG - [Save session: 172] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:43:19.9460] - DEBUG - [Save session: 173] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:43:19.9460] - DEBUG - [Save session: 173] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:43:26.8750] - DEBUG - [Save session: 174] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:43:26.8750] - DEBUG - [Save session: 174] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:43:37.2290] - DEBUG - [Save session: 175] Started, operation: autosaveInPlaceOperation
+[2020-12-23 14:43:37.2290] - DEBUG - [Save session: 175] Before container.writeChanges
+[2020-12-23 14:43:37.2290] - DEBUG - [Save session: 175] Before waitUsingRecursiveRunLoop
+[2020-12-23 14:43:37.2420] - DEBUG - [Save session: 175] Completed container.writeChanges
+[2020-12-23 14:43:37.2430] - DEBUG - [Save session: 175] Completed waitUsingRecursiveRunLoop
+[2020-12-23 14:43:37.2530] - DEBUG - [Save session: 175] Completed super.save
+[2020-12-23 14:43:54.2230] - DEBUG - [Save session: 176] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:43:54.2230] - DEBUG - [Save session: 176] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:44:17.6360] - DEBUG - [Save session: 177] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:44:17.6360] - DEBUG - [Save session: 177] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:44:29.6040] - DEBUG - [Save session: 178] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:44:29.6040] - DEBUG - [Save session: 178] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:44:43.9720] - DEBUG - [Save session: 179] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:44:43.9720] - DEBUG - [Save session: 179] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:44:47.6910] - DEBUG - [Save session: 180] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:44:47.6910] - DEBUG - [Save session: 180] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:44:52.0740] - DEBUG - [Save session: 181] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:44:52.0740] - DEBUG - [Save session: 181] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:44:58.7090] - DEBUG - [Save session: 182] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:44:58.7090] - DEBUG - [Save session: 182] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:45:25.2290] - DEBUG - [Save session: 183] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:45:25.2290] - DEBUG - [Save session: 183] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:45:27.5160] - DEBUG - [Save session: 184] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:45:27.5160] - DEBUG - [Save session: 184] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:45:47.3820] - DEBUG - [Save session: 185] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:45:47.3820] - DEBUG - [Save session: 185] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:45:52.9980] - DEBUG - [Save session: 186] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:45:52.9980] - DEBUG - [Save session: 186] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:46:46.4310] - DEBUG - [Save session: 187] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:46:46.4310] - DEBUG - [Save session: 187] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:48:24.8190] - DEBUG - [Save session: 188] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:48:24.8190] - DEBUG - [Save session: 188] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:48:30.2530] - DEBUG - [Save session: 189] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:48:30.2530] - DEBUG - [Save session: 189] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:48:53.1240] - DEBUG - [Save session: 190] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:48:53.1240] - DEBUG - [Save session: 190] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:48:56.2390] - DEBUG - [Save session: 191] Started, operation: autosaveInPlaceOperation
+[2020-12-23 14:48:56.2390] - DEBUG - [Save session: 191] Before container.writeChanges
+[2020-12-23 14:48:56.2390] - DEBUG - [Save session: 191] Before waitUsingRecursiveRunLoop
+[2020-12-23 14:48:56.2520] - DEBUG - [Save session: 191] Completed container.writeChanges
+[2020-12-23 14:48:56.2520] - DEBUG - [Save session: 191] Completed waitUsingRecursiveRunLoop
+[2020-12-23 14:48:56.2570] - DEBUG - [Save session: 191] Completed super.save
+[2020-12-23 14:49:21.2610] - DEBUG - [Save session: 192] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:49:21.2610] - DEBUG - [Save session: 192] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:49:33.0940] - DEBUG - [Save session: 193] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:49:33.0940] - DEBUG - [Save session: 193] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:49:43.6480] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 14.49.43.zip
+[2020-12-23 14:49:54.1380] - DEBUG - [Save session: 194] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:49:54.1380] - DEBUG - [Save session: 194] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:51:11.1390] - DEBUG - [Save session: 195] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:51:11.1390] - DEBUG - [Save session: 195] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:51:26.3940] - DEBUG - [Save session: 196] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:51:26.3940] - DEBUG - [Save session: 196] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:51:29.4160] - DEBUG - [Save session: 197] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:51:29.4160] - DEBUG - [Save session: 197] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:53:40.3680] - DEBUG - [Save session: 198] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:53:40.3680] - DEBUG - [Save session: 198] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:53:58.5940] - DEBUG - [Save session: 199] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:53:58.5940] - DEBUG - [Save session: 199] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:54:00.1670] - DEBUG - [Save session: 200] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:54:00.1670] - DEBUG - [Save session: 200] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:54:02.2310] - DEBUG - [Save session: 201] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:54:02.2310] - DEBUG - [Save session: 201] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:54:04.3200] - DEBUG - [Save session: 202] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:54:04.3210] - DEBUG - [Save session: 202] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:54:10.0650] - DEBUG - [Save session: 203] Started, operation: autosaveInPlaceOperation
+[2020-12-23 14:54:10.0650] - DEBUG - [Save session: 203] Before container.writeChanges
+[2020-12-23 14:54:10.0650] - DEBUG - [Save session: 203] Before waitUsingRecursiveRunLoop
+[2020-12-23 14:54:10.1630] - DEBUG - [Save session: 203] Completed container.writeChanges
+[2020-12-23 14:54:10.1630] - DEBUG - [Save session: 203] Completed waitUsingRecursiveRunLoop
+[2020-12-23 14:54:10.1880] - DEBUG - [Save session: 203] Completed super.save
+[2020-12-23 14:54:37.4350] - DEBUG - [Save session: 204] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:54:37.4360] - DEBUG - [Save session: 204] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:55:25.6960] - DEBUG - [Save session: 205] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:55:25.6960] - DEBUG - [Save session: 205] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:56:19.7380] - DEBUG - [Save session: 206] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:56:19.7380] - DEBUG - [Save session: 206] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:56:57.8360] - DEBUG - [Save session: 207] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:56:57.8360] - DEBUG - [Save session: 207] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:57:27.3020] - DEBUG - [Save session: 208] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:57:27.3020] - DEBUG - [Save session: 208] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:58:07.0600] - DEBUG - [Save session: 209] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:58:07.0600] - DEBUG - [Save session: 209] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:58:31.8450] - DEBUG - [Save session: 210] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:58:31.8450] - DEBUG - [Save session: 210] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:58:53.1840] - DEBUG - [Save session: 211] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:58:53.1840] - DEBUG - [Save session: 211] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:59:05.2690] - DEBUG - [Save session: 212] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:59:05.2690] - DEBUG - [Save session: 212] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:59:09.3940] - DEBUG - [Save session: 213] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 14:59:09.3940] - DEBUG - [Save session: 213] Not autosaving to archive, implicitly cancellable
+[2020-12-23 14:59:43.6930] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 14.59.43.zip
+[2020-12-23 15:01:12.0430] - DEBUG - [Save session: 214] Started, operation: autosaveInPlaceOperation
+[2020-12-23 15:01:12.0430] - DEBUG - [Save session: 214] Before container.writeChanges
+[2020-12-23 15:01:12.0430] - DEBUG - [Save session: 214] Before waitUsingRecursiveRunLoop
+[2020-12-23 15:01:12.0560] - DEBUG - [Save session: 214] Completed container.writeChanges
+[2020-12-23 15:01:12.0560] - DEBUG - [Save session: 214] Completed waitUsingRecursiveRunLoop
+[2020-12-23 15:01:12.0610] - DEBUG - [Save session: 214] Completed super.save
+[2020-12-23 15:02:57.9180] - DEBUG - [Save session: 215] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:02:57.9180] - DEBUG - [Save session: 215] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:03:43.7390] - DEBUG - [Save session: 216] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:03:43.7390] - DEBUG - [Save session: 216] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:04:01.4420] - DEBUG - [Save session: 217] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:04:01.4420] - DEBUG - [Save session: 217] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:04:44.6470] - DEBUG - [Save session: 218] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:04:44.6470] - DEBUG - [Save session: 218] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:04:56.9500] - DEBUG - [Save session: 219] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:04:56.9500] - DEBUG - [Save session: 219] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:05:32.7730] - DEBUG - [Save session: 220] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:05:32.7740] - DEBUG - [Save session: 220] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:06:01.6060] - DEBUG - [Save session: 221] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:06:01.6060] - DEBUG - [Save session: 221] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:08:49.0150] - DEBUG - [Save session: 222] Started, operation: autosaveInPlaceOperation
+[2020-12-23 15:08:49.0150] - DEBUG - [Save session: 222] Before container.writeChanges
+[2020-12-23 15:08:49.0150] - DEBUG - [Save session: 222] Before waitUsingRecursiveRunLoop
+[2020-12-23 15:08:49.0300] - DEBUG - [Save session: 222] Completed container.writeChanges
+[2020-12-23 15:08:49.0300] - DEBUG - [Save session: 222] Completed waitUsingRecursiveRunLoop
+[2020-12-23 15:08:49.0360] - DEBUG - [Save session: 222] Completed super.save
+[2020-12-23 15:08:53.5510] - DEBUG - [Save session: 223] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:08:53.5510] - DEBUG - [Save session: 223] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:09:06.8770] - DEBUG - [Save session: 224] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:09:06.8770] - DEBUG - [Save session: 224] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:09:46.7670] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 15.09.46.zip
+[2020-12-23 15:11:26.6350] - DEBUG - [Save session: 225] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:11:26.6350] - DEBUG - [Save session: 225] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:11:29.5340] - DEBUG - [Save session: 226] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:11:29.5340] - DEBUG - [Save session: 226] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:11:41.6850] - DEBUG - [Save session: 227] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:11:41.6850] - DEBUG - [Save session: 227] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:11:48.3530] - DEBUG - [Save session: 228] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:11:48.3530] - DEBUG - [Save session: 228] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:11:50.5550] - DEBUG - [Save session: 229] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:11:50.5550] - DEBUG - [Save session: 229] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:12:14.5090] - DEBUG - [Save session: 230] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:12:14.5090] - DEBUG - [Save session: 230] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:12:19.6730] - DEBUG - [Save session: 231] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:12:19.6730] - DEBUG - [Save session: 231] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:12:27.2230] - DEBUG - [Save session: 232] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:12:27.2230] - DEBUG - [Save session: 232] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:12:43.5600] - DEBUG - [Save session: 233] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:12:43.5600] - DEBUG - [Save session: 233] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:12:46.8950] - DEBUG - [Save session: 234] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:12:46.8950] - DEBUG - [Save session: 234] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:13:08.6410] - INFO - GET 200 /design/images/YpTEQ3HDAjP264E7dC4XCDDUk.png 29.2 kB (5ms)
+[2020-12-23 15:13:08.6410] - INFO - GET 404 /.cache/images/512/YpTEQ3HDAjP264E7dC4XCDDUk.png 186 B (3ms)
+[2020-12-23 15:13:15.8420] - INFO - GET 200 /design/images/ADlW8A3ECRlge5X9NsKUcoJYo3Y.png 11.5 kB (1ms)
+[2020-12-23 15:13:15.8420] - INFO - GET 404 /.cache/images/512/ADlW8A3ECRlge5X9NsKUcoJYo3Y.png 188 B (3ms)
+[2020-12-23 15:13:22.7550] - DEBUG - [Save session: 235] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:13:22.7550] - DEBUG - [Save session: 235] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:13:38.0710] - INFO - GET 200 /design/images/uqUTlSEBXnpQKJkWb9IOaPZN7Ls.png 21.7 kB (1ms)
+[2020-12-23 15:13:38.0720] - INFO - GET 404 /.cache/images/512/uqUTlSEBXnpQKJkWb9IOaPZN7Ls.png 188 B (1ms)
+[2020-12-23 15:13:40.7320] - DEBUG - [Save session: 236] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:13:40.7320] - DEBUG - [Save session: 236] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:13:45.1120] - DEBUG - [Save session: 237] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:13:45.1120] - DEBUG - [Save session: 237] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:13:48.7840] - DEBUG - [Save session: 238] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:13:48.7840] - DEBUG - [Save session: 238] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:13:55.8620] - DEBUG - [Save session: 239] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:13:55.8620] - DEBUG - [Save session: 239] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:14:03.3030] - DEBUG - [Save session: 240] Started, operation: autosaveInPlaceOperation
+[2020-12-23 15:14:03.3030] - DEBUG - [Save session: 240] Before container.writeChanges
+[2020-12-23 15:14:03.3030] - DEBUG - [Save session: 240] Before waitUsingRecursiveRunLoop
+[2020-12-23 15:14:03.3160] - DEBUG - [Save session: 240] Completed container.writeChanges
+[2020-12-23 15:14:03.3160] - DEBUG - [Save session: 240] Completed waitUsingRecursiveRunLoop
+[2020-12-23 15:14:03.3210] - DEBUG - [Save session: 240] Completed super.save
+[2020-12-23 15:14:05.7570] - DEBUG - [Save session: 241] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:14:05.7570] - DEBUG - [Save session: 241] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:15:02.0630] - DEBUG - [Save session: 242] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:15:02.0630] - DEBUG - [Save session: 242] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:15:04.1990] - DEBUG - [Save session: 243] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:15:04.1990] - DEBUG - [Save session: 243] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:15:26.6650] - DEBUG - [Save session: 244] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:15:26.6660] - DEBUG - [Save session: 244] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:15:28.1250] - INFO - GET 404 /.cache/images/512/YpTEQ3HDAjP264E7dC4XCDDUk.png 186 B (4ms)
+[2020-12-23 15:15:28.1260] - INFO - GET 404 /.cache/images/512/ADlW8A3ECRlge5X9NsKUcoJYo3Y.png 188 B (4ms)
+[2020-12-23 15:15:28.1280] - INFO - GET 404 /.cache/images/512/uqUTlSEBXnpQKJkWb9IOaPZN7Ls.png 188 B (5ms)
+[2020-12-23 15:15:34.6540] - DEBUG - [Save session: 245] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:15:34.6540] - DEBUG - [Save session: 245] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:16:13.9850] - DEBUG - [Save session: 246] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:16:13.9850] - DEBUG - [Save session: 246] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:17:13.3920] - DEBUG - [Save session: 247] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:17:13.3920] - DEBUG - [Save session: 247] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:17:28.3490] - DEBUG - [Save session: 248] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:17:28.3490] - DEBUG - [Save session: 248] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:17:36.7340] - DEBUG - [Save session: 249] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:17:36.7340] - DEBUG - [Save session: 249] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:18:05.8760] - DEBUG - [Save session: 250] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:18:05.8760] - DEBUG - [Save session: 250] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:19:49.3010] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 15.19.49.zip
+[2020-12-23 15:19:59.3810] - DEBUG - [Save session: 251] Started, operation: autosaveInPlaceOperation
+[2020-12-23 15:19:59.3810] - DEBUG - [Save session: 251] Before container.writeChanges
+[2020-12-23 15:19:59.3810] - DEBUG - [Save session: 251] Before waitUsingRecursiveRunLoop
+[2020-12-23 15:19:59.4040] - DEBUG - [Save session: 251] Completed container.writeChanges
+[2020-12-23 15:19:59.4040] - DEBUG - [Save session: 251] Completed waitUsingRecursiveRunLoop
+[2020-12-23 15:19:59.4130] - DEBUG - [Save session: 251] Completed super.save
+[2020-12-23 15:20:07.3020] - DEBUG - [Save session: 252] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:20:07.3020] - DEBUG - [Save session: 252] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:20:28.0730] - DEBUG - [Save session: 253] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:20:28.0730] - DEBUG - [Save session: 253] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:21:27.1830] - DEBUG - [Save session: 254] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:21:27.1840] - DEBUG - [Save session: 254] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:25:30.0660] - DEBUG - [Save session: 255] Started, operation: autosaveInPlaceOperation
+[2020-12-23 15:25:30.0660] - DEBUG - [Save session: 255] Before container.writeChanges
+[2020-12-23 15:25:30.0660] - DEBUG - [Save session: 255] Before waitUsingRecursiveRunLoop
+[2020-12-23 15:25:30.1550] - DEBUG - [Save session: 255] Completed container.writeChanges
+[2020-12-23 15:25:30.1550] - DEBUG - [Save session: 255] Completed waitUsingRecursiveRunLoop
+[2020-12-23 15:25:30.2060] - DEBUG - [Save session: 255] Completed super.save
+[2020-12-23 15:25:39.3030] - DEBUG - [Save session: 256] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:25:39.3040] - DEBUG - [Save session: 256] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:25:47.4170] - DEBUG - [Save session: 257] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:25:47.4170] - DEBUG - [Save session: 257] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:26:17.0960] - DEBUG - [Save session: 258] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:26:17.0960] - DEBUG - [Save session: 258] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:26:46.8210] - DEBUG - [Save session: 259] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:26:46.8210] - DEBUG - [Save session: 259] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:27:27.3720] - DEBUG - [Save session: 260] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:27:27.3720] - DEBUG - [Save session: 260] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:27:44.7880] - INFO - GET 200 /.cache/images/512/YpTEQ3HDAjP264E7dC4XCDDUk.png 29.2 kB (5ms)
+[2020-12-23 15:27:49.6150] - DEBUG - [Save session: 261] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:27:49.6150] - DEBUG - [Save session: 261] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:28:14.8490] - DEBUG - [Save session: 262] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:28:14.8490] - DEBUG - [Save session: 262] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:28:39.9530] - DEBUG - [Save session: 263] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:28:39.9530] - DEBUG - [Save session: 263] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:29:02.9860] - DEBUG - [Save session: 264] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:29:02.9860] - DEBUG - [Save session: 264] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:29:05.8920] - DEBUG - [Save session: 265] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:29:05.8920] - DEBUG - [Save session: 265] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:29:49.5670] - INFO - Backing up to /Users/seungmee/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-23 15.29.49.zip
+[2020-12-23 15:30:25.9470] - DEBUG - [Save session: 266] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:30:25.9470] - DEBUG - [Save session: 266] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:30:52.6560] - DEBUG - [Save session: 267] Started, operation: autosaveInPlaceOperation
+[2020-12-23 15:30:52.6560] - DEBUG - [Save session: 267] Before container.writeChanges
+[2020-12-23 15:30:52.6560] - DEBUG - [Save session: 267] Before waitUsingRecursiveRunLoop
+[2020-12-23 15:30:52.7410] - DEBUG - [Save session: 267] Completed container.writeChanges
+[2020-12-23 15:30:52.7420] - DEBUG - [Save session: 267] Completed waitUsingRecursiveRunLoop
+[2020-12-23 15:30:52.7540] - DEBUG - [Save session: 267] Completed super.save
+[2020-12-23 15:31:04.0960] - INFO - GET 200 /design/images/CkGZs1mKv9y4PdSB9ZAfWsFfMQ.png 12.8 kB (3ms)
+[2020-12-23 15:31:04.0960] - INFO - GET 200 /.cache/images/512/CkGZs1mKv9y4PdSB9ZAfWsFfMQ.png 12.8 kB (1ms)
+[2020-12-23 15:31:12.2180] - INFO - GET 200 /.cache/images/512/uqUTlSEBXnpQKJkWb9IOaPZN7Ls.png 21.7 kB (1ms)
+[2020-12-23 15:31:15.0810] - DEBUG - [Save session: 268] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:31:15.0810] - DEBUG - [Save session: 268] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:32:11.0040] - DEBUG - [Save session: 269] Started, operation: saveOperation
+[2020-12-23 15:32:11.0040] - DEBUG - [Save session: 269] Before container.writeChanges
+[2020-12-23 15:32:11.0040] - DEBUG - [Save session: 269] Before waitUsingRecursiveRunLoop
+[2020-12-23 15:32:11.0160] - DEBUG - [Save session: 269] Completed container.writeChanges
+[2020-12-23 15:32:11.0170] - DEBUG - [Save session: 269] Completed waitUsingRecursiveRunLoop
+[2020-12-23 15:32:11.0200] - INFO - Marking changed: false
+[2020-12-23 15:32:11.0230] - DEBUG - [Save session: 269] Completed super.save
+[2020-12-23 15:34:35.8490] - DEBUG - [Save session: 270] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:34:35.8490] - DEBUG - [Save session: 270] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:34:46.0970] - DEBUG - [Save session: 271] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:34:46.0980] - DEBUG - [Save session: 271] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:34:50.8680] - DEBUG - [Save session: 272] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:34:50.8680] - DEBUG - [Save session: 272] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:34:52.6710] - DEBUG - [Save session: 273] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:34:52.6710] - DEBUG - [Save session: 273] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:34:55.9720] - DEBUG - [Save session: 274] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:34:55.9720] - DEBUG - [Save session: 274] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:35:02.7250] - DEBUG - [Save session: 275] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:35:02.7250] - DEBUG - [Save session: 275] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:35:11.9710] - DEBUG - [Save session: 276] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:35:11.9710] - DEBUG - [Save session: 276] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:35:18.1090] - DEBUG - [Save session: 277] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:35:18.1090] - DEBUG - [Save session: 277] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:35:53.1580] - DEBUG - [Save session: 278] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:35:53.1580] - DEBUG - [Save session: 278] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:35:53.7190] - DEBUG - [Save session: 279] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:35:53.7190] - DEBUG - [Save session: 279] Not autosaving to archive, implicitly cancellable
+[2020-12-23 15:36:07.8930] - DEBUG - [Save session: 280] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-23 15:36:07.8930] - DEBUG - [Save session: 280] Not autosaving to archive, implicitly cancellable
+
+[2020-12-29 16:34:29.4210] - INFO - Reading from /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-29 16:34:29.4380] - INFO - Done reading
+[2020-12-29 16:34:29.4380] - INFO - Marking changed: false
+[2020-12-29 16:34:29.5170] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-29 16:34:30.1730] - INFO - Project server PID: 47181
+[2020-12-29 16:34:30.3160] - INFO - Installing dependencies…
+[2020-12-29 16:34:30.5780] - ERROR - Tue, 29 Dec 2020 07:34:30 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-29 16:34:30.5870] - INFO - GET 200 /design/document.json 0 B (6ms)
+[2020-12-29 16:34:31.1170] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-29 16:34:32.7320] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:34:32.9300] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:34:33.1580] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:34:33.1590] - INFO - Installing dependencies - DONE. Took 2843ms
+[2020-12-29 16:34:33.3410] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:34:34.1560] - INFO - GET 200 /design/images/CkGZs1mKv9y4PdSB9ZAfWsFfMQ.png 12.8 kB (1ms)
+[2020-12-29 16:34:34.1560] - INFO - GET 200 /design/images/uqUTlSEBXnpQKJkWb9IOaPZN7Ls.png 21.7 kB (1ms)
+[2020-12-29 16:34:34.1570] - INFO - GET 200 /design/images/YpTEQ3HDAjP264E7dC4XCDDUk.png 29.2 kB (1ms)
+[2020-12-29 16:34:49.0570] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:34:49.7270] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:34:50.3400] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:35:01.8890] - DEBUG - [Save session: 0] Started, operation: saveOperation
+[2020-12-29 16:35:01.8890] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-29 16:35:01.8890] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2020-12-29 16:35:01.9030] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-29 16:35:01.9030] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2020-12-29 16:35:01.9040] - INFO - Marking changed: false
+[2020-12-29 16:35:01.9070] - DEBUG - [Save session: 0] Completed super.save
+
+[2020-12-29 16:36:55.9150] - INFO - Reading from /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-29 16:36:55.9330] - INFO - Done reading
+[2020-12-29 16:36:55.9340] - INFO - Marking changed: false
+[2020-12-29 16:36:56.0870] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-29 16:36:56.7240] - INFO - Project server PID: 47594
+[2020-12-29 16:36:56.8440] - INFO - Installing dependencies…
+[2020-12-29 16:36:57.0580] - ERROR - Tue, 29 Dec 2020 07:36:57 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-29 16:36:57.0720] - INFO - GET 200 /design/document.json 0 B (10ms)
+[2020-12-29 16:36:57.5610] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-29 16:36:58.6100] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-29 16:36:58.6110] - INFO - Installing dependencies - DONE. Took 1766ms
+[2020-12-29 16:36:59.4180] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:36:59.5160] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:36:59.6040] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:36:59.7390] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:36:59.8470] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:37:00.0730] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:37:01.0330] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 16:37:01.0340] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-29 16:37:01.0340] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-29 16:37:01.0530] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-29 16:37:16.3920] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:37:16.5780] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:37:16.8000] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:37:18.2660] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:37:46.5590] - INFO - GET 200 /design/images/pUsTrN77YvlojN2Yijbr6q3oug.png 370 kB (1ms)
+[2020-12-29 16:38:41.2390] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 16:38:41.2390] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-12-29 16:38:41.2390] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
+[2020-12-29 16:38:41.2550] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-12-29 16:42:34.8950] - DEBUG - [Save session: 2] Started, operation: autosaveInPlaceOperation
+[2020-12-29 16:42:34.8950] - DEBUG - [Save session: 2] Before container.writeChanges
+[2020-12-29 16:42:34.8950] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2020-12-29 16:42:34.9140] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2020-12-29 16:42:34.9140] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2020-12-29 16:42:34.9210] - DEBUG - [Save session: 2] Completed super.save
+[2020-12-29 16:42:44.8960] - INFO - GET 200 /.cache/images/512/uqUTlSEBXnpQKJkWb9IOaPZN7Ls.png 21.7 kB (2ms)
+[2020-12-29 16:42:44.8970] - INFO - GET 200 /.cache/images/512/CkGZs1mKv9y4PdSB9ZAfWsFfMQ.png 12.8 kB (2ms)
+[2020-12-29 16:42:44.8970] - INFO - GET 200 /.cache/images/512/YpTEQ3HDAjP264E7dC4XCDDUk.png 29.2 kB (2ms)
+[2020-12-29 16:42:53.4440] - INFO - GET 200 /node_modules/framer/build/framer.debug.js.map 0 B (1ms)
+[2020-12-29 16:42:58.8150] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-29 16:42:59.1040] - INFO - GET 304 /node_modules/framer/build/framer.debug.js.map 0 B (0ms)
+[2020-12-29 16:43:04.4550] - DEBUG - [Save session: 3] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 16:43:04.4550] - DEBUG - [Save session: 3] Before container.writeChanges
+[2020-12-29 16:43:04.4550] - DEBUG - [Save session: 3] Not autosaving to archive, implicitly cancellable
+[2020-12-29 16:43:04.4650] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2020-12-29 16:43:28.3220] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 16:43:28.3230] - DEBUG - [Save session: 4] Before container.writeChanges
+[2020-12-29 16:43:28.3230] - DEBUG - [Save session: 4] Not autosaving to archive, implicitly cancellable
+[2020-12-29 16:43:28.3520] - DEBUG - [Save session: 4] Completed container.writeChanges
+
+[2020-12-29 16:45:35.7910] - INFO - Reading from /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-29 16:45:35.8230] - INFO - Done reading
+[2020-12-29 16:45:35.8230] - INFO - Marking changed: false
+[2020-12-29 16:45:35.8890] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-29 16:45:37.0470] - INFO - Project server PID: 48898
+[2020-12-29 16:45:37.2330] - INFO - Installing dependencies…
+[2020-12-29 16:45:37.2750] - ERROR - Tue, 29 Dec 2020 07:45:37 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-29 16:45:37.2900] - INFO - GET 200 /design/document.json 0 B (9ms)
+[2020-12-29 16:45:37.8320] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-29 16:45:39.0230] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:45:39.0240] - INFO - Installing dependencies - DONE. Took 1791ms
+[2020-12-29 16:45:39.9350] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:45:40.0210] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:45:40.1590] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 16:45:53.7450] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 16:45:53.7450] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-29 16:45:53.7450] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-29 16:45:53.7590] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-29 16:46:44.9880] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 16:46:44.9880] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-12-29 16:46:44.9880] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
+[2020-12-29 16:46:44.9950] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-12-29 16:53:54.7880] - DEBUG - [Save session: 2] Started, operation: autosaveInPlaceOperation
+[2020-12-29 16:53:54.7880] - DEBUG - [Save session: 2] Before container.writeChanges
+[2020-12-29 16:53:54.7880] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2020-12-29 16:53:54.7940] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2020-12-29 16:53:54.7940] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2020-12-29 16:53:54.8000] - DEBUG - [Save session: 2] Completed super.save
+[2020-12-29 16:54:06.1420] - DEBUG - [Save session: 3] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 16:54:06.1420] - DEBUG - [Save session: 3] Before container.writeChanges
+[2020-12-29 16:54:06.1420] - DEBUG - [Save session: 3] Not autosaving to archive, implicitly cancellable
+[2020-12-29 16:54:06.1470] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2020-12-29 16:55:36.2750] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-29 16.55.36.zip
+[2020-12-29 17:02:06.4120] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation
+[2020-12-29 17:02:06.4120] - DEBUG - [Save session: 4] Before container.writeChanges
+[2020-12-29 17:02:06.4120] - DEBUG - [Save session: 4] Before waitUsingRecursiveRunLoop
+[2020-12-29 17:02:06.4170] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2020-12-29 17:02:06.4170] - DEBUG - [Save session: 4] Completed waitUsingRecursiveRunLoop
+[2020-12-29 17:02:06.4220] - DEBUG - [Save session: 4] Completed super.save
+[2020-12-29 17:05:46.2850] - INFO - Backing up to /Users/ruucm/Desktop/confetti-canvas/confetti.framerfx/.backups/2020-12-29 17.05.46.zip
+[2020-12-29 17:06:45.4520] - DEBUG - [Save session: 5] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:06:45.4520] - DEBUG - [Save session: 5] Before container.writeChanges
+[2020-12-29 17:06:45.4520] - DEBUG - [Save session: 5] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:06:45.4580] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2020-12-29 17:08:05.9140] - DEBUG - [Save session: 6] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:08:05.9140] - DEBUG - [Save session: 6] Before container.writeChanges
+[2020-12-29 17:08:05.9140] - DEBUG - [Save session: 6] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:08:05.9200] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2020-12-29 17:08:12.6610] - DEBUG - [Save session: 7] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:08:12.6610] - DEBUG - [Save session: 7] Before container.writeChanges
+[2020-12-29 17:08:12.6610] - DEBUG - [Save session: 7] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:08:12.6670] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2020-12-29 17:08:49.1740] - DEBUG - [Save session: 8] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:08:49.1740] - DEBUG - [Save session: 8] Before container.writeChanges
+[2020-12-29 17:08:49.1740] - DEBUG - [Save session: 8] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:08:49.1810] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2020-12-29 17:08:55.7270] - DEBUG - [Save session: 9] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:08:55.7270] - DEBUG - [Save session: 9] Before container.writeChanges
+[2020-12-29 17:08:55.7270] - DEBUG - [Save session: 9] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:08:55.7330] - DEBUG - [Save session: 9] Completed container.writeChanges

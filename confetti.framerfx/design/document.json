@@ -1,0 +1,513 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+      {
+        "__class" : "PageNode",
+        "children" : [
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0,
+            "centerAnchorY" : 0,
+            "children" : [
+              {
+                "__class" : "FrameNode",
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5,
+                "centerAnchorY" : 0.3655753968253968,
+                "children" : [
+
+                ],
+                "clip" : false,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : true,
+                "duplicatedFrom" : null,
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : true,
+                "fillImage" : "pUsTrN77YvlojN2Yijbr6q3oug.png",
+                "fillImageOriginalName" : "",
+                "fillImagePixelHeight" : 1350,
+                "fillImagePixelWidth" : 900,
+                "fillImageResize" : "fill",
+                "fillType" : "image",
+                "framePreset" : null,
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
+                "height" : 675,
+                "heightType" : 0,
+                "id" : "yM6QnQNRm",
+                "intrinsicHeight" : 675,
+                "intrinsicWidth" : 450,
+                "isExternalMaster" : null,
+                "isMaster" : false,
+                "isTarget" : false,
+                "left" : null,
+                "locked" : false,
+                "name" : "Frame",
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Mih7ayDjN",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "replicaInfo" : null,
+                "right" : null,
+                "rotation" : 0,
+                "top" : null,
+                "visible" : true,
+                "width" : 450,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "$control__emojis" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "Cd75kisaj",
+                      "type" : "string",
+                      "value" : "🎉"
+                    },
+                    {
+                      "id" : "nfy8QilLz",
+                      "type" : "string",
+                      "value" : "🤡"
+                    },
+                    {
+                      "id" : "rVvDFcnrH",
+                      "type" : "string",
+                      "value" : "🎄"
+                    }
+                  ]
+                },
+                "$control__friction" : {
+                  "type" : "number",
+                  "value" : 0.69999999999999996
+                },
+                "$control__gravity" : {
+                  "type" : "number",
+                  "value" : 0.02
+                },
+                "$control__imgs" : {
+                  "type" : "array"
+                },
+                "$control__injectionDegree" : {
+                  "type" : "number",
+                  "value" : 120
+                },
+                "$control__launchDegree" : {
+                  "type" : "number",
+                  "value" : -90
+                },
+                "$control__particleColors" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "ZORNJLx1x",
+                      "type" : "color",
+                      "value" : "#1abc9c"
+                    },
+                    {
+                      "id" : "YfiKSAtjp",
+                      "type" : "color",
+                      "value" : "#2ecc71"
+                    },
+                    {
+                      "id" : "clNBOvIc5",
+                      "type" : "color",
+                      "value" : "#f1c40f"
+                    },
+                    {
+                      "id" : "Vp9AUtEVb",
+                      "type" : "color",
+                      "value" : "#e74c3c"
+                    },
+                    {
+                      "id" : "Sqd0uvFLI",
+                      "type" : "color",
+                      "value" : "#c0392b"
+                    },
+                    {
+                      "id" : "FYFhdJGZz",
+                      "type" : "color",
+                      "value" : "#27ae60"
+                    },
+                    {
+                      "id" : "woVo_pcHA",
+                      "type" : "color",
+                      "value" : "#9b59b6"
+                    }
+                  ]
+                },
+                "$control__particleHeight" : {
+                  "type" : "number",
+                  "value" : 15
+                },
+                "$control__particleNumber" : {
+                  "type" : "number",
+                  "value" : 50
+                },
+                "$control__particleSize" : {
+                  "type" : "number",
+                  "value" : 30
+                },
+                "$control__particleWidth" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__play" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__shape" : {
+                  "type" : "segmentedenum",
+                  "value" : "rect"
+                },
+                "$control__type" : {
+                  "type" : "segmentedenum",
+                  "value" : "shape"
+                },
+                "$control__velocity" : {
+                  "type" : "number",
+                  "value" : 10
+                },
+                "$control__wind" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__x" : {
+                  "type" : "number",
+                  "value" : 100
+                },
+                "$control__y" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.48297872340425552,
+                "centerAnchorY" : 0.46726190476190499,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+                "codeComponentPackageVersion" : null,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "Q6j7tyI9u"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 600,
+                "heightType" : 0,
+                "id" : "nVtJNIEo5",
+                "intrinsicHeight" : 600,
+                "intrinsicWidth" : 300,
+                "left" : 77,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Mih7ayDjN",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 93,
+                "rotation" : 0,
+                "top" : 171,
+                "visible" : true,
+                "width" : 300,
+                "widthType" : 0
+              }
+            ],
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "white",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "framePreset" : null,
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 1008,
+            "heightType" : 0,
+            "id" : "Mih7ayDjN",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isScreen" : true,
+            "isTarget" : false,
+            "left" : 313,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "f9RhR5MaI",
+            "previewSettings" : {
+              "__class" : "PreviewSettings",
+              "responsive" : false,
+              "touch" : false
+            },
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "replicaInfo" : null,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 849,
+            "visible" : true,
+            "width" : 470,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "$control__emojis" : {
+              "type" : "array",
+              "value" : [
+                {
+                  "id" : "oXPSfIvkm",
+                  "type" : "string",
+                  "value" : "🎉"
+                },
+                {
+                  "id" : "fXE9kuI6u",
+                  "type" : "string",
+                  "value" : "🤡"
+                },
+                {
+                  "id" : "R2JxoZmLN",
+                  "type" : "string",
+                  "value" : "🎄"
+                }
+              ]
+            },
+            "$control__friction" : {
+              "type" : "number",
+              "value" : 0.69999999999999996
+            },
+            "$control__gravity" : {
+              "type" : "number",
+              "value" : 0.02
+            },
+            "$control__imgs" : {
+              "type" : "array"
+            },
+            "$control__injectionDegree" : {
+              "type" : "number",
+              "value" : 120
+            },
+            "$control__launchDegree" : {
+              "type" : "number",
+              "value" : -90
+            },
+            "$control__particleColors" : {
+              "type" : "array",
+              "value" : [
+                {
+                  "id" : "TcW8LAezJ",
+                  "type" : "color",
+                  "value" : "#1abc9c"
+                },
+                {
+                  "id" : "pLVa5eUch",
+                  "type" : "color",
+                  "value" : "#2ecc71"
+                },
+                {
+                  "id" : "diWGnHqsN",
+                  "type" : "color",
+                  "value" : "#f1c40f"
+                },
+                {
+                  "id" : "hgMm85Uga",
+                  "type" : "color",
+                  "value" : "#e74c3c"
+                },
+                {
+                  "id" : "Q1zKIH7ly",
+                  "type" : "color",
+                  "value" : "#c0392b"
+                },
+                {
+                  "id" : "UdGHYTIS3",
+                  "type" : "color",
+                  "value" : "#27ae60"
+                },
+                {
+                  "id" : "b1OWrDIlk",
+                  "type" : "color",
+                  "value" : "#9b59b6"
+                }
+              ]
+            },
+            "$control__particleHeight" : {
+              "type" : "number",
+              "value" : 15
+            },
+            "$control__particleNumber" : {
+              "type" : "number",
+              "value" : 50
+            },
+            "$control__particleSize" : {
+              "type" : "number",
+              "value" : 30
+            },
+            "$control__particleWidth" : {
+              "type" : "number",
+              "value" : 20
+            },
+            "$control__play" : {
+              "type" : "boolean",
+              "value" : false
+            },
+            "$control__shape" : {
+              "type" : "segmentedenum",
+              "value" : "rect"
+            },
+            "$control__type" : {
+              "type" : "segmentedenum",
+              "value" : "shape"
+            },
+            "$control__velocity" : {
+              "type" : "number",
+              "value" : 10
+            },
+            "$control__wind" : {
+              "type" : "number",
+              "value" : 0
+            },
+            "$control__x" : {
+              "type" : "number",
+              "value" : 100
+            },
+            "$control__y" : {
+              "type" : "number",
+              "value" : 0
+            },
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0,
+            "centerAnchorY" : 0,
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+            "codeComponentPackageVersion" : null,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "Eo7eVmj2g"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 600,
+            "heightType" : 0,
+            "id" : "NrWnPmSZF",
+            "intrinsicHeight" : 600,
+            "intrinsicWidth" : 300,
+            "left" : 933,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "f9RhR5MaI",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 1130,
+            "visible" : true,
+            "width" : 300,
+            "widthType" : 0
+          }
+        ],
+        "duplicatedFrom" : null,
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "homeNodeId" : "Mih7ayDjN",
+        "id" : "f9RhR5MaI",
+        "name" : "Page 1",
+        "originalid" : null,
+        "parentid" : "sg0SWSbTi",
+        "visible" : false
+      }
+    ],
+    "disableBackdropFilters" : true,
+    "duplicatedFrom" : null,
+    "id" : "sg0SWSbTi",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "tokens" : {
+
+    },
+    "tokensIndex" : [
+
+    ],
+    "visible" : false
+  },
+  "version" : 75
+}
