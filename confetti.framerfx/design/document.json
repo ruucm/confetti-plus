@@ -110,9 +110,21 @@
                   "type" : "number",
                   "value" : 120
                 },
+                "$control__interval" : {
+                  "type" : "number",
+                  "value" : 2
+                },
                 "$control__launchDegree" : {
                   "type" : "number",
                   "value" : -90
+                },
+                "$control__loop" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__loopInterval" : {
+                  "type" : "number",
+                  "value" : 0
                 },
                 "$control__particleColors" : {
                   "type" : "array",
@@ -174,6 +186,10 @@
                   "type" : "boolean",
                   "value" : true
                 },
+                "$control__repeat" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
                 "$control__shape" : {
                   "type" : "segmentedenum",
                   "value" : "rect"
@@ -200,7 +216,7 @@
                 },
                 "aspectRatio" : null,
                 "bottom" : null,
-                "centerAnchorX" : 0.48297872340425552,
+                "centerAnchorX" : 0.45744680851063851,
                 "centerAnchorY" : 0.46726190476190499,
                 "clip" : true,
                 "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
@@ -226,7 +242,7 @@
                 "id" : "nVtJNIEo5",
                 "intrinsicHeight" : 600,
                 "intrinsicWidth" : 300,
-                "left" : 77,
+                "left" : 101,
                 "locked" : false,
                 "name" : null,
                 "opacity" : 1,
@@ -240,11 +256,11 @@
                 "radiusPerCorner" : false,
                 "radiusTopLeft" : 0,
                 "radiusTopRight" : 0,
-                "right" : 93,
+                "right" : null,
                 "rotation" : 0,
                 "top" : 171,
                 "visible" : true,
-                "width" : 300,
+                "width" : 229,
                 "widthType" : 0
               }
             ],
@@ -342,9 +358,21 @@
               "type" : "number",
               "value" : 120
             },
+            "$control__interval" : {
+              "type" : "number",
+              "value" : 0
+            },
             "$control__launchDegree" : {
               "type" : "number",
               "value" : -90
+            },
+            "$control__loop" : {
+              "type" : "boolean",
+              "value" : true
+            },
+            "$control__loopInterval" : {
+              "type" : "number",
+              "value" : 0
             },
             "$control__particleColors" : {
               "type" : "array",
@@ -405,6 +433,10 @@
             "$control__play" : {
               "type" : "boolean",
               "value" : false
+            },
+            "$control__repeat" : {
+              "type" : "boolean",
+              "value" : true
             },
             "$control__shape" : {
               "type" : "segmentedenum",

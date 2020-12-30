@@ -9,7 +9,13 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"id": "2bf37752-c8d7-4261-bae5-7fb25611dd7e"
+		"id": "2bf37752-c8d7-4261-bae5-7fb25611dd7e",
+		"displayName": "Confetti ＋"
 	},
-	"author": "yongmin ruucm"
+	"author": "yongmin ruucm",
+	"dependencies": {
+		"@framer/framer.default": "^1.97.0"
+	},
+	"name": "@framer/ruucm-h.confetti",
+	"version": "1.0.0"
 }

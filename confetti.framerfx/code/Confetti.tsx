@@ -3,11 +3,14 @@ import { useRef, useEffect } from "react"
 import { Particle } from "./particle"
 import { addPropertyControls, ControlType } from "framer"
 import { getRandomInt } from "./utils"
+import { useInterval } from "./use-interval"
 
 export function Confetti(props) {
   const canvasRef = useRef(null)
   const {
     play,
+    loop,
+    interval,
     particleNumber,
     particleColors,
     emojis,
@@ -55,6 +58,14 @@ export function Confetti(props) {
     }
   }, [play])
 
+  if (loop)
+    useInterval(() => {
+      for (let i = 0; i < particleNumber; i++) {
+        const item = particles[i]
+        item.init()
+      }
+    }, interval * 1000)
+
   return <canvas ref={canvasRef} {...props} />
 }
 
@@ -66,6 +77,20 @@ Confetti.defaultProps = {
 addPropertyControls(Confetti, {
   play: {
     type: ControlType.Boolean,
+  },
+  loop: {
+    type: ControlType.Boolean,
+    defaultValue: false,
+  },
+  interval: {
+    title: "~ Interval",
+    type: ControlType.Number,
+    unit: "sec",
+    displayStepper: true,
+    min: 1,
+    hidden(props) {
+      return props.loop == false
+    },
   },
   type: {
     type: ControlType.SegmentedEnum,

@@ -10,6 +10,29 @@
 [2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
 [2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
 
+[2020-12-21 18:04:44.4860] - INFO - Reading from /defined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from / - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /8:04:16.2750] - INFO - Reading from /Users/ruucm/Desktop/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-21 18:04:16.2760] - INFO - Done reading
+[2020-12-21 18:04:16.2770] - INFO - Marking changed: false
+[2020-12-21 18:04:16.3930] - INFO - Marking changed: false
+[2020-12-21 18:04:16.4320] - DEBUG - [Save session: 0] Completed super.save
+[2020-12-21 18:04:16.8420] - INFO - Marking changed: false
+[2020-12-21 18:04:17.0140] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
 [2020-12-21 18:04:44.4860] - INFO - Reading from /20-12-21 18:04:17.0140] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
 [2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
 [2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
@@ -1453,3 +1476,216 @@
 [2020-12-29 17:08:55.7270] - DEBUG - [Save session: 9] Before container.writeChanges
 [2020-12-29 17:08:55.7270] - DEBUG - [Save session: 9] Not autosaving to archive, implicitly cancellable
 [2020-12-29 17:08:55.7330] - DEBUG - [Save session: 9] Completed container.writeChanges
+
+[2020-12-29 17:22:16.2190] - INFO - Reading from /Users/ruucm/Desktop/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-29 17:22:16.2370] - INFO - Done reading
+[2020-12-29 17:22:16.2370] - INFO - Marking changed: false
+[2020-12-29 17:22:16.3550] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-29 17:22:17.3810] - INFO - Project server PID: 55288
+[2020-12-29 17:22:17.5840] - INFO - Installing dependencies…
+[2020-12-29 17:22:17.6360] - ERROR - Tue, 29 Dec 2020 08:22:17 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-29 17:22:17.6490] - INFO - GET 200 /design/document.json 0 B (10ms)
+[2020-12-29 17:22:18.0730] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-29 17:22:18.9460] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-29 17:22:18.9470] - INFO - Installing dependencies - DONE. Took 1363ms
+[2020-12-29 17:22:19.1260] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:22:19.4000] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:22:19.6320] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:22:20.5820] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:22:20.6810] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:22:23.9830] - ERROR - error running yarn: {"type":"warning","data":"\" > @framer/framer.default@1.97.0\" has unmet peer dependency \"framer@^1.0\"."}
+[2020-12-29 17:22:25.6120] - INFO - GET 404 /metadata/icon.png?1609230145575 156 B (2ms)
+[2020-12-29 17:22:25.6120] - INFO - GET 404 /metadata/artwork.png?1609230145575 159 B (3ms)
+[2020-12-29 17:22:28.1300] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:22:28.1300] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-29 17:22:28.1300] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:22:28.1440] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-29 17:22:36.3210] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:22:36.4350] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:22:39.7680] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:22:40.8870] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:27:36.6820] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation
+[2020-12-29 17:27:36.6820] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-12-29 17:27:36.6820] - DEBUG - [Save session: 1] Before waitUsingRecursiveRunLoop
+[2020-12-29 17:27:36.6880] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-12-29 17:27:36.6880] - DEBUG - [Save session: 1] Completed waitUsingRecursiveRunLoop
+[2020-12-29 17:27:36.6930] - DEBUG - [Save session: 1] Completed super.save
+[2020-12-29 17:28:07.4200] - DEBUG - [Save session: 2] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:28:07.4200] - DEBUG - [Save session: 2] Before container.writeChanges
+[2020-12-29 17:28:07.4200] - DEBUG - [Save session: 2] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:28:07.4920] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2020-12-29 17:28:48.5190] - DEBUG - [Save session: 3] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:28:48.5190] - DEBUG - [Save session: 3] Before container.writeChanges
+[2020-12-29 17:28:48.5190] - DEBUG - [Save session: 3] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:28:48.5260] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2020-12-29 17:29:11.2360] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:29:11.2360] - DEBUG - [Save session: 4] Before container.writeChanges
+[2020-12-29 17:29:11.2360] - DEBUG - [Save session: 4] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:29:11.2420] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2020-12-29 17:29:25.0020] - DEBUG - [Save session: 5] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:29:25.0030] - DEBUG - [Save session: 5] Before container.writeChanges
+[2020-12-29 17:29:25.0030] - DEBUG - [Save session: 5] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:29:25.0090] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2020-12-29 17:29:53.8940] - DEBUG - [Save session: 6] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:29:53.8940] - DEBUG - [Save session: 6] Before container.writeChanges
+[2020-12-29 17:29:53.8940] - DEBUG - [Save session: 6] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:29:53.9010] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2020-12-29 17:30:21.0330] - DEBUG - [Save session: 7] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:30:21.0330] - DEBUG - [Save session: 7] Before container.writeChanges
+[2020-12-29 17:30:21.0330] - DEBUG - [Save session: 7] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:30:21.0410] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2020-12-29 17:30:44.0460] - DEBUG - [Save session: 8] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:30:44.0460] - DEBUG - [Save session: 8] Before container.writeChanges
+[2020-12-29 17:30:44.0460] - DEBUG - [Save session: 8] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:30:44.0530] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2020-12-29 17:31:18.9930] - DEBUG - [Save session: 9] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:31:18.9930] - DEBUG - [Save session: 9] Before container.writeChanges
+[2020-12-29 17:31:18.9930] - DEBUG - [Save session: 9] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:31:19.0000] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2020-12-29 17:31:48.3800] - DEBUG - [Save session: 10] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:31:48.3800] - DEBUG - [Save session: 10] Before container.writeChanges
+[2020-12-29 17:31:48.3800] - DEBUG - [Save session: 10] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:31:48.3860] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2020-12-29 17:31:54.4200] - DEBUG - [Save session: 11] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:31:54.4200] - DEBUG - [Save session: 11] Before container.writeChanges
+[2020-12-29 17:31:54.4200] - DEBUG - [Save session: 11] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:31:54.4260] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2020-12-29 17:32:17.0480] - INFO - Backing up to /Users/ruucm/Desktop/framer-confetti/confetti.framerfx/.backups/2020-12-29 17.32.17.zip
+[2020-12-29 17:34:46.0050] - DEBUG - [Save session: 12] Started, operation: autosaveInPlaceOperation
+[2020-12-29 17:34:46.0050] - DEBUG - [Save session: 12] Before container.writeChanges
+[2020-12-29 17:34:46.0050] - DEBUG - [Save session: 12] Before waitUsingRecursiveRunLoop
+[2020-12-29 17:34:46.0130] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2020-12-29 17:34:46.0130] - DEBUG - [Save session: 12] Completed waitUsingRecursiveRunLoop
+[2020-12-29 17:34:46.0230] - DEBUG - [Save session: 12] Completed super.save
+[2020-12-29 17:34:52.6850] - DEBUG - [Save session: 13] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:34:52.6850] - DEBUG - [Save session: 13] Before container.writeChanges
+[2020-12-29 17:34:52.6850] - DEBUG - [Save session: 13] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:34:52.6920] - DEBUG - [Save session: 13] Completed container.writeChanges
+
+[2020-12-29 17:35:12.3260] - INFO - Reading from /Users/ruucm/Desktop/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-29 17:35:12.3620] - INFO - Done reading
+[2020-12-29 17:35:12.3620] - INFO - Marking changed: false
+[2020-12-29 17:35:12.4530] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-29 17:35:13.3680] - INFO - Project server PID: 56961
+[2020-12-29 17:35:13.5420] - INFO - Installing dependencies…
+[2020-12-29 17:35:13.6810] - ERROR - Tue, 29 Dec 2020 08:35:13 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-29 17:35:13.6920] - INFO - GET 200 /design/document.json 0 B (7ms)
+[2020-12-29 17:35:14.1640] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-29 17:35:14.6400] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:14.6410] - INFO - Installing dependencies - DONE. Took 1098ms
+[2020-12-29 17:35:15.1260] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:15.1730] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:15.2940] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:15.5440] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:15.9840] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:31.8950] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:31.9200] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:34.6100] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:35.9300] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:35:46.7470] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:35:46.7480] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-29 17:35:46.7480] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:35:46.7600] - DEBUG - [Save session: 0] Completed container.writeChanges
+
+[2020-12-29 17:36:11.9250] - INFO - Reading from /Users/ruucm/Desktop/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-29 17:36:11.9430] - INFO - Done reading
+[2020-12-29 17:36:11.9430] - INFO - Marking changed: false
+[2020-12-29 17:36:12.0000] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-29 17:36:12.6740] - INFO - Project server PID: 57093
+[2020-12-29 17:36:12.8150] - INFO - Installing dependencies…
+[2020-12-29 17:36:13.0180] - ERROR - Tue, 29 Dec 2020 08:36:13 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-29 17:36:13.0300] - INFO - GET 200 /design/document.json 0 B (3ms)
+[2020-12-29 17:36:13.5130] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-29 17:36:14.2900] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:14.2900] - INFO - Installing dependencies - DONE. Took 1475ms
+[2020-12-29 17:36:14.4690] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:14.7510] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:15.0120] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:15.4700] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:25.4650] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:36:25.4660] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-29 17:36:25.4660] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:36:25.4760] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-29 17:36:32.8090] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:32.9470] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:33.0380] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:33.1550] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:34.5080] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:34.5960] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:35.0620] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:35.5520] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-29 17:36:47.6520] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:36:47.6520] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-12-29 17:36:47.6520] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:36:47.6590] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-12-29 17:37:31.1130] - DEBUG - [Save session: 2] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:37:31.1130] - DEBUG - [Save session: 2] Before container.writeChanges
+[2020-12-29 17:37:31.1130] - DEBUG - [Save session: 2] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:37:31.1190] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2020-12-29 17:38:38.8820] - DEBUG - [Save session: 3] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:38:38.8820] - DEBUG - [Save session: 3] Before container.writeChanges
+[2020-12-29 17:38:38.8820] - DEBUG - [Save session: 3] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:38:38.8890] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2020-12-29 17:38:44.7550] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:38:44.7550] - DEBUG - [Save session: 4] Before container.writeChanges
+[2020-12-29 17:38:44.7550] - DEBUG - [Save session: 4] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:38:44.7610] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2020-12-29 17:39:20.0150] - DEBUG - [Save session: 5] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:39:20.0150] - DEBUG - [Save session: 5] Before container.writeChanges
+[2020-12-29 17:39:20.0150] - DEBUG - [Save session: 5] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:39:20.0210] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2020-12-29 17:39:44.4130] - DEBUG - [Save session: 6] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:39:44.4130] - DEBUG - [Save session: 6] Before container.writeChanges
+[2020-12-29 17:39:44.4130] - DEBUG - [Save session: 6] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:39:44.4190] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2020-12-29 17:39:59.4900] - DEBUG - [Save session: 7] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:39:59.4900] - DEBUG - [Save session: 7] Before container.writeChanges
+[2020-12-29 17:39:59.4900] - DEBUG - [Save session: 7] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:39:59.4970] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2020-12-29 17:40:21.9340] - DEBUG - [Save session: 8] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-29 17:40:21.9340] - DEBUG - [Save session: 8] Before container.writeChanges
+[2020-12-29 17:40:21.9340] - DEBUG - [Save session: 8] Not autosaving to archive, implicitly cancellable
+[2020-12-29 17:40:21.9400] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2020-12-29 17:46:12.7060] - INFO - Backing up to /Users/ruucm/Desktop/framer-confetti/confetti.framerfx/.backups/2020-12-29 17.46.12.zip
+
+[2020-12-30 23:13:59.9180] - INFO - Reading from /Users/ruucm/Desktop/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-30 23:13:59.9690] - INFO - Done reading
+[2020-12-30 23:13:59.9690] - INFO - Marking changed: false
+[2020-12-30 23:14:00.1040] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-30 23:14:00.8290] - INFO - Project server PID: 26613
+[2020-12-30 23:14:01.0040] - INFO - Installing dependencies…
+[2020-12-30 23:14:01.2100] - ERROR - Wed, 30 Dec 2020 14:14:01 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-30 23:14:01.2550] - INFO - GET 200 /design/document.json 0 B (3ms)
+[2020-12-30 23:14:01.3530] - INFO - GET 200 /.cache/images/512/pUsTrN77YvlojN2Yijbr6q3oug.png 112 kB (1ms)
+[2020-12-30 23:14:01.3950] - INFO - GET 304 /.cache/images/2048/pUsTrN77YvlojN2Yijbr6q3oug.png 0 B (1ms)
+[2020-12-30 23:14:01.7460] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+[2020-12-30 23:14:02.7510] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:02.9860] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:02.9870] - INFO - Installing dependencies - DONE. Took 1982ms
+[2020-12-30 23:14:03.1780] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:03.5950] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:04.1980] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:04.3150] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:12.6930] - INFO - GET 404 /metadata/icon.png?1609337652648 156 B (2ms)
+[2020-12-30 23:14:12.6930] - INFO - GET 404 /metadata/artwork.png?1609337652648 159 B (2ms)
+[2020-12-30 23:14:20.5440] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:20.5940] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:22.0800] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:22.1180] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:22.2310] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:22.2540] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:23.0290] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:23.5530] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:24.1820] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:25.1280] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:25.6990] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-30 23:14:28.1490] - DEBUG - [Save session: 0] Started, operation: saveOperation
+[2020-12-30 23:14:28.1490] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-30 23:14:28.1490] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2020-12-30 23:14:28.1600] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-30 23:14:28.1600] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2020-12-30 23:14:28.1620] - INFO - Marking changed: false
+[2020-12-30 23:14:28.1650] - DEBUG - [Save session: 0] Completed super.save
+[2020-12-30 23:14:31.8300] - INFO - GET 404 /metadata/icon.png?1609337652648 156 B (1ms)
+[2020-12-30 23:14:31.8300] - INFO - GET 404 /metadata/artwork.png?1609337652648 159 B (1ms)
+[2020-12-30 23:23:59.9760] - INFO - Backing up to /Users/ruucm/Desktop/framer-confetti/confetti.framerfx/.backups/2020-12-30 23.23.59.zip
