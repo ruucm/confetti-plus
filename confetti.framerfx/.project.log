@@ -10,6 +10,41 @@
 [2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
 [2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
 
+[2020-12-21 18:04:44.4860] - INFO - Reading from /ing yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /lling dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /:04:16.4320] - DEBUG - [Save session: 0] Completed super.save
+[2020-12-21 18:04:16.8420] - INFO - Marking changed: false
+[2020-12-21 18:04:17.0140] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /20-12-21 18:04:44.4860] - INFO - Reading from /
+[2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /-21 18:04:16.2770] - INFO - Marking changed: false
+[2020-12-21 18:04:16.3930] - INFO - Marking changed: false
+[2020-12-21 18:04:16.4320] - DEBUG - [Save session: 0] Completed super.save
+[2020-12-21 18:04:16.8420] - INFO - Marking changed: false
+[2020-12-21 18:04:17.0140] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /dencies - DONE. Took 356ms
+
 [2020-12-21 18:04:44.4860] - INFO - Reading from /defined)"}
 [2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
 [2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
@@ -1689,3 +1724,1895 @@
 [2020-12-30 23:14:31.8300] - INFO - GET 404 /metadata/icon.png?1609337652648 156 B (1ms)
 [2020-12-30 23:14:31.8300] - INFO - GET 404 /metadata/artwork.png?1609337652648 159 B (1ms)
 [2020-12-30 23:23:59.9760] - INFO - Backing up to /Users/ruucm/Desktop/framer-confetti/confetti.framerfx/.backups/2020-12-30 23.23.59.zip
+
+[2021-01-05 20:31:44.1890] - INFO - Reading from /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-05 20:31:44.2280] - INFO - Done reading
+[2021-01-05 20:31:44.2280] - INFO - Marking changed: false
+[2021-01-05 20:31:44.7650] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-05 20:31:45.9910] - INFO - Project server PID: 1255
+[2021-01-05 20:31:46.6930] - ERROR - Tue, 05 Jan 2021 11:31:46 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer 3.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-05 20:31:46.7150] - INFO - GET 200 /design/document.json 0 B (9ms)
+[2021-01-05 20:31:46.8320] - INFO - GET 200 /.cache/images/512/pUsTrN77YvlojN2Yijbr6q3oug.png 112 kB (1ms)
+[2021-01-05 20:31:46.8440] - INFO - GET 200 /.cache/images/2048/pUsTrN77YvlojN2Yijbr6q3oug.png 370 kB (1ms)
+[2021-01-05 20:31:47.6810] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2021-01-05 20:31:47.7630] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2021-01-05 20:31:47.8120] - INFO - Installing dependencies…
+[2021-01-05 20:31:47.8200] - ERROR - error running yarn: {"type":"error","data":"No lockfile in this directory. Run `yarn install` to generate one."}
+[2021-01-05 20:31:47.8940] - ERROR - error running yarn: {"type":"error","data":"No lockfile in this directory. Run `yarn install` to generate one."}
+[2021-01-05 20:31:48.1380] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2021-01-05 20:31:48.1490] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2021-01-05 20:31:48.2590] - ERROR - error running yarn: {"type":"error","data":"No lockfile in this directory. Run `yarn install` to generate one."}
+[2021-01-05 20:31:48.2630] - ERROR - error running yarn: {"type":"error","data":"No lockfile in this directory. Run `yarn install` to generate one."}
+[2021-01-05 20:31:48.6960] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-05 20:31:51.4420] - ERROR - error running yarn: {"type":"warning","data":"\" > @framer/framer.default@1.98.0\" has unmet peer dependency \"framer@^1.0\"."}
+[2021-01-05 20:31:51.4430] - INFO - Installing dependencies - DONE. Took 3630ms
+[2021-01-05 20:31:59.4810] - INFO - GET 200 /design/images/pUsTrN77YvlojN2Yijbr6q3oug.png 370 kB (1ms)
+[2021-01-05 20:32:05.4850] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:32:06.7130] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:32:08.1830] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:32:08.3510] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:32:48.6080] - DEBUG - [Save session: 0] Started, operation: saveOperation
+[2021-01-05 20:32:48.6080] - DEBUG - [Save session: 0] Before container.writeChanges
+[2021-01-05 20:32:48.6080] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:32:48.6200] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2021-01-05 20:32:48.6210] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:32:48.6260] - INFO - Marking changed: false
+[2021-01-05 20:32:48.7290] - DEBUG - [Save session: 0] Completed super.save
+[2021-01-05 20:33:40.9300] - DEBUG - [Save session: 1] Started, operation: saveOperation
+[2021-01-05 20:33:40.9300] - DEBUG - [Save session: 1] Before container.writeChanges
+[2021-01-05 20:33:40.9310] - DEBUG - [Save session: 1] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:33:40.9320] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2021-01-05 20:33:40.9320] - DEBUG - [Save session: 1] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:33:40.9360] - INFO - Marking changed: false
+[2021-01-05 20:33:40.9800] - DEBUG - [Save session: 1] Completed super.save
+[2021-01-05 20:33:54.1290] - DEBUG - [Save session: 2] Started, operation: saveOperation
+[2021-01-05 20:33:54.1290] - DEBUG - [Save session: 2] Before container.writeChanges
+[2021-01-05 20:33:54.1300] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:33:54.1310] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2021-01-05 20:33:54.1310] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:33:54.1320] - INFO - Marking changed: false
+[2021-01-05 20:33:54.1370] - DEBUG - [Save session: 2] Completed super.save
+[2021-01-05 20:34:48.6980] - DEBUG - [Save session: 3] Started, operation: saveOperation
+[2021-01-05 20:34:48.6980] - DEBUG - [Save session: 3] Before container.writeChanges
+[2021-01-05 20:34:48.6980] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:34:48.7180] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2021-01-05 20:34:48.7180] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:34:48.7200] - INFO - Marking changed: false
+[2021-01-05 20:34:48.7240] - DEBUG - [Save session: 3] Completed super.save
+[2021-01-05 20:36:44.2320] - DEBUG - [Save session: 4] Started, operation: saveOperation
+[2021-01-05 20:36:44.2320] - DEBUG - [Save session: 4] Before container.writeChanges
+[2021-01-05 20:36:44.2330] - DEBUG - [Save session: 4] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:36:44.2340] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2021-01-05 20:36:44.2340] - DEBUG - [Save session: 4] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:36:44.2360] - INFO - Marking changed: false
+[2021-01-05 20:36:44.2420] - DEBUG - [Save session: 4] Completed super.save
+[2021-01-05 20:36:48.4990] - DEBUG - [Save session: 5] Started, operation: saveOperation
+[2021-01-05 20:36:48.4990] - DEBUG - [Save session: 5] Before container.writeChanges
+[2021-01-05 20:36:48.5000] - DEBUG - [Save session: 5] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:36:48.5000] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2021-01-05 20:36:48.5010] - DEBUG - [Save session: 5] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:36:48.5020] - INFO - Marking changed: false
+[2021-01-05 20:36:48.5060] - DEBUG - [Save session: 5] Completed super.save
+[2021-01-05 20:36:56.5700] - DEBUG - [Save session: 6] Started, operation: saveOperation
+[2021-01-05 20:36:56.5700] - DEBUG - [Save session: 6] Before container.writeChanges
+[2021-01-05 20:36:56.5710] - DEBUG - [Save session: 6] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:36:56.5720] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2021-01-05 20:36:56.5720] - DEBUG - [Save session: 6] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:36:56.5740] - INFO - Marking changed: false
+[2021-01-05 20:36:56.5780] - DEBUG - [Save session: 6] Completed super.save
+[2021-01-05 20:37:25.3810] - DEBUG - [Save session: 7] Started, operation: autosaveInPlaceOperation
+[2021-01-05 20:37:25.3810] - DEBUG - [Save session: 7] Before container.writeChanges
+[2021-01-05 20:37:25.3810] - DEBUG - [Save session: 7] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:37:25.3970] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2021-01-05 20:37:25.3970] - DEBUG - [Save session: 7] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:37:25.4010] - DEBUG - [Save session: 7] Completed super.save
+[2021-01-05 20:37:38.3870] - DEBUG - [Save session: 8] Started, operation: saveOperation
+[2021-01-05 20:37:38.3870] - DEBUG - [Save session: 8] Before container.writeChanges
+[2021-01-05 20:37:38.3870] - DEBUG - [Save session: 8] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:37:38.3960] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2021-01-05 20:37:38.3960] - DEBUG - [Save session: 8] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:37:38.3980] - INFO - Marking changed: false
+[2021-01-05 20:37:38.4010] - DEBUG - [Save session: 8] Completed super.save
+[2021-01-05 20:38:04.3800] - DEBUG - [Save session: 9] Started, operation: saveOperation
+[2021-01-05 20:38:04.3800] - DEBUG - [Save session: 9] Before container.writeChanges
+[2021-01-05 20:38:04.3810] - DEBUG - [Save session: 9] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:38:04.3820] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2021-01-05 20:38:04.3820] - DEBUG - [Save session: 9] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:38:04.3830] - INFO - Marking changed: false
+[2021-01-05 20:38:04.3860] - DEBUG - [Save session: 9] Completed super.save
+[2021-01-05 20:38:44.0350] - DEBUG - [Save session: 10] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-05 20:38:44.0360] - DEBUG - [Save session: 10] Before container.writeChanges
+[2021-01-05 20:38:44.0360] - DEBUG - [Save session: 10] Not autosaving to archive, implicitly cancellable
+[2021-01-05 20:38:44.0740] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2021-01-05 20:40:00.0120] - DEBUG - [Save session: 11] Started, operation: saveOperation
+[2021-01-05 20:40:00.0130] - DEBUG - [Save session: 11] Before container.writeChanges
+[2021-01-05 20:40:00.0140] - DEBUG - [Save session: 11] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:40:00.0150] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2021-01-05 20:40:00.0150] - DEBUG - [Save session: 11] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:40:00.0180] - INFO - Marking changed: false
+[2021-01-05 20:40:00.0250] - DEBUG - [Save session: 11] Completed super.save
+[2021-01-05 20:40:02.9330] - DEBUG - [Save session: 12] Started, operation: saveOperation
+[2021-01-05 20:40:02.9330] - DEBUG - [Save session: 12] Before container.writeChanges
+[2021-01-05 20:40:02.9340] - DEBUG - [Save session: 12] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:40:02.9350] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2021-01-05 20:40:02.9350] - DEBUG - [Save session: 12] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:40:02.9360] - INFO - Marking changed: false
+[2021-01-05 20:40:02.9400] - DEBUG - [Save session: 12] Completed super.save
+
+[2021-01-05 20:40:33.0980] - INFO - Reading from /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-05 20:40:33.1460] - INFO - Done reading
+[2021-01-05 20:40:33.1470] - INFO - Marking changed: false
+[2021-01-05 20:40:33.3650] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-05 20:40:34.4560] - INFO - Project server PID: 1343
+[2021-01-05 20:40:34.6590] - INFO - Installing dependencies…
+[2021-01-05 20:40:35.1610] - ERROR - Tue, 05 Jan 2021 11:40:35 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer 3.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-05 20:40:35.1910] - INFO - GET 200 /design/document.json 0 B (4ms)
+[2021-01-05 20:40:36.2910] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-05 20:40:36.7550] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:36.7680] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:36.9670] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:36.9680] - INFO - Installing dependencies - DONE. Took 2308ms
+[2021-01-05 20:40:37.6510] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:38.7240] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:38.8540] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:53.6300] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:55.1220] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:55.1830] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:55.2090] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:55.2830] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:56.5300] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:57.7920] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:57.8370] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:58.4820] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:59.2120] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:40:59.6820] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:41:00.4250] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 20:41:21.2010] - DEBUG - [Save session: 0] Started, operation: saveOperation
+[2021-01-05 20:41:21.2010] - DEBUG - [Save session: 0] Before container.writeChanges
+[2021-01-05 20:41:21.2010] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:41:21.2220] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2021-01-05 20:41:21.2230] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:41:21.2270] - INFO - Marking changed: false
+[2021-01-05 20:41:21.2320] - DEBUG - [Save session: 0] Completed super.save
+[2021-01-05 20:43:58.5080] - DEBUG - [Save session: 1] Started, operation: saveOperation
+[2021-01-05 20:43:58.5080] - DEBUG - [Save session: 1] Before container.writeChanges
+[2021-01-05 20:43:58.5090] - DEBUG - [Save session: 1] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:43:58.5100] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2021-01-05 20:43:58.5100] - DEBUG - [Save session: 1] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:43:58.5160] - INFO - Marking changed: false
+[2021-01-05 20:43:58.5280] - DEBUG - [Save session: 1] Completed super.save
+[2021-01-05 20:44:18.6490] - DEBUG - [Save session: 2] Started, operation: saveOperation
+[2021-01-05 20:44:18.6490] - DEBUG - [Save session: 2] Before container.writeChanges
+[2021-01-05 20:44:18.6500] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:44:18.6510] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2021-01-05 20:44:18.6510] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:44:18.6530] - INFO - Marking changed: false
+[2021-01-05 20:44:18.6570] - DEBUG - [Save session: 2] Completed super.save
+[2021-01-05 20:44:29.5660] - DEBUG - [Save session: 3] Started, operation: saveOperation
+[2021-01-05 20:44:29.5660] - DEBUG - [Save session: 3] Before container.writeChanges
+[2021-01-05 20:44:29.5670] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:44:29.5680] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2021-01-05 20:44:29.5680] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:44:29.5690] - INFO - Marking changed: false
+[2021-01-05 20:44:29.5730] - DEBUG - [Save session: 3] Completed super.save
+[2021-01-05 20:45:27.1320] - DEBUG - [Save session: 4] Started, operation: saveOperation
+[2021-01-05 20:45:27.1320] - DEBUG - [Save session: 4] Before container.writeChanges
+[2021-01-05 20:45:27.1330] - DEBUG - [Save session: 4] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:45:27.1330] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2021-01-05 20:45:27.1340] - DEBUG - [Save session: 4] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:45:27.1350] - INFO - Marking changed: false
+[2021-01-05 20:45:27.1400] - DEBUG - [Save session: 4] Completed super.save
+[2021-01-05 20:46:12.5420] - DEBUG - [Save session: 5] Started, operation: saveOperation
+[2021-01-05 20:46:12.5420] - DEBUG - [Save session: 5] Before container.writeChanges
+[2021-01-05 20:46:12.5420] - DEBUG - [Save session: 5] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:46:12.5440] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2021-01-05 20:46:12.5440] - DEBUG - [Save session: 5] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:46:12.5450] - INFO - Marking changed: false
+[2021-01-05 20:46:12.5480] - DEBUG - [Save session: 5] Completed super.save
+[2021-01-05 20:46:56.9570] - DEBUG - [Save session: 6] Started, operation: saveOperation
+[2021-01-05 20:46:56.9570] - DEBUG - [Save session: 6] Before container.writeChanges
+[2021-01-05 20:46:56.9580] - DEBUG - [Save session: 6] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:46:56.9590] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2021-01-05 20:46:56.9590] - DEBUG - [Save session: 6] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:46:56.9600] - INFO - Marking changed: false
+[2021-01-05 20:46:56.9660] - DEBUG - [Save session: 6] Completed super.save
+[2021-01-05 20:47:06.9630] - DEBUG - [Save session: 7] Started, operation: saveOperation
+[2021-01-05 20:47:06.9630] - DEBUG - [Save session: 7] Before container.writeChanges
+[2021-01-05 20:47:06.9640] - DEBUG - [Save session: 7] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:47:06.9640] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2021-01-05 20:47:06.9650] - DEBUG - [Save session: 7] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:47:06.9660] - INFO - Marking changed: false
+[2021-01-05 20:47:06.9680] - DEBUG - [Save session: 7] Completed super.save
+[2021-01-05 20:47:31.8750] - DEBUG - [Save session: 8] Started, operation: saveOperation
+[2021-01-05 20:47:31.8750] - DEBUG - [Save session: 8] Before container.writeChanges
+[2021-01-05 20:47:31.8770] - DEBUG - [Save session: 8] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:47:31.8780] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2021-01-05 20:47:31.8780] - DEBUG - [Save session: 8] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:47:31.8790] - INFO - Marking changed: false
+[2021-01-05 20:47:31.8850] - DEBUG - [Save session: 8] Completed super.save
+[2021-01-05 20:48:00.2730] - DEBUG - [Save session: 9] Started, operation: saveOperation
+[2021-01-05 20:48:00.2730] - DEBUG - [Save session: 9] Before container.writeChanges
+[2021-01-05 20:48:00.2740] - DEBUG - [Save session: 9] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:48:00.2750] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2021-01-05 20:48:00.2750] - DEBUG - [Save session: 9] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:48:00.2770] - INFO - Marking changed: false
+[2021-01-05 20:48:00.2820] - DEBUG - [Save session: 9] Completed super.save
+[2021-01-05 20:48:03.7880] - DEBUG - [Save session: 10] Started, operation: saveOperation
+[2021-01-05 20:48:03.7880] - DEBUG - [Save session: 10] Before container.writeChanges
+[2021-01-05 20:48:03.7890] - DEBUG - [Save session: 10] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:48:03.7900] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2021-01-05 20:48:03.7900] - DEBUG - [Save session: 10] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:48:03.7910] - INFO - Marking changed: false
+[2021-01-05 20:48:03.7950] - DEBUG - [Save session: 10] Completed super.save
+[2021-01-05 20:48:11.9280] - DEBUG - [Save session: 11] Started, operation: saveOperation
+[2021-01-05 20:48:11.9280] - DEBUG - [Save session: 11] Before container.writeChanges
+[2021-01-05 20:48:11.9290] - DEBUG - [Save session: 11] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:48:11.9300] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2021-01-05 20:48:11.9300] - DEBUG - [Save session: 11] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:48:11.9310] - INFO - Marking changed: false
+[2021-01-05 20:48:11.9340] - DEBUG - [Save session: 11] Completed super.save
+[2021-01-05 20:49:25.2490] - DEBUG - [Save session: 12] Started, operation: saveOperation
+[2021-01-05 20:49:25.2490] - DEBUG - [Save session: 12] Before container.writeChanges
+[2021-01-05 20:49:25.2500] - DEBUG - [Save session: 12] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:49:25.2510] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2021-01-05 20:49:25.2510] - DEBUG - [Save session: 12] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:49:25.2530] - INFO - Marking changed: false
+[2021-01-05 20:49:25.2590] - DEBUG - [Save session: 12] Completed super.save
+[2021-01-05 20:49:40.0590] - DEBUG - [Save session: 13] Started, operation: saveOperation
+[2021-01-05 20:49:40.0590] - DEBUG - [Save session: 13] Before container.writeChanges
+[2021-01-05 20:49:40.0590] - DEBUG - [Save session: 13] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:49:40.0600] - DEBUG - [Save session: 13] Completed container.writeChanges
+[2021-01-05 20:49:40.0600] - DEBUG - [Save session: 13] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:49:40.0620] - INFO - Marking changed: false
+[2021-01-05 20:49:40.0660] - DEBUG - [Save session: 13] Completed super.save
+[2021-01-05 20:50:01.6830] - DEBUG - [Save session: 14] Started, operation: saveOperation
+[2021-01-05 20:50:01.6830] - DEBUG - [Save session: 14] Before container.writeChanges
+[2021-01-05 20:50:01.6840] - DEBUG - [Save session: 14] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:50:01.6850] - DEBUG - [Save session: 14] Completed container.writeChanges
+[2021-01-05 20:50:01.6850] - DEBUG - [Save session: 14] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:50:01.6860] - INFO - Marking changed: false
+[2021-01-05 20:50:01.6910] - DEBUG - [Save session: 14] Completed super.save
+[2021-01-05 20:50:15.8540] - DEBUG - [Save session: 15] Started, operation: saveOperation
+[2021-01-05 20:50:15.8540] - DEBUG - [Save session: 15] Before container.writeChanges
+[2021-01-05 20:50:15.8550] - DEBUG - [Save session: 15] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:50:15.8560] - DEBUG - [Save session: 15] Completed container.writeChanges
+[2021-01-05 20:50:15.8560] - DEBUG - [Save session: 15] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:50:15.8570] - INFO - Marking changed: false
+[2021-01-05 20:50:15.8600] - DEBUG - [Save session: 15] Completed super.save
+[2021-01-05 20:50:23.9110] - DEBUG - [Save session: 16] Started, operation: saveOperation
+[2021-01-05 20:50:23.9110] - DEBUG - [Save session: 16] Before container.writeChanges
+[2021-01-05 20:50:23.9120] - DEBUG - [Save session: 16] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:50:23.9120] - DEBUG - [Save session: 16] Completed container.writeChanges
+[2021-01-05 20:50:23.9130] - DEBUG - [Save session: 16] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:50:23.9140] - INFO - Marking changed: false
+[2021-01-05 20:50:23.9190] - DEBUG - [Save session: 16] Completed super.save
+[2021-01-05 20:50:33.6260] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 20.50.33.zip
+[2021-01-05 20:53:57.4430] - DEBUG - [Save session: 17] Started, operation: saveOperation
+[2021-01-05 20:53:57.4430] - DEBUG - [Save session: 17] Before container.writeChanges
+[2021-01-05 20:53:57.4440] - DEBUG - [Save session: 17] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:53:57.4450] - DEBUG - [Save session: 17] Completed container.writeChanges
+[2021-01-05 20:53:57.4450] - DEBUG - [Save session: 17] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:53:57.4480] - INFO - Marking changed: false
+[2021-01-05 20:53:57.4550] - DEBUG - [Save session: 17] Completed super.save
+[2021-01-05 20:54:27.3490] - DEBUG - [Save session: 18] Started, operation: saveOperation
+[2021-01-05 20:54:27.3490] - DEBUG - [Save session: 18] Before container.writeChanges
+[2021-01-05 20:54:27.3500] - DEBUG - [Save session: 18] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:54:27.3510] - DEBUG - [Save session: 18] Completed container.writeChanges
+[2021-01-05 20:54:27.3510] - DEBUG - [Save session: 18] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:54:27.3520] - INFO - Marking changed: false
+[2021-01-05 20:54:27.3590] - DEBUG - [Save session: 18] Completed super.save
+[2021-01-05 20:56:22.7280] - DEBUG - [Save session: 19] Started, operation: saveOperation
+[2021-01-05 20:56:22.7280] - DEBUG - [Save session: 19] Before container.writeChanges
+[2021-01-05 20:56:22.7290] - DEBUG - [Save session: 19] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:56:22.7300] - DEBUG - [Save session: 19] Completed container.writeChanges
+[2021-01-05 20:56:22.7300] - DEBUG - [Save session: 19] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:56:22.7320] - INFO - Marking changed: false
+[2021-01-05 20:56:22.7350] - DEBUG - [Save session: 19] Completed super.save
+[2021-01-05 20:56:41.0440] - DEBUG - [Save session: 20] Started, operation: saveOperation
+[2021-01-05 20:56:41.0440] - DEBUG - [Save session: 20] Before container.writeChanges
+[2021-01-05 20:56:41.0450] - DEBUG - [Save session: 20] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:56:41.0460] - DEBUG - [Save session: 20] Completed container.writeChanges
+[2021-01-05 20:56:41.0460] - DEBUG - [Save session: 20] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:56:41.0480] - INFO - Marking changed: false
+[2021-01-05 20:56:41.0520] - DEBUG - [Save session: 20] Completed super.save
+[2021-01-05 20:57:04.0580] - DEBUG - [Save session: 21] Started, operation: saveOperation
+[2021-01-05 20:57:04.0580] - DEBUG - [Save session: 21] Before container.writeChanges
+[2021-01-05 20:57:04.0590] - DEBUG - [Save session: 21] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:57:04.0600] - DEBUG - [Save session: 21] Completed container.writeChanges
+[2021-01-05 20:57:04.0600] - DEBUG - [Save session: 21] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:57:04.0630] - INFO - Marking changed: false
+[2021-01-05 20:57:04.0650] - DEBUG - [Save session: 21] Completed super.save
+[2021-01-05 20:57:49.1580] - DEBUG - [Save session: 22] Started, operation: saveOperation
+[2021-01-05 20:57:49.1580] - DEBUG - [Save session: 22] Before container.writeChanges
+[2021-01-05 20:57:49.1590] - DEBUG - [Save session: 22] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:57:49.1600] - DEBUG - [Save session: 22] Completed container.writeChanges
+[2021-01-05 20:57:49.1600] - DEBUG - [Save session: 22] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:57:49.1620] - INFO - Marking changed: false
+[2021-01-05 20:57:49.1670] - DEBUG - [Save session: 22] Completed super.save
+[2021-01-05 20:58:20.8420] - DEBUG - [Save session: 23] Started, operation: saveOperation
+[2021-01-05 20:58:20.8420] - DEBUG - [Save session: 23] Before container.writeChanges
+[2021-01-05 20:58:20.8420] - DEBUG - [Save session: 23] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:58:20.8440] - DEBUG - [Save session: 23] Completed container.writeChanges
+[2021-01-05 20:58:20.8440] - DEBUG - [Save session: 23] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:58:20.8460] - INFO - Marking changed: false
+[2021-01-05 20:58:20.8500] - DEBUG - [Save session: 23] Completed super.save
+[2021-01-05 20:58:33.0500] - DEBUG - [Save session: 24] Started, operation: saveOperation
+[2021-01-05 20:58:33.0500] - DEBUG - [Save session: 24] Before container.writeChanges
+[2021-01-05 20:58:33.0510] - DEBUG - [Save session: 24] Before waitUsingRecursiveRunLoop
+[2021-01-05 20:58:33.0520] - DEBUG - [Save session: 24] Completed container.writeChanges
+[2021-01-05 20:58:33.0520] - DEBUG - [Save session: 24] Completed waitUsingRecursiveRunLoop
+[2021-01-05 20:58:33.0530] - INFO - Marking changed: false
+[2021-01-05 20:58:33.0570] - DEBUG - [Save session: 24] Completed super.save
+[2021-01-05 21:00:33.6030] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 21.00.33.zip
+[2021-01-05 21:23:35.1990] - DEBUG - [Save session: 25] Started, operation: saveOperation
+[2021-01-05 21:23:35.1990] - DEBUG - [Save session: 25] Before container.writeChanges
+[2021-01-05 21:23:35.2000] - DEBUG - [Save session: 25] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:23:35.2010] - DEBUG - [Save session: 25] Completed container.writeChanges
+[2021-01-05 21:23:35.2010] - DEBUG - [Save session: 25] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:23:35.2030] - INFO - Marking changed: false
+[2021-01-05 21:23:35.2070] - DEBUG - [Save session: 25] Completed super.save
+[2021-01-05 21:23:41.5220] - DEBUG - [Save session: 26] Started, operation: saveOperation
+[2021-01-05 21:23:41.5220] - DEBUG - [Save session: 26] Before container.writeChanges
+[2021-01-05 21:23:41.5220] - DEBUG - [Save session: 26] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:23:41.5230] - DEBUG - [Save session: 26] Completed container.writeChanges
+[2021-01-05 21:23:41.5230] - DEBUG - [Save session: 26] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:23:41.5240] - INFO - Marking changed: false
+[2021-01-05 21:23:41.5300] - DEBUG - [Save session: 26] Completed super.save
+[2021-01-05 21:23:52.8810] - DEBUG - [Save session: 27] Started, operation: saveOperation
+[2021-01-05 21:23:52.8810] - DEBUG - [Save session: 27] Before container.writeChanges
+[2021-01-05 21:23:52.8820] - DEBUG - [Save session: 27] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:23:52.8830] - DEBUG - [Save session: 27] Completed container.writeChanges
+[2021-01-05 21:23:52.8830] - DEBUG - [Save session: 27] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:23:52.8840] - INFO - Marking changed: false
+[2021-01-05 21:23:52.8870] - DEBUG - [Save session: 27] Completed super.save
+[2021-01-05 21:23:53.6440] - DEBUG - [Save session: 28] Started, operation: saveOperation
+[2021-01-05 21:23:53.6440] - DEBUG - [Save session: 28] Before container.writeChanges
+[2021-01-05 21:23:53.6450] - DEBUG - [Save session: 28] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:23:53.6460] - DEBUG - [Save session: 28] Completed container.writeChanges
+[2021-01-05 21:23:53.6460] - DEBUG - [Save session: 28] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:23:53.6470] - INFO - Marking changed: false
+[2021-01-05 21:23:53.6500] - DEBUG - [Save session: 28] Completed super.save
+[2021-01-05 21:24:32.5540] - DEBUG - [Save session: 29] Started, operation: saveOperation
+[2021-01-05 21:24:32.5540] - DEBUG - [Save session: 29] Before container.writeChanges
+[2021-01-05 21:24:32.5550] - DEBUG - [Save session: 29] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:24:32.5560] - DEBUG - [Save session: 29] Completed container.writeChanges
+[2021-01-05 21:24:32.5560] - DEBUG - [Save session: 29] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:24:32.5570] - INFO - Marking changed: false
+[2021-01-05 21:24:32.5600] - DEBUG - [Save session: 29] Completed super.save
+[2021-01-05 21:28:21.0950] - DEBUG - [Save session: 30] Started, operation: saveOperation
+[2021-01-05 21:28:21.0950] - DEBUG - [Save session: 30] Before container.writeChanges
+[2021-01-05 21:28:21.0960] - DEBUG - [Save session: 30] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:28:21.0980] - DEBUG - [Save session: 30] Completed container.writeChanges
+[2021-01-05 21:28:21.0980] - DEBUG - [Save session: 30] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:28:21.1030] - INFO - Marking changed: false
+[2021-01-05 21:28:21.1170] - DEBUG - [Save session: 30] Completed super.save
+[2021-01-05 21:28:35.5300] - DEBUG - [Save session: 31] Started, operation: saveOperation
+[2021-01-05 21:28:35.5300] - DEBUG - [Save session: 31] Before container.writeChanges
+[2021-01-05 21:28:35.5310] - DEBUG - [Save session: 31] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:28:35.5320] - DEBUG - [Save session: 31] Completed container.writeChanges
+[2021-01-05 21:28:35.5320] - DEBUG - [Save session: 31] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:28:35.5330] - INFO - Marking changed: false
+[2021-01-05 21:28:35.5760] - DEBUG - [Save session: 31] Completed super.save
+[2021-01-05 21:28:43.5650] - DEBUG - [Save session: 32] Started, operation: saveOperation
+[2021-01-05 21:28:43.5660] - DEBUG - [Save session: 32] Before container.writeChanges
+[2021-01-05 21:28:43.5740] - DEBUG - [Save session: 32] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:28:43.5760] - DEBUG - [Save session: 32] Completed container.writeChanges
+[2021-01-05 21:28:43.5760] - DEBUG - [Save session: 32] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:28:43.5780] - INFO - Marking changed: false
+[2021-01-05 21:28:43.5830] - DEBUG - [Save session: 32] Completed super.save
+[2021-01-05 21:28:49.6060] - DEBUG - [Save session: 33] Started, operation: saveOperation
+[2021-01-05 21:28:49.6060] - DEBUG - [Save session: 33] Before container.writeChanges
+[2021-01-05 21:28:49.6070] - DEBUG - [Save session: 33] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:28:49.6080] - DEBUG - [Save session: 33] Completed container.writeChanges
+[2021-01-05 21:28:49.6080] - DEBUG - [Save session: 33] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:28:49.6090] - INFO - Marking changed: false
+[2021-01-05 21:28:49.6130] - DEBUG - [Save session: 33] Completed super.save
+[2021-01-05 21:28:54.7730] - DEBUG - [Save session: 34] Started, operation: saveOperation
+[2021-01-05 21:28:54.7730] - DEBUG - [Save session: 34] Before container.writeChanges
+[2021-01-05 21:28:54.7740] - DEBUG - [Save session: 34] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:28:54.7740] - DEBUG - [Save session: 34] Completed container.writeChanges
+[2021-01-05 21:28:54.7740] - DEBUG - [Save session: 34] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:28:54.7760] - INFO - Marking changed: false
+[2021-01-05 21:28:54.8200] - DEBUG - [Save session: 34] Completed super.save
+[2021-01-05 21:28:58.8630] - DEBUG - [Save session: 35] Started, operation: saveOperation
+[2021-01-05 21:28:58.8630] - DEBUG - [Save session: 35] Before container.writeChanges
+[2021-01-05 21:28:58.8640] - DEBUG - [Save session: 35] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:28:58.8650] - DEBUG - [Save session: 35] Completed container.writeChanges
+[2021-01-05 21:28:58.8650] - DEBUG - [Save session: 35] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:28:58.8660] - INFO - Marking changed: false
+[2021-01-05 21:28:58.8690] - DEBUG - [Save session: 35] Completed super.save
+
+[2021-01-05 21:29:03.9450] - INFO - Reading from /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-05 21:29:03.9890] - INFO - Done reading
+[2021-01-05 21:29:03.9900] - INFO - Marking changed: false
+[2021-01-05 21:29:04.0930] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-05 21:29:05.1620] - INFO - Project server PID: 1484
+[2021-01-05 21:29:05.4690] - INFO - Installing dependencies…
+[2021-01-05 21:29:05.8010] - ERROR - Tue, 05 Jan 2021 12:29:05 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer 3.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-05 21:29:05.8150] - INFO - GET 200 /design/document.json 0 B (7ms)
+[2021-01-05 21:29:06.8980] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-05 21:29:07.2430] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:07.4480] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:07.6930] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:07.6950] - INFO - Installing dependencies - DONE. Took 2226ms
+[2021-01-05 21:29:08.4320] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:09.2470] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:20.9010] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-05 21:29:20.9010] - DEBUG - [Save session: 0] Before container.writeChanges
+[2021-01-05 21:29:20.9010] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2021-01-05 21:29:20.9340] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2021-01-05 21:29:25.3130] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:25.3720] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:26.7020] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:26.7590] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:27.3880] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:28.0480] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:28.6430] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:29:31.3930] - DEBUG - [Save session: 1] Started, operation: saveOperation
+[2021-01-05 21:29:31.3930] - DEBUG - [Save session: 1] Before container.writeChanges
+[2021-01-05 21:29:31.3930] - DEBUG - [Save session: 1] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:29:31.3940] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2021-01-05 21:29:31.3940] - DEBUG - [Save session: 1] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:29:31.3950] - INFO - Marking changed: false
+[2021-01-05 21:29:31.4000] - DEBUG - [Save session: 1] Completed super.save
+[2021-01-05 21:29:44.8820] - DEBUG - [Save session: 2] Started, operation: saveOperation
+[2021-01-05 21:29:44.8820] - DEBUG - [Save session: 2] Before container.writeChanges
+[2021-01-05 21:29:44.8830] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:29:44.8840] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2021-01-05 21:29:44.8840] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:29:44.8860] - INFO - Marking changed: false
+[2021-01-05 21:29:44.9720] - DEBUG - [Save session: 2] Completed super.save
+[2021-01-05 21:29:59.0140] - DEBUG - [Save session: 3] Started, operation: saveOperation
+[2021-01-05 21:29:59.0150] - DEBUG - [Save session: 3] Before container.writeChanges
+[2021-01-05 21:29:59.0150] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:29:59.0160] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2021-01-05 21:29:59.0160] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:29:59.0180] - INFO - Marking changed: false
+[2021-01-05 21:29:59.0210] - DEBUG - [Save session: 3] Completed super.save
+
+[2021-01-05 21:30:05.4920] - INFO - Reading from /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-05 21:30:05.5160] - INFO - Done reading
+[2021-01-05 21:30:05.5170] - INFO - Marking changed: false
+[2021-01-05 21:30:05.6250] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-05 21:30:06.4250] - INFO - Project server PID: 1509
+[2021-01-05 21:30:06.6050] - INFO - Installing dependencies…
+[2021-01-05 21:30:07.2140] - ERROR - Tue, 05 Jan 2021 12:30:07 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer 3.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-05 21:30:07.2360] - INFO - GET 200 /design/document.json 0 B (6ms)
+[2021-01-05 21:30:08.1580] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:08.2320] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-05 21:30:08.3900] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:08.3910] - INFO - Installing dependencies - DONE. Took 1786ms
+[2021-01-05 21:30:09.0310] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:10.5290] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:27.1790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:27.2640] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:27.3290] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:27.5240] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:29.4800] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:30.0790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:30.2110] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-05 21:30:30.2110] - DEBUG - [Save session: 0] Before container.writeChanges
+[2021-01-05 21:30:30.2110] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2021-01-05 21:30:30.2110] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 21:30:30.2360] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2021-01-05 21:30:53.7660] - DEBUG - [Save session: 1] Started, operation: saveOperation
+[2021-01-05 21:30:53.7660] - DEBUG - [Save session: 1] Before container.writeChanges
+[2021-01-05 21:30:53.7670] - DEBUG - [Save session: 1] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:30:53.7680] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2021-01-05 21:30:53.7680] - DEBUG - [Save session: 1] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:30:53.7690] - INFO - Marking changed: false
+[2021-01-05 21:30:53.7780] - DEBUG - [Save session: 1] Completed super.save
+[2021-01-05 21:30:57.2780] - DEBUG - [Save session: 2] Started, operation: saveOperation
+[2021-01-05 21:30:57.2780] - DEBUG - [Save session: 2] Before container.writeChanges
+[2021-01-05 21:30:57.2790] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:30:57.2790] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2021-01-05 21:30:57.2800] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:30:57.2810] - INFO - Marking changed: false
+[2021-01-05 21:30:57.2830] - DEBUG - [Save session: 2] Completed super.save
+[2021-01-05 21:31:24.4560] - DEBUG - [Save session: 3] Started, operation: saveOperation
+[2021-01-05 21:31:24.4560] - DEBUG - [Save session: 3] Before container.writeChanges
+[2021-01-05 21:31:24.4570] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:31:24.4580] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2021-01-05 21:31:24.4580] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:31:24.4590] - INFO - Marking changed: false
+[2021-01-05 21:31:24.4640] - DEBUG - [Save session: 3] Completed super.save
+[2021-01-05 21:31:27.2960] - DEBUG - [Save session: 4] Started, operation: saveOperation
+[2021-01-05 21:31:27.2960] - DEBUG - [Save session: 4] Before container.writeChanges
+[2021-01-05 21:31:27.2970] - DEBUG - [Save session: 4] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:31:27.2980] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2021-01-05 21:31:27.2980] - DEBUG - [Save session: 4] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:31:27.3000] - INFO - Marking changed: false
+[2021-01-05 21:31:27.3440] - DEBUG - [Save session: 4] Completed super.save
+[2021-01-05 21:31:42.3890] - DEBUG - [Save session: 5] Started, operation: saveOperation
+[2021-01-05 21:31:42.3890] - DEBUG - [Save session: 5] Before container.writeChanges
+[2021-01-05 21:31:42.3890] - DEBUG - [Save session: 5] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:31:42.3900] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2021-01-05 21:31:42.3900] - DEBUG - [Save session: 5] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:31:42.3920] - INFO - Marking changed: false
+[2021-01-05 21:31:42.3960] - DEBUG - [Save session: 5] Completed super.save
+[2021-01-05 21:31:45.9970] - DEBUG - [Save session: 6] Started, operation: saveOperation
+[2021-01-05 21:31:45.9970] - DEBUG - [Save session: 6] Before container.writeChanges
+[2021-01-05 21:31:45.9970] - DEBUG - [Save session: 6] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:31:45.9980] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2021-01-05 21:31:45.9980] - DEBUG - [Save session: 6] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:31:46.0000] - INFO - Marking changed: false
+[2021-01-05 21:31:46.0030] - DEBUG - [Save session: 6] Completed super.save
+[2021-01-05 21:33:43.3200] - DEBUG - [Save session: 7] Started, operation: saveOperation
+[2021-01-05 21:33:43.3200] - DEBUG - [Save session: 7] Before container.writeChanges
+[2021-01-05 21:33:43.3260] - DEBUG - [Save session: 7] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:33:43.3270] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2021-01-05 21:33:43.3270] - DEBUG - [Save session: 7] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:33:43.3290] - INFO - Marking changed: false
+[2021-01-05 21:33:43.3330] - DEBUG - [Save session: 7] Completed super.save
+[2021-01-05 21:35:07.4020] - DEBUG - [Save session: 8] Started, operation: saveOperation
+[2021-01-05 21:35:07.4020] - DEBUG - [Save session: 8] Before container.writeChanges
+[2021-01-05 21:35:07.4040] - DEBUG - [Save session: 8] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:35:07.4050] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2021-01-05 21:35:07.4050] - DEBUG - [Save session: 8] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:35:07.4070] - INFO - Marking changed: false
+[2021-01-05 21:35:07.4150] - DEBUG - [Save session: 8] Completed super.save
+[2021-01-05 21:40:05.5110] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 21.40.05.zip
+[2021-01-05 21:41:37.9630] - DEBUG - [Save session: 9] Started, operation: saveOperation
+[2021-01-05 21:41:37.9630] - DEBUG - [Save session: 9] Before container.writeChanges
+[2021-01-05 21:41:37.9640] - DEBUG - [Save session: 9] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:41:37.9650] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2021-01-05 21:41:37.9650] - DEBUG - [Save session: 9] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:41:37.9660] - INFO - Marking changed: false
+[2021-01-05 21:41:37.9780] - DEBUG - [Save session: 9] Completed super.save
+[2021-01-05 21:44:04.1890] - DEBUG - [Save session: 10] Started, operation: saveOperation
+[2021-01-05 21:44:04.1890] - DEBUG - [Save session: 10] Before container.writeChanges
+[2021-01-05 21:44:04.1900] - DEBUG - [Save session: 10] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:44:04.1910] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2021-01-05 21:44:04.1910] - DEBUG - [Save session: 10] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:44:04.1950] - INFO - Marking changed: false
+[2021-01-05 21:44:04.2030] - DEBUG - [Save session: 10] Completed super.save
+[2021-01-05 21:45:10.9970] - DEBUG - [Save session: 11] Started, operation: saveOperation
+[2021-01-05 21:45:10.9970] - DEBUG - [Save session: 11] Before container.writeChanges
+[2021-01-05 21:45:10.9980] - DEBUG - [Save session: 11] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:45:10.9990] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2021-01-05 21:45:10.9990] - DEBUG - [Save session: 11] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:45:11.0010] - INFO - Marking changed: false
+[2021-01-05 21:45:11.0060] - DEBUG - [Save session: 11] Completed super.save
+[2021-01-05 21:46:15.0550] - DEBUG - [Save session: 12] Started, operation: saveOperation
+[2021-01-05 21:46:15.0550] - DEBUG - [Save session: 12] Before container.writeChanges
+[2021-01-05 21:46:15.0560] - DEBUG - [Save session: 12] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:46:15.0570] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2021-01-05 21:46:15.0570] - DEBUG - [Save session: 12] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:46:15.0580] - INFO - Marking changed: false
+[2021-01-05 21:46:15.0610] - DEBUG - [Save session: 12] Completed super.save
+[2021-01-05 21:46:34.7850] - DEBUG - [Save session: 13] Started, operation: saveOperation
+[2021-01-05 21:46:34.7850] - DEBUG - [Save session: 13] Before container.writeChanges
+[2021-01-05 21:46:34.7860] - DEBUG - [Save session: 13] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:46:34.7870] - DEBUG - [Save session: 13] Completed container.writeChanges
+[2021-01-05 21:46:34.7870] - DEBUG - [Save session: 13] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:46:34.7890] - INFO - Marking changed: false
+[2021-01-05 21:46:34.7930] - DEBUG - [Save session: 13] Completed super.save
+[2021-01-05 21:46:36.3510] - DEBUG - [Save session: 14] Started, operation: saveOperation
+[2021-01-05 21:46:36.3510] - DEBUG - [Save session: 14] Before container.writeChanges
+[2021-01-05 21:46:36.3520] - DEBUG - [Save session: 14] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:46:36.3530] - DEBUG - [Save session: 14] Completed container.writeChanges
+[2021-01-05 21:46:36.3530] - DEBUG - [Save session: 14] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:46:36.3550] - INFO - Marking changed: false
+[2021-01-05 21:46:36.3570] - DEBUG - [Save session: 14] Completed super.save
+[2021-01-05 21:46:57.5050] - DEBUG - [Save session: 15] Started, operation: saveOperation
+[2021-01-05 21:46:57.5050] - DEBUG - [Save session: 15] Before container.writeChanges
+[2021-01-05 21:46:57.5060] - DEBUG - [Save session: 15] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:46:57.5070] - DEBUG - [Save session: 15] Completed container.writeChanges
+[2021-01-05 21:46:57.5070] - DEBUG - [Save session: 15] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:46:57.5080] - INFO - Marking changed: false
+[2021-01-05 21:46:57.5130] - DEBUG - [Save session: 15] Completed super.save
+[2021-01-05 21:47:19.1810] - DEBUG - [Save session: 16] Started, operation: saveOperation
+[2021-01-05 21:47:19.1820] - DEBUG - [Save session: 16] Before container.writeChanges
+[2021-01-05 21:47:19.1820] - DEBUG - [Save session: 16] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:47:19.1830] - DEBUG - [Save session: 16] Completed container.writeChanges
+[2021-01-05 21:47:19.1840] - DEBUG - [Save session: 16] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:47:19.1850] - INFO - Marking changed: false
+[2021-01-05 21:47:19.1880] - DEBUG - [Save session: 16] Completed super.save
+[2021-01-05 21:50:06.4830] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 21.50.06.zip
+[2021-01-05 21:53:52.4830] - DEBUG - [Save session: 17] Started, operation: saveOperation
+[2021-01-05 21:53:52.4830] - DEBUG - [Save session: 17] Before container.writeChanges
+[2021-01-05 21:53:52.4840] - DEBUG - [Save session: 17] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:53:52.4850] - DEBUG - [Save session: 17] Completed container.writeChanges
+[2021-01-05 21:53:52.4850] - DEBUG - [Save session: 17] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:53:52.4870] - INFO - Marking changed: false
+[2021-01-05 21:53:52.4950] - DEBUG - [Save session: 17] Completed super.save
+[2021-01-05 21:53:57.2610] - DEBUG - [Save session: 18] Started, operation: saveOperation
+[2021-01-05 21:53:57.2610] - DEBUG - [Save session: 18] Before container.writeChanges
+[2021-01-05 21:53:57.2620] - DEBUG - [Save session: 18] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:53:57.2630] - DEBUG - [Save session: 18] Completed container.writeChanges
+[2021-01-05 21:53:57.2630] - DEBUG - [Save session: 18] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:53:57.2640] - INFO - Marking changed: false
+[2021-01-05 21:53:57.2670] - DEBUG - [Save session: 18] Completed super.save
+[2021-01-05 21:54:01.3730] - DEBUG - [Save session: 19] Started, operation: saveOperation
+[2021-01-05 21:54:01.3730] - DEBUG - [Save session: 19] Before container.writeChanges
+[2021-01-05 21:54:01.3740] - DEBUG - [Save session: 19] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:54:01.3750] - DEBUG - [Save session: 19] Completed container.writeChanges
+[2021-01-05 21:54:01.3750] - DEBUG - [Save session: 19] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:54:01.3770] - INFO - Marking changed: false
+[2021-01-05 21:54:01.3810] - DEBUG - [Save session: 19] Completed super.save
+[2021-01-05 21:54:39.9420] - DEBUG - [Save session: 20] Started, operation: saveOperation
+[2021-01-05 21:54:39.9420] - DEBUG - [Save session: 20] Before container.writeChanges
+[2021-01-05 21:54:39.9420] - DEBUG - [Save session: 20] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:54:39.9430] - DEBUG - [Save session: 20] Completed container.writeChanges
+[2021-01-05 21:54:39.9430] - DEBUG - [Save session: 20] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:54:39.9450] - INFO - Marking changed: false
+[2021-01-05 21:54:39.9480] - DEBUG - [Save session: 20] Completed super.save
+[2021-01-05 21:55:12.5010] - DEBUG - [Save session: 21] Started, operation: saveOperation
+[2021-01-05 21:55:12.5010] - DEBUG - [Save session: 21] Before container.writeChanges
+[2021-01-05 21:55:12.5020] - DEBUG - [Save session: 21] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:55:12.5030] - DEBUG - [Save session: 21] Completed container.writeChanges
+[2021-01-05 21:55:12.5030] - DEBUG - [Save session: 21] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:55:12.5040] - INFO - Marking changed: false
+[2021-01-05 21:55:12.5080] - DEBUG - [Save session: 21] Completed super.save
+[2021-01-05 21:55:22.3710] - DEBUG - [Save session: 22] Started, operation: saveOperation
+[2021-01-05 21:55:22.3710] - DEBUG - [Save session: 22] Before container.writeChanges
+[2021-01-05 21:55:22.3720] - DEBUG - [Save session: 22] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:55:22.3730] - DEBUG - [Save session: 22] Completed container.writeChanges
+[2021-01-05 21:55:22.3730] - DEBUG - [Save session: 22] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:55:22.3750] - INFO - Marking changed: false
+[2021-01-05 21:55:22.4760] - DEBUG - [Save session: 22] Completed super.save
+[2021-01-05 21:55:25.0940] - DEBUG - [Save session: 23] Started, operation: saveOperation
+[2021-01-05 21:55:25.0940] - DEBUG - [Save session: 23] Before container.writeChanges
+[2021-01-05 21:55:25.0950] - DEBUG - [Save session: 23] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:55:25.0960] - DEBUG - [Save session: 23] Completed container.writeChanges
+[2021-01-05 21:55:25.0960] - DEBUG - [Save session: 23] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:55:25.0980] - INFO - Marking changed: false
+[2021-01-05 21:55:25.1030] - DEBUG - [Save session: 23] Completed super.save
+[2021-01-05 21:55:48.2610] - DEBUG - [Save session: 24] Started, operation: saveOperation
+[2021-01-05 21:55:48.2610] - DEBUG - [Save session: 24] Before container.writeChanges
+[2021-01-05 21:55:48.2620] - DEBUG - [Save session: 24] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:55:48.2630] - DEBUG - [Save session: 24] Completed container.writeChanges
+[2021-01-05 21:55:48.2630] - DEBUG - [Save session: 24] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:55:48.2650] - INFO - Marking changed: false
+[2021-01-05 21:55:48.2690] - DEBUG - [Save session: 24] Completed super.save
+[2021-01-05 21:56:07.9700] - DEBUG - [Save session: 25] Started, operation: saveOperation
+[2021-01-05 21:56:07.9700] - DEBUG - [Save session: 25] Before container.writeChanges
+[2021-01-05 21:56:07.9710] - DEBUG - [Save session: 25] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:56:07.9720] - DEBUG - [Save session: 25] Completed container.writeChanges
+[2021-01-05 21:56:07.9720] - DEBUG - [Save session: 25] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:56:07.9730] - INFO - Marking changed: false
+[2021-01-05 21:56:07.9780] - DEBUG - [Save session: 25] Completed super.save
+[2021-01-05 21:56:17.0320] - DEBUG - [Save session: 26] Started, operation: saveOperation
+[2021-01-05 21:56:17.0320] - DEBUG - [Save session: 26] Before container.writeChanges
+[2021-01-05 21:56:17.0330] - DEBUG - [Save session: 26] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:56:17.0340] - DEBUG - [Save session: 26] Completed container.writeChanges
+[2021-01-05 21:56:17.0340] - DEBUG - [Save session: 26] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:56:17.0360] - INFO - Marking changed: false
+[2021-01-05 21:56:17.0420] - DEBUG - [Save session: 26] Completed super.save
+[2021-01-05 21:56:21.0610] - DEBUG - [Save session: 27] Started, operation: saveOperation
+[2021-01-05 21:56:21.0610] - DEBUG - [Save session: 27] Before container.writeChanges
+[2021-01-05 21:56:21.0620] - DEBUG - [Save session: 27] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:56:21.0630] - DEBUG - [Save session: 27] Completed container.writeChanges
+[2021-01-05 21:56:21.0630] - DEBUG - [Save session: 27] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:56:21.0650] - INFO - Marking changed: false
+[2021-01-05 21:56:21.0690] - DEBUG - [Save session: 27] Completed super.save
+[2021-01-05 21:56:24.7970] - DEBUG - [Save session: 28] Started, operation: saveOperation
+[2021-01-05 21:56:24.7970] - DEBUG - [Save session: 28] Before container.writeChanges
+[2021-01-05 21:56:24.7980] - DEBUG - [Save session: 28] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:56:24.7980] - DEBUG - [Save session: 28] Completed container.writeChanges
+[2021-01-05 21:56:24.7990] - DEBUG - [Save session: 28] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:56:24.8000] - INFO - Marking changed: false
+[2021-01-05 21:56:24.8030] - DEBUG - [Save session: 28] Completed super.save
+[2021-01-05 21:56:48.3060] - DEBUG - [Save session: 29] Started, operation: saveOperation
+[2021-01-05 21:56:48.3060] - DEBUG - [Save session: 29] Before container.writeChanges
+[2021-01-05 21:56:48.3070] - DEBUG - [Save session: 29] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:56:48.3080] - DEBUG - [Save session: 29] Completed container.writeChanges
+[2021-01-05 21:56:48.3080] - DEBUG - [Save session: 29] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:56:48.3100] - INFO - Marking changed: false
+[2021-01-05 21:56:48.3150] - DEBUG - [Save session: 29] Completed super.save
+[2021-01-05 21:56:56.9480] - DEBUG - [Save session: 30] Started, operation: saveOperation
+[2021-01-05 21:56:56.9480] - DEBUG - [Save session: 30] Before container.writeChanges
+[2021-01-05 21:56:56.9490] - DEBUG - [Save session: 30] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:56:56.9500] - DEBUG - [Save session: 30] Completed container.writeChanges
+[2021-01-05 21:56:56.9500] - DEBUG - [Save session: 30] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:56:56.9520] - INFO - Marking changed: false
+[2021-01-05 21:56:56.9560] - DEBUG - [Save session: 30] Completed super.save
+[2021-01-05 21:57:15.6010] - DEBUG - [Save session: 31] Started, operation: saveOperation
+[2021-01-05 21:57:15.6010] - DEBUG - [Save session: 31] Before container.writeChanges
+[2021-01-05 21:57:15.6010] - DEBUG - [Save session: 31] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:57:15.6020] - DEBUG - [Save session: 31] Completed container.writeChanges
+[2021-01-05 21:57:15.6030] - DEBUG - [Save session: 31] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:57:15.6040] - INFO - Marking changed: false
+[2021-01-05 21:57:15.6100] - DEBUG - [Save session: 31] Completed super.save
+[2021-01-05 21:57:50.1500] - DEBUG - [Save session: 32] Started, operation: saveOperation
+[2021-01-05 21:57:50.1500] - DEBUG - [Save session: 32] Before container.writeChanges
+[2021-01-05 21:57:50.1510] - DEBUG - [Save session: 32] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:57:50.1520] - DEBUG - [Save session: 32] Completed container.writeChanges
+[2021-01-05 21:57:50.1520] - DEBUG - [Save session: 32] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:57:50.1540] - INFO - Marking changed: false
+[2021-01-05 21:57:50.1560] - DEBUG - [Save session: 32] Completed super.save
+[2021-01-05 21:57:56.9530] - DEBUG - [Save session: 33] Started, operation: saveOperation
+[2021-01-05 21:57:56.9530] - DEBUG - [Save session: 33] Before container.writeChanges
+[2021-01-05 21:57:56.9540] - DEBUG - [Save session: 33] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:57:56.9560] - DEBUG - [Save session: 33] Completed container.writeChanges
+[2021-01-05 21:57:56.9560] - DEBUG - [Save session: 33] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:57:56.9570] - INFO - Marking changed: false
+[2021-01-05 21:57:56.9630] - DEBUG - [Save session: 33] Completed super.save
+[2021-01-05 21:58:01.0040] - DEBUG - [Save session: 34] Started, operation: saveOperation
+[2021-01-05 21:58:01.0040] - DEBUG - [Save session: 34] Before container.writeChanges
+[2021-01-05 21:58:01.0040] - DEBUG - [Save session: 34] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:58:01.0050] - DEBUG - [Save session: 34] Completed container.writeChanges
+[2021-01-05 21:58:01.0050] - DEBUG - [Save session: 34] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:58:01.0070] - INFO - Marking changed: false
+[2021-01-05 21:58:01.0090] - DEBUG - [Save session: 34] Completed super.save
+[2021-01-05 21:58:20.7250] - DEBUG - [Save session: 35] Started, operation: saveOperation
+[2021-01-05 21:58:20.7250] - DEBUG - [Save session: 35] Before container.writeChanges
+[2021-01-05 21:58:20.7260] - DEBUG - [Save session: 35] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:58:20.7270] - DEBUG - [Save session: 35] Completed container.writeChanges
+[2021-01-05 21:58:20.7270] - DEBUG - [Save session: 35] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:58:20.7290] - INFO - Marking changed: false
+[2021-01-05 21:58:20.7330] - DEBUG - [Save session: 35] Completed super.save
+[2021-01-05 21:58:41.2370] - DEBUG - [Save session: 36] Started, operation: saveOperation
+[2021-01-05 21:58:41.2370] - DEBUG - [Save session: 36] Before container.writeChanges
+[2021-01-05 21:58:41.2370] - DEBUG - [Save session: 36] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:58:41.2380] - DEBUG - [Save session: 36] Completed container.writeChanges
+[2021-01-05 21:58:41.2390] - DEBUG - [Save session: 36] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:58:41.2400] - INFO - Marking changed: false
+[2021-01-05 21:58:41.2440] - DEBUG - [Save session: 36] Completed super.save
+[2021-01-05 21:58:43.6980] - DEBUG - [Save session: 37] Started, operation: saveOperation
+[2021-01-05 21:58:43.6980] - DEBUG - [Save session: 37] Before container.writeChanges
+[2021-01-05 21:58:43.6990] - DEBUG - [Save session: 37] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:58:43.7000] - DEBUG - [Save session: 37] Completed container.writeChanges
+[2021-01-05 21:58:43.7000] - DEBUG - [Save session: 37] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:58:43.7010] - INFO - Marking changed: false
+[2021-01-05 21:58:43.7050] - DEBUG - [Save session: 37] Completed super.save
+[2021-01-05 21:58:53.2760] - DEBUG - [Save session: 38] Started, operation: saveOperation
+[2021-01-05 21:58:53.2760] - DEBUG - [Save session: 38] Before container.writeChanges
+[2021-01-05 21:58:53.2760] - DEBUG - [Save session: 38] Before waitUsingRecursiveRunLoop
+[2021-01-05 21:58:53.2780] - DEBUG - [Save session: 38] Completed container.writeChanges
+[2021-01-05 21:58:53.2780] - DEBUG - [Save session: 38] Completed waitUsingRecursiveRunLoop
+[2021-01-05 21:58:53.2790] - INFO - Marking changed: false
+[2021-01-05 21:58:53.2820] - DEBUG - [Save session: 38] Completed super.save
+[2021-01-05 22:00:06.8820] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 22.00.06.zip
+[2021-01-05 22:00:15.1430] - DEBUG - [Save session: 39] Started, operation: saveOperation
+[2021-01-05 22:00:15.1430] - DEBUG - [Save session: 39] Before container.writeChanges
+[2021-01-05 22:00:15.1440] - DEBUG - [Save session: 39] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:00:15.1450] - DEBUG - [Save session: 39] Completed container.writeChanges
+[2021-01-05 22:00:15.1450] - DEBUG - [Save session: 39] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:00:15.1460] - INFO - Marking changed: false
+[2021-01-05 22:00:15.1500] - DEBUG - [Save session: 39] Completed super.save
+[2021-01-05 22:04:12.8040] - DEBUG - [Save session: 40] Started, operation: saveOperation
+[2021-01-05 22:04:12.8040] - DEBUG - [Save session: 40] Before container.writeChanges
+[2021-01-05 22:04:12.8050] - DEBUG - [Save session: 40] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:04:12.8060] - DEBUG - [Save session: 40] Completed container.writeChanges
+[2021-01-05 22:04:12.8060] - DEBUG - [Save session: 40] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:04:12.8080] - INFO - Marking changed: false
+[2021-01-05 22:04:12.8140] - DEBUG - [Save session: 40] Completed super.save
+[2021-01-05 22:04:25.6630] - DEBUG - [Save session: 41] Started, operation: saveOperation
+[2021-01-05 22:04:25.6630] - DEBUG - [Save session: 41] Before container.writeChanges
+[2021-01-05 22:04:25.6630] - DEBUG - [Save session: 41] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:04:25.6640] - DEBUG - [Save session: 41] Completed container.writeChanges
+[2021-01-05 22:04:25.6640] - DEBUG - [Save session: 41] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:04:25.6660] - INFO - Marking changed: false
+[2021-01-05 22:04:25.7680] - DEBUG - [Save session: 41] Completed super.save
+[2021-01-05 22:04:36.5580] - DEBUG - [Save session: 42] Started, operation: saveOperation
+[2021-01-05 22:04:36.5580] - DEBUG - [Save session: 42] Before container.writeChanges
+[2021-01-05 22:04:36.5590] - DEBUG - [Save session: 42] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:04:36.5600] - DEBUG - [Save session: 42] Completed container.writeChanges
+[2021-01-05 22:04:36.5600] - DEBUG - [Save session: 42] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:04:36.5610] - INFO - Marking changed: false
+[2021-01-05 22:04:36.5650] - DEBUG - [Save session: 42] Completed super.save
+[2021-01-05 22:04:38.9050] - DEBUG - [Save session: 43] Started, operation: saveOperation
+[2021-01-05 22:04:38.9050] - DEBUG - [Save session: 43] Before container.writeChanges
+[2021-01-05 22:04:38.9060] - DEBUG - [Save session: 43] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:04:38.9070] - DEBUG - [Save session: 43] Completed container.writeChanges
+[2021-01-05 22:04:38.9070] - DEBUG - [Save session: 43] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:04:38.9080] - INFO - Marking changed: false
+[2021-01-05 22:04:38.9120] - DEBUG - [Save session: 43] Completed super.save
+[2021-01-05 22:04:45.8640] - DEBUG - [Save session: 44] Started, operation: saveOperation
+[2021-01-05 22:04:45.8640] - DEBUG - [Save session: 44] Before container.writeChanges
+[2021-01-05 22:04:45.8650] - DEBUG - [Save session: 44] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:04:45.8660] - DEBUG - [Save session: 44] Completed container.writeChanges
+[2021-01-05 22:04:45.8660] - DEBUG - [Save session: 44] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:04:45.8680] - INFO - Marking changed: false
+[2021-01-05 22:04:45.8720] - DEBUG - [Save session: 44] Completed super.save
+[2021-01-05 22:04:54.5040] - DEBUG - [Save session: 45] Started, operation: saveOperation
+[2021-01-05 22:04:54.5040] - DEBUG - [Save session: 45] Before container.writeChanges
+[2021-01-05 22:04:54.5050] - DEBUG - [Save session: 45] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:04:54.5060] - DEBUG - [Save session: 45] Completed container.writeChanges
+[2021-01-05 22:04:54.5060] - DEBUG - [Save session: 45] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:04:54.5080] - INFO - Marking changed: false
+[2021-01-05 22:04:54.5130] - DEBUG - [Save session: 45] Completed super.save
+[2021-01-05 22:04:58.4940] - DEBUG - [Save session: 46] Started, operation: saveOperation
+[2021-01-05 22:04:58.4940] - DEBUG - [Save session: 46] Before container.writeChanges
+[2021-01-05 22:04:58.4950] - DEBUG - [Save session: 46] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:04:58.5000] - DEBUG - [Save session: 46] Completed container.writeChanges
+[2021-01-05 22:04:58.5000] - DEBUG - [Save session: 46] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:04:58.5010] - INFO - Marking changed: false
+[2021-01-05 22:04:58.5040] - DEBUG - [Save session: 46] Completed super.save
+[2021-01-05 22:05:19.0420] - DEBUG - [Save session: 47] Started, operation: saveOperation
+[2021-01-05 22:05:19.0420] - DEBUG - [Save session: 47] Before container.writeChanges
+[2021-01-05 22:05:19.0430] - DEBUG - [Save session: 47] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:05:19.0440] - DEBUG - [Save session: 47] Completed container.writeChanges
+[2021-01-05 22:05:19.0440] - DEBUG - [Save session: 47] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:05:19.0460] - INFO - Marking changed: false
+[2021-01-05 22:05:19.0530] - DEBUG - [Save session: 47] Completed super.save
+[2021-01-05 22:05:33.2420] - DEBUG - [Save session: 48] Started, operation: saveOperation
+[2021-01-05 22:05:33.2420] - DEBUG - [Save session: 48] Before container.writeChanges
+[2021-01-05 22:05:33.2430] - DEBUG - [Save session: 48] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:05:33.2440] - DEBUG - [Save session: 48] Completed container.writeChanges
+[2021-01-05 22:05:33.2440] - DEBUG - [Save session: 48] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:05:33.2460] - INFO - Marking changed: false
+[2021-01-05 22:05:33.2490] - DEBUG - [Save session: 48] Completed super.save
+[2021-01-05 22:05:40.9850] - DEBUG - [Save session: 49] Started, operation: saveOperation
+[2021-01-05 22:05:40.9850] - DEBUG - [Save session: 49] Before container.writeChanges
+[2021-01-05 22:05:41.0150] - DEBUG - [Save session: 49] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:05:41.0190] - DEBUG - [Save session: 49] Completed container.writeChanges
+[2021-01-05 22:05:41.0190] - DEBUG - [Save session: 49] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:05:41.0200] - INFO - Marking changed: false
+[2021-01-05 22:05:41.0690] - DEBUG - [Save session: 49] Completed super.save
+[2021-01-05 22:06:15.1140] - DEBUG - [Save session: 50] Started, operation: saveOperation
+[2021-01-05 22:06:15.1140] - DEBUG - [Save session: 50] Before container.writeChanges
+[2021-01-05 22:06:15.1150] - DEBUG - [Save session: 50] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:06:15.1160] - DEBUG - [Save session: 50] Completed container.writeChanges
+[2021-01-05 22:06:15.1160] - DEBUG - [Save session: 50] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:06:15.1180] - INFO - Marking changed: false
+[2021-01-05 22:06:15.1200] - DEBUG - [Save session: 50] Completed super.save
+[2021-01-05 22:06:47.6730] - DEBUG - [Save session: 51] Started, operation: saveOperation
+[2021-01-05 22:06:47.6730] - DEBUG - [Save session: 51] Before container.writeChanges
+[2021-01-05 22:06:47.6740] - DEBUG - [Save session: 51] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:06:47.6750] - DEBUG - [Save session: 51] Completed container.writeChanges
+[2021-01-05 22:06:47.6750] - DEBUG - [Save session: 51] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:06:47.6770] - INFO - Marking changed: false
+[2021-01-05 22:06:47.6810] - DEBUG - [Save session: 51] Completed super.save
+[2021-01-05 22:07:27.4710] - DEBUG - [Save session: 52] Started, operation: autosaveInPlaceOperation
+[2021-01-05 22:07:27.4710] - DEBUG - [Save session: 52] Before container.writeChanges
+[2021-01-05 22:07:27.4710] - DEBUG - [Save session: 52] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:07:27.4850] - DEBUG - [Save session: 52] Completed container.writeChanges
+[2021-01-05 22:07:27.4850] - DEBUG - [Save session: 52] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:07:27.4890] - DEBUG - [Save session: 52] Completed super.save
+[2021-01-05 22:07:41.4830] - DEBUG - [Save session: 53] Started, operation: saveOperation
+[2021-01-05 22:07:41.4830] - DEBUG - [Save session: 53] Before container.writeChanges
+[2021-01-05 22:07:41.4840] - DEBUG - [Save session: 53] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:07:41.5150] - DEBUG - [Save session: 53] Completed container.writeChanges
+[2021-01-05 22:07:41.5160] - DEBUG - [Save session: 53] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:07:41.5180] - INFO - Marking changed: false
+[2021-01-05 22:07:41.6200] - DEBUG - [Save session: 53] Completed super.save
+[2021-01-05 22:08:02.0940] - DEBUG - [Save session: 54] Started, operation: saveOperation
+[2021-01-05 22:08:02.0940] - DEBUG - [Save session: 54] Before container.writeChanges
+[2021-01-05 22:08:02.0940] - DEBUG - [Save session: 54] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:08:02.1050] - DEBUG - [Save session: 54] Completed container.writeChanges
+[2021-01-05 22:08:02.1050] - DEBUG - [Save session: 54] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:08:02.1070] - INFO - Marking changed: false
+[2021-01-05 22:08:02.1110] - DEBUG - [Save session: 54] Completed super.save
+[2021-01-05 22:08:10.8600] - DEBUG - [Save session: 55] Started, operation: saveOperation
+[2021-01-05 22:08:10.8600] - DEBUG - [Save session: 55] Before container.writeChanges
+[2021-01-05 22:08:10.8610] - DEBUG - [Save session: 55] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:08:10.8620] - DEBUG - [Save session: 55] Completed container.writeChanges
+[2021-01-05 22:08:10.8620] - DEBUG - [Save session: 55] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:08:10.8640] - INFO - Marking changed: false
+[2021-01-05 22:08:10.8670] - DEBUG - [Save session: 55] Completed super.save
+[2021-01-05 22:08:15.1120] - DEBUG - [Save session: 56] Started, operation: saveOperation
+[2021-01-05 22:08:15.1120] - DEBUG - [Save session: 56] Before container.writeChanges
+[2021-01-05 22:08:15.1130] - DEBUG - [Save session: 56] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:08:15.1140] - DEBUG - [Save session: 56] Completed container.writeChanges
+[2021-01-05 22:08:15.1140] - DEBUG - [Save session: 56] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:08:15.1160] - INFO - Marking changed: false
+[2021-01-05 22:08:15.1580] - DEBUG - [Save session: 56] Completed super.save
+[2021-01-05 22:08:15.7260] - DEBUG - [Save session: 57] Started, operation: saveOperation
+[2021-01-05 22:08:15.7270] - DEBUG - [Save session: 57] Before container.writeChanges
+[2021-01-05 22:08:15.7280] - DEBUG - [Save session: 57] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:08:15.7290] - DEBUG - [Save session: 57] Completed container.writeChanges
+[2021-01-05 22:08:15.7290] - DEBUG - [Save session: 57] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:08:15.7310] - INFO - Marking changed: false
+[2021-01-05 22:08:15.7340] - DEBUG - [Save session: 57] Completed super.save
+[2021-01-05 22:08:16.1480] - DEBUG - [Save session: 58] Started, operation: saveOperation
+[2021-01-05 22:08:16.1480] - DEBUG - [Save session: 58] Before container.writeChanges
+[2021-01-05 22:08:16.1490] - DEBUG - [Save session: 58] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:08:16.1500] - DEBUG - [Save session: 58] Completed container.writeChanges
+[2021-01-05 22:08:16.1500] - DEBUG - [Save session: 58] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:08:16.3760] - INFO - Marking changed: false
+[2021-01-05 22:08:16.3790] - DEBUG - [Save session: 58] Completed super.save
+[2021-01-05 22:08:36.9350] - DEBUG - [Save session: 59] Started, operation: saveOperation
+[2021-01-05 22:08:36.9350] - DEBUG - [Save session: 59] Before container.writeChanges
+[2021-01-05 22:08:36.9360] - DEBUG - [Save session: 59] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:08:36.9370] - DEBUG - [Save session: 59] Completed container.writeChanges
+[2021-01-05 22:08:36.9370] - DEBUG - [Save session: 59] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:08:36.9390] - INFO - Marking changed: false
+[2021-01-05 22:08:36.9440] - DEBUG - [Save session: 59] Completed super.save
+[2021-01-05 22:08:44.0250] - DEBUG - [Save session: 60] Started, operation: saveOperation
+[2021-01-05 22:08:44.0250] - DEBUG - [Save session: 60] Before container.writeChanges
+[2021-01-05 22:08:44.0260] - DEBUG - [Save session: 60] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:08:44.0270] - DEBUG - [Save session: 60] Completed container.writeChanges
+[2021-01-05 22:08:44.0270] - DEBUG - [Save session: 60] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:08:44.0290] - INFO - Marking changed: false
+[2021-01-05 22:08:44.0330] - DEBUG - [Save session: 60] Completed super.save
+[2021-01-05 22:09:09.1250] - DEBUG - [Save session: 61] Started, operation: saveOperation
+[2021-01-05 22:09:09.1250] - DEBUG - [Save session: 61] Before container.writeChanges
+[2021-01-05 22:09:09.1260] - DEBUG - [Save session: 61] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:09:09.1270] - DEBUG - [Save session: 61] Completed container.writeChanges
+[2021-01-05 22:09:09.1270] - DEBUG - [Save session: 61] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:09:09.1300] - INFO - Marking changed: false
+[2021-01-05 22:09:09.1350] - DEBUG - [Save session: 61] Completed super.save
+[2021-01-05 22:09:45.4760] - DEBUG - [Save session: 62] Started, operation: saveOperation
+[2021-01-05 22:09:45.4760] - DEBUG - [Save session: 62] Before container.writeChanges
+[2021-01-05 22:09:45.4770] - DEBUG - [Save session: 62] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:09:45.4780] - DEBUG - [Save session: 62] Completed container.writeChanges
+[2021-01-05 22:09:45.4780] - DEBUG - [Save session: 62] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:09:45.4800] - INFO - Marking changed: false
+[2021-01-05 22:09:45.4830] - DEBUG - [Save session: 62] Completed super.save
+[2021-01-05 22:10:07.0160] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 22.10.07.zip
+[2021-01-05 22:10:16.5230] - DEBUG - [Save session: 63] Started, operation: saveOperation
+[2021-01-05 22:10:16.5230] - DEBUG - [Save session: 63] Before container.writeChanges
+[2021-01-05 22:10:16.5240] - DEBUG - [Save session: 63] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:10:16.5250] - DEBUG - [Save session: 63] Completed container.writeChanges
+[2021-01-05 22:10:16.5250] - DEBUG - [Save session: 63] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:10:16.5260] - INFO - Marking changed: false
+[2021-01-05 22:10:16.5300] - DEBUG - [Save session: 63] Completed super.save
+[2021-01-05 22:11:06.9290] - DEBUG - [Save session: 64] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-05 22:11:06.9290] - DEBUG - [Save session: 64] Before container.writeChanges
+[2021-01-05 22:11:06.9290] - DEBUG - [Save session: 64] Not autosaving to archive, implicitly cancellable
+[2021-01-05 22:11:06.9450] - DEBUG - [Save session: 64] Completed container.writeChanges
+[2021-01-05 22:11:23.7460] - DEBUG - [Save session: 65] Started, operation: saveOperation
+[2021-01-05 22:11:23.7460] - DEBUG - [Save session: 65] Before container.writeChanges
+[2021-01-05 22:11:23.7470] - DEBUG - [Save session: 65] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:11:23.7480] - DEBUG - [Save session: 65] Completed container.writeChanges
+[2021-01-05 22:11:23.7480] - DEBUG - [Save session: 65] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:11:23.7490] - INFO - Marking changed: false
+[2021-01-05 22:11:23.7520] - DEBUG - [Save session: 65] Completed super.save
+[2021-01-05 22:11:43.4800] - DEBUG - [Save session: 66] Started, operation: saveOperation
+[2021-01-05 22:11:43.4800] - DEBUG - [Save session: 66] Before container.writeChanges
+[2021-01-05 22:11:43.4840] - DEBUG - [Save session: 66] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:11:43.4850] - DEBUG - [Save session: 66] Completed container.writeChanges
+[2021-01-05 22:11:43.4850] - DEBUG - [Save session: 66] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:11:43.4860] - INFO - Marking changed: false
+[2021-01-05 22:11:43.4900] - DEBUG - [Save session: 66] Completed super.save
+[2021-01-05 22:12:12.3260] - DEBUG - [Save session: 67] Started, operation: saveOperation
+[2021-01-05 22:12:12.3260] - DEBUG - [Save session: 67] Before container.writeChanges
+[2021-01-05 22:12:12.3270] - DEBUG - [Save session: 67] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:12:12.3280] - DEBUG - [Save session: 67] Completed container.writeChanges
+[2021-01-05 22:12:12.3280] - DEBUG - [Save session: 67] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:12:12.3290] - INFO - Marking changed: false
+[2021-01-05 22:12:12.3730] - DEBUG - [Save session: 67] Completed super.save
+[2021-01-05 22:12:21.4660] - DEBUG - [Save session: 68] Started, operation: saveOperation
+[2021-01-05 22:12:21.4660] - DEBUG - [Save session: 68] Before container.writeChanges
+[2021-01-05 22:12:21.4670] - DEBUG - [Save session: 68] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:12:21.4680] - DEBUG - [Save session: 68] Completed container.writeChanges
+[2021-01-05 22:12:21.4680] - DEBUG - [Save session: 68] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:12:21.4700] - INFO - Marking changed: false
+[2021-01-05 22:12:21.4770] - DEBUG - [Save session: 68] Completed super.save
+[2021-01-05 22:12:27.4110] - DEBUG - [Save session: 69] Started, operation: saveOperation
+[2021-01-05 22:12:27.4110] - DEBUG - [Save session: 69] Before container.writeChanges
+[2021-01-05 22:12:27.4120] - DEBUG - [Save session: 69] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:12:27.4130] - DEBUG - [Save session: 69] Completed container.writeChanges
+[2021-01-05 22:12:27.4130] - DEBUG - [Save session: 69] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:12:27.4140] - INFO - Marking changed: false
+[2021-01-05 22:12:27.4160] - DEBUG - [Save session: 69] Completed super.save
+[2021-01-05 22:15:09.7030] - DEBUG - [Save session: 70] Started, operation: saveOperation
+[2021-01-05 22:15:09.7030] - DEBUG - [Save session: 70] Before container.writeChanges
+[2021-01-05 22:15:09.7040] - DEBUG - [Save session: 70] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:15:09.7050] - DEBUG - [Save session: 70] Completed container.writeChanges
+[2021-01-05 22:15:09.7050] - DEBUG - [Save session: 70] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:15:09.7060] - INFO - Marking changed: false
+[2021-01-05 22:15:09.7100] - DEBUG - [Save session: 70] Completed super.save
+[2021-01-05 22:15:15.9900] - DEBUG - [Save session: 71] Started, operation: saveOperation
+[2021-01-05 22:15:15.9900] - DEBUG - [Save session: 71] Before container.writeChanges
+[2021-01-05 22:15:15.9910] - DEBUG - [Save session: 71] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:15:15.9920] - DEBUG - [Save session: 71] Completed container.writeChanges
+[2021-01-05 22:15:15.9920] - DEBUG - [Save session: 71] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:15:15.9940] - INFO - Marking changed: false
+[2021-01-05 22:15:15.9970] - DEBUG - [Save session: 71] Completed super.save
+[2021-01-05 22:15:19.1170] - DEBUG - [Save session: 72] Started, operation: saveOperation
+[2021-01-05 22:15:19.1170] - DEBUG - [Save session: 72] Before container.writeChanges
+[2021-01-05 22:15:19.1180] - DEBUG - [Save session: 72] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:15:19.1190] - DEBUG - [Save session: 72] Completed container.writeChanges
+[2021-01-05 22:15:19.1190] - DEBUG - [Save session: 72] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:15:19.1200] - INFO - Marking changed: false
+[2021-01-05 22:15:19.1260] - DEBUG - [Save session: 72] Completed super.save
+[2021-01-05 22:15:49.9280] - DEBUG - [Save session: 73] Started, operation: saveOperation
+[2021-01-05 22:15:49.9280] - DEBUG - [Save session: 73] Before container.writeChanges
+[2021-01-05 22:15:49.9290] - DEBUG - [Save session: 73] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:15:49.9300] - DEBUG - [Save session: 73] Completed container.writeChanges
+[2021-01-05 22:15:49.9300] - DEBUG - [Save session: 73] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:15:49.9310] - INFO - Marking changed: false
+[2021-01-05 22:15:49.9350] - DEBUG - [Save session: 73] Completed super.save
+[2021-01-05 22:16:42.3250] - DEBUG - [Save session: 74] Started, operation: saveOperation
+[2021-01-05 22:16:42.3250] - DEBUG - [Save session: 74] Before container.writeChanges
+[2021-01-05 22:16:42.3260] - DEBUG - [Save session: 74] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:16:42.3270] - DEBUG - [Save session: 74] Completed container.writeChanges
+[2021-01-05 22:16:42.3270] - DEBUG - [Save session: 74] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:16:42.3280] - INFO - Marking changed: false
+[2021-01-05 22:16:42.3320] - DEBUG - [Save session: 74] Completed super.save
+[2021-01-05 22:16:45.9420] - DEBUG - [Save session: 75] Started, operation: saveOperation
+[2021-01-05 22:16:45.9420] - DEBUG - [Save session: 75] Before container.writeChanges
+[2021-01-05 22:16:45.9430] - DEBUG - [Save session: 75] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:16:45.9440] - DEBUG - [Save session: 75] Completed container.writeChanges
+[2021-01-05 22:16:45.9440] - DEBUG - [Save session: 75] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:16:45.9460] - INFO - Marking changed: false
+[2021-01-05 22:16:45.9490] - DEBUG - [Save session: 75] Completed super.save
+[2021-01-05 22:16:51.8800] - DEBUG - [Save session: 76] Started, operation: saveOperation
+[2021-01-05 22:16:51.8810] - DEBUG - [Save session: 76] Before container.writeChanges
+[2021-01-05 22:16:51.8810] - DEBUG - [Save session: 76] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:16:51.8820] - DEBUG - [Save session: 76] Completed container.writeChanges
+[2021-01-05 22:16:51.8820] - DEBUG - [Save session: 76] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:16:51.8840] - INFO - Marking changed: false
+[2021-01-05 22:16:51.8910] - DEBUG - [Save session: 76] Completed super.save
+[2021-01-05 22:17:40.8410] - DEBUG - [Save session: 77] Started, operation: saveOperation
+[2021-01-05 22:17:40.8420] - DEBUG - [Save session: 77] Before container.writeChanges
+[2021-01-05 22:17:40.8420] - DEBUG - [Save session: 77] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:17:40.8440] - DEBUG - [Save session: 77] Completed container.writeChanges
+[2021-01-05 22:17:40.8440] - DEBUG - [Save session: 77] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:17:40.8460] - INFO - Marking changed: false
+[2021-01-05 22:17:40.8500] - DEBUG - [Save session: 77] Completed super.save
+[2021-01-05 22:17:43.8070] - DEBUG - [Save session: 78] Started, operation: saveOperation
+[2021-01-05 22:17:43.8070] - DEBUG - [Save session: 78] Before container.writeChanges
+[2021-01-05 22:17:43.8270] - DEBUG - [Save session: 78] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:17:43.8290] - DEBUG - [Save session: 78] Completed container.writeChanges
+[2021-01-05 22:17:43.8290] - DEBUG - [Save session: 78] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:17:43.8300] - INFO - Marking changed: false
+[2021-01-05 22:17:43.8350] - DEBUG - [Save session: 78] Completed super.save
+[2021-01-05 22:17:50.9300] - DEBUG - [Save session: 79] Started, operation: saveOperation
+[2021-01-05 22:17:50.9300] - DEBUG - [Save session: 79] Before container.writeChanges
+[2021-01-05 22:17:50.9310] - DEBUG - [Save session: 79] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:17:50.9320] - DEBUG - [Save session: 79] Completed container.writeChanges
+[2021-01-05 22:17:50.9320] - DEBUG - [Save session: 79] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:17:50.9340] - INFO - Marking changed: false
+[2021-01-05 22:17:50.9360] - DEBUG - [Save session: 79] Completed super.save
+
+[2021-01-05 22:18:00.3100] - INFO - Reading from /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-05 22:18:00.3560] - INFO - Done reading
+[2021-01-05 22:18:00.3560] - INFO - Marking changed: false
+[2021-01-05 22:18:00.4850] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-05 22:18:01.5830] - INFO - Project server PID: 1594
+[2021-01-05 22:18:01.8260] - INFO - Installing dependencies…
+[2021-01-05 22:18:02.0470] - ERROR - Tue, 05 Jan 2021 13:18:02 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer 3.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-05 22:18:02.0610] - INFO - GET 200 /design/document.json 0 B (9ms)
+[2021-01-05 22:18:02.9260] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-05 22:18:03.2350] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:03.4930] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:03.4950] - INFO - Installing dependencies - DONE. Took 1669ms
+[2021-01-05 22:18:04.2620] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:05.1180] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:21.1960] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:21.4200] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:23.0650] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:23.7180] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:24.9790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:25.6460] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:26.9870] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:27.7480] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:18:29.1090] - DEBUG - [Save session: 0] Started, operation: saveOperation
+[2021-01-05 22:18:29.1090] - DEBUG - [Save session: 0] Before container.writeChanges
+[2021-01-05 22:18:29.1090] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:18:29.1410] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2021-01-05 22:18:29.1410] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:18:29.1430] - INFO - Marking changed: false
+[2021-01-05 22:18:29.1470] - DEBUG - [Save session: 0] Completed super.save
+[2021-01-05 22:18:54.0200] - DEBUG - [Save session: 1] Started, operation: saveOperation
+[2021-01-05 22:18:54.0200] - DEBUG - [Save session: 1] Before container.writeChanges
+[2021-01-05 22:18:54.0210] - DEBUG - [Save session: 1] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:18:54.0220] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2021-01-05 22:18:54.0220] - DEBUG - [Save session: 1] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:18:54.0230] - INFO - Marking changed: false
+[2021-01-05 22:18:54.0260] - DEBUG - [Save session: 1] Completed super.save
+[2021-01-05 22:19:17.3710] - DEBUG - [Save session: 2] Started, operation: saveOperation
+[2021-01-05 22:19:17.3710] - DEBUG - [Save session: 2] Before container.writeChanges
+[2021-01-05 22:19:17.3720] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:19:17.3730] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2021-01-05 22:19:17.3740] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:19:17.3750] - INFO - Marking changed: false
+[2021-01-05 22:19:17.3780] - DEBUG - [Save session: 2] Completed super.save
+[2021-01-05 22:19:18.8270] - DEBUG - [Save session: 3] Started, operation: saveOperation
+[2021-01-05 22:19:18.8270] - DEBUG - [Save session: 3] Before container.writeChanges
+[2021-01-05 22:19:18.8280] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:19:18.8290] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2021-01-05 22:19:18.8290] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:19:18.8300] - INFO - Marking changed: false
+[2021-01-05 22:19:18.8330] - DEBUG - [Save session: 3] Completed super.save
+[2021-01-05 22:19:23.4110] - DEBUG - [Save session: 4] Started, operation: saveOperation
+[2021-01-05 22:19:23.4110] - DEBUG - [Save session: 4] Before container.writeChanges
+[2021-01-05 22:19:23.4120] - DEBUG - [Save session: 4] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:19:23.4130] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2021-01-05 22:19:23.4130] - DEBUG - [Save session: 4] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:19:23.4150] - INFO - Marking changed: false
+[2021-01-05 22:19:23.4180] - DEBUG - [Save session: 4] Completed super.save
+[2021-01-05 22:19:30.6810] - DEBUG - [Save session: 5] Started, operation: saveOperation
+[2021-01-05 22:19:30.6810] - DEBUG - [Save session: 5] Before container.writeChanges
+[2021-01-05 22:19:30.6820] - DEBUG - [Save session: 5] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:19:30.6830] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2021-01-05 22:19:30.6830] - DEBUG - [Save session: 5] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:19:30.6850] - INFO - Marking changed: false
+[2021-01-05 22:19:30.7280] - DEBUG - [Save session: 5] Completed super.save
+[2021-01-05 22:19:32.5160] - DEBUG - [Save session: 6] Started, operation: saveOperation
+[2021-01-05 22:19:32.5160] - DEBUG - [Save session: 6] Before container.writeChanges
+[2021-01-05 22:19:32.5160] - DEBUG - [Save session: 6] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:19:32.5170] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2021-01-05 22:19:32.5180] - DEBUG - [Save session: 6] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:19:32.5190] - INFO - Marking changed: false
+[2021-01-05 22:19:32.5230] - DEBUG - [Save session: 6] Completed super.save
+[2021-01-05 22:21:20.7100] - DEBUG - [Save session: 7] Started, operation: saveOperation
+[2021-01-05 22:21:20.7100] - DEBUG - [Save session: 7] Before container.writeChanges
+[2021-01-05 22:21:20.7110] - DEBUG - [Save session: 7] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:21:20.7120] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2021-01-05 22:21:20.7120] - DEBUG - [Save session: 7] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:21:20.7130] - INFO - Marking changed: false
+[2021-01-05 22:21:20.7160] - DEBUG - [Save session: 7] Completed super.save
+[2021-01-05 22:22:09.8470] - DEBUG - [Save session: 8] Started, operation: saveOperation
+[2021-01-05 22:22:09.8470] - DEBUG - [Save session: 8] Before container.writeChanges
+[2021-01-05 22:22:09.8480] - DEBUG - [Save session: 8] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:22:09.8490] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2021-01-05 22:22:09.8490] - DEBUG - [Save session: 8] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:22:09.8500] - INFO - Marking changed: false
+[2021-01-05 22:22:09.8540] - DEBUG - [Save session: 8] Completed super.save
+[2021-01-05 22:22:14.5780] - DEBUG - [Save session: 9] Started, operation: saveOperation
+[2021-01-05 22:22:14.5780] - DEBUG - [Save session: 9] Before container.writeChanges
+[2021-01-05 22:22:14.5980] - DEBUG - [Save session: 9] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:22:14.5990] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2021-01-05 22:22:14.5990] - DEBUG - [Save session: 9] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:22:14.6010] - INFO - Marking changed: false
+[2021-01-05 22:22:14.6040] - DEBUG - [Save session: 9] Completed super.save
+[2021-01-05 22:22:18.8010] - DEBUG - [Save session: 10] Started, operation: saveOperation
+[2021-01-05 22:22:18.8010] - DEBUG - [Save session: 10] Before container.writeChanges
+[2021-01-05 22:22:18.8020] - DEBUG - [Save session: 10] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:22:18.8030] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2021-01-05 22:22:18.8030] - DEBUG - [Save session: 10] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:22:18.8050] - INFO - Marking changed: false
+[2021-01-05 22:22:18.8100] - DEBUG - [Save session: 10] Completed super.save
+[2021-01-05 22:22:52.6650] - DEBUG - [Save session: 11] Started, operation: saveOperation
+[2021-01-05 22:22:52.6650] - DEBUG - [Save session: 11] Before container.writeChanges
+[2021-01-05 22:22:52.6660] - DEBUG - [Save session: 11] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:22:52.6670] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2021-01-05 22:22:52.6670] - DEBUG - [Save session: 11] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:22:52.6680] - INFO - Marking changed: false
+[2021-01-05 22:22:52.6710] - DEBUG - [Save session: 11] Completed super.save
+[2021-01-05 22:23:26.1200] - DEBUG - [Save session: 12] Started, operation: saveOperation
+[2021-01-05 22:23:26.1200] - DEBUG - [Save session: 12] Before container.writeChanges
+[2021-01-05 22:23:26.1210] - DEBUG - [Save session: 12] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:23:26.1220] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2021-01-05 22:23:26.1220] - DEBUG - [Save session: 12] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:23:26.1240] - INFO - Marking changed: false
+[2021-01-05 22:23:26.1290] - DEBUG - [Save session: 12] Completed super.save
+[2021-01-05 22:24:31.9940] - DEBUG - [Save session: 13] Started, operation: saveOperation
+[2021-01-05 22:24:31.9950] - DEBUG - [Save session: 13] Before container.writeChanges
+[2021-01-05 22:24:31.9950] - DEBUG - [Save session: 13] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:24:31.9960] - DEBUG - [Save session: 13] Completed container.writeChanges
+[2021-01-05 22:24:31.9960] - DEBUG - [Save session: 13] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:24:31.9980] - INFO - Marking changed: false
+[2021-01-05 22:24:32.0010] - DEBUG - [Save session: 13] Completed super.save
+[2021-01-05 22:24:38.6600] - DEBUG - [Save session: 14] Started, operation: saveOperation
+[2021-01-05 22:24:38.6600] - DEBUG - [Save session: 14] Before container.writeChanges
+[2021-01-05 22:24:38.6610] - DEBUG - [Save session: 14] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:24:38.6620] - DEBUG - [Save session: 14] Completed container.writeChanges
+[2021-01-05 22:24:38.6620] - DEBUG - [Save session: 14] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:24:38.6630] - INFO - Marking changed: false
+[2021-01-05 22:24:38.6670] - DEBUG - [Save session: 14] Completed super.save
+[2021-01-05 22:25:43.1600] - DEBUG - [Save session: 15] Started, operation: saveOperation
+[2021-01-05 22:25:43.1600] - DEBUG - [Save session: 15] Before container.writeChanges
+[2021-01-05 22:25:43.1690] - DEBUG - [Save session: 15] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:25:43.1710] - DEBUG - [Save session: 15] Completed container.writeChanges
+[2021-01-05 22:25:43.1710] - DEBUG - [Save session: 15] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:25:43.1720] - INFO - Marking changed: false
+[2021-01-05 22:25:43.1760] - DEBUG - [Save session: 15] Completed super.save
+[2021-01-05 22:27:01.9360] - DEBUG - [Save session: 16] Started, operation: saveOperation
+[2021-01-05 22:27:01.9360] - DEBUG - [Save session: 16] Before container.writeChanges
+[2021-01-05 22:27:01.9370] - DEBUG - [Save session: 16] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:27:01.9380] - DEBUG - [Save session: 16] Completed container.writeChanges
+[2021-01-05 22:27:01.9380] - DEBUG - [Save session: 16] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:27:01.9400] - INFO - Marking changed: false
+[2021-01-05 22:27:01.9440] - DEBUG - [Save session: 16] Completed super.save
+[2021-01-05 22:27:07.9980] - DEBUG - [Save session: 17] Started, operation: saveOperation
+[2021-01-05 22:27:07.9980] - DEBUG - [Save session: 17] Before container.writeChanges
+[2021-01-05 22:27:07.9990] - DEBUG - [Save session: 17] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:27:08.0000] - DEBUG - [Save session: 17] Completed container.writeChanges
+[2021-01-05 22:27:08.0000] - DEBUG - [Save session: 17] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:27:08.0010] - INFO - Marking changed: false
+[2021-01-05 22:27:08.0040] - DEBUG - [Save session: 17] Completed super.save
+[2021-01-05 22:27:38.6720] - DEBUG - [Save session: 18] Started, operation: saveOperation
+[2021-01-05 22:27:38.6720] - DEBUG - [Save session: 18] Before container.writeChanges
+[2021-01-05 22:27:38.6730] - DEBUG - [Save session: 18] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:27:38.6740] - DEBUG - [Save session: 18] Completed container.writeChanges
+[2021-01-05 22:27:38.6740] - DEBUG - [Save session: 18] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:27:38.6760] - INFO - Marking changed: false
+[2021-01-05 22:27:38.6810] - DEBUG - [Save session: 18] Completed super.save
+[2021-01-05 22:28:00.3490] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 22.28.00.zip
+[2021-01-05 22:28:06.8210] - DEBUG - [Save session: 19] Started, operation: saveOperation
+[2021-01-05 22:28:06.8210] - DEBUG - [Save session: 19] Before container.writeChanges
+[2021-01-05 22:28:06.8220] - DEBUG - [Save session: 19] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:28:06.8230] - DEBUG - [Save session: 19] Completed container.writeChanges
+[2021-01-05 22:28:06.8230] - DEBUG - [Save session: 19] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:28:06.8240] - INFO - Marking changed: false
+[2021-01-05 22:28:06.8290] - DEBUG - [Save session: 19] Completed super.save
+[2021-01-05 22:28:22.2430] - DEBUG - [Save session: 20] Started, operation: saveOperation
+[2021-01-05 22:28:22.2430] - DEBUG - [Save session: 20] Before container.writeChanges
+[2021-01-05 22:28:22.2430] - DEBUG - [Save session: 20] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:28:22.2450] - DEBUG - [Save session: 20] Completed container.writeChanges
+[2021-01-05 22:28:22.2450] - DEBUG - [Save session: 20] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:28:22.2460] - INFO - Marking changed: false
+[2021-01-05 22:28:22.2900] - DEBUG - [Save session: 20] Completed super.save
+[2021-01-05 22:28:29.7540] - DEBUG - [Save session: 21] Started, operation: saveOperation
+[2021-01-05 22:28:29.7540] - DEBUG - [Save session: 21] Before container.writeChanges
+[2021-01-05 22:28:29.7550] - DEBUG - [Save session: 21] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:28:29.7560] - DEBUG - [Save session: 21] Completed container.writeChanges
+[2021-01-05 22:28:29.7560] - DEBUG - [Save session: 21] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:28:29.7570] - INFO - Marking changed: false
+[2021-01-05 22:28:29.7610] - DEBUG - [Save session: 21] Completed super.save
+[2021-01-05 22:28:35.3450] - DEBUG - [Save session: 22] Started, operation: saveOperation
+[2021-01-05 22:28:35.3450] - DEBUG - [Save session: 22] Before container.writeChanges
+[2021-01-05 22:28:35.3460] - DEBUG - [Save session: 22] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:28:35.3470] - DEBUG - [Save session: 22] Completed container.writeChanges
+[2021-01-05 22:28:35.3470] - DEBUG - [Save session: 22] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:28:35.3490] - INFO - Marking changed: false
+[2021-01-05 22:28:35.3530] - DEBUG - [Save session: 22] Completed super.save
+[2021-01-05 22:28:42.3530] - DEBUG - [Save session: 23] Started, operation: saveOperation
+[2021-01-05 22:28:42.3530] - DEBUG - [Save session: 23] Before container.writeChanges
+[2021-01-05 22:28:42.3540] - DEBUG - [Save session: 23] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:28:42.3550] - DEBUG - [Save session: 23] Completed container.writeChanges
+[2021-01-05 22:28:42.3550] - DEBUG - [Save session: 23] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:28:42.3560] - INFO - Marking changed: false
+[2021-01-05 22:28:42.3600] - DEBUG - [Save session: 23] Completed super.save
+[2021-01-05 22:28:46.7950] - DEBUG - [Save session: 24] Started, operation: saveOperation
+[2021-01-05 22:28:46.7950] - DEBUG - [Save session: 24] Before container.writeChanges
+[2021-01-05 22:28:46.7960] - DEBUG - [Save session: 24] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:28:46.7970] - DEBUG - [Save session: 24] Completed container.writeChanges
+[2021-01-05 22:28:46.7970] - DEBUG - [Save session: 24] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:28:46.7980] - INFO - Marking changed: false
+[2021-01-05 22:28:46.8020] - DEBUG - [Save session: 24] Completed super.save
+[2021-01-05 22:28:56.6590] - DEBUG - [Save session: 25] Started, operation: saveOperation
+[2021-01-05 22:28:56.6590] - DEBUG - [Save session: 25] Before container.writeChanges
+[2021-01-05 22:28:56.6600] - DEBUG - [Save session: 25] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:28:56.6610] - DEBUG - [Save session: 25] Completed container.writeChanges
+[2021-01-05 22:28:56.6610] - DEBUG - [Save session: 25] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:28:56.6620] - INFO - Marking changed: false
+[2021-01-05 22:28:56.6650] - DEBUG - [Save session: 25] Completed super.save
+
+[2021-01-05 22:29:06.8810] - INFO - Reading from /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-05 22:29:06.9270] - INFO - Done reading
+[2021-01-05 22:29:06.9270] - INFO - Marking changed: false
+[2021-01-05 22:29:07.0530] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-05 22:29:08.1820] - INFO - Project server PID: 1629
+[2021-01-05 22:29:08.4760] - INFO - Installing dependencies…
+[2021-01-05 22:29:08.7480] - ERROR - Tue, 05 Jan 2021 13:29:08 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer 3.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-05 22:29:08.7700] - INFO - GET 200 /design/document.json 0 B (3ms)
+[2021-01-05 22:29:09.5260] - ERROR - error running yarn: {"type":"warning","data":"\" > @framer/framer.default@1.98.0\" has unmet peer dependency \"framer@^1.0\"."}
+[2021-01-05 22:29:09.5270] - INFO - Installing dependencies - DONE. Took 1051ms
+[2021-01-05 22:29:09.7850] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-05 22:29:09.8720] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:09.9360] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:10.3330] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+
+[2021-01-05 22:29:36.1920] - INFO - Reading from /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-05 22:29:36.2170] - INFO - Done reading
+[2021-01-05 22:29:36.2180] - INFO - Marking changed: false
+[2021-01-05 22:29:36.4010] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-05 22:29:37.1700] - INFO - Project server PID: 1656
+[2021-01-05 22:29:37.3380] - INFO - Installing dependencies…
+[2021-01-05 22:29:37.7420] - ERROR - Tue, 05 Jan 2021 13:29:37 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-05 22:29:37.7570] - INFO - GET 200 /design/document.json 0 B (9ms)
+[2021-01-05 22:29:38.8700] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-05 22:29:39.1110] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:39.1120] - INFO - Installing dependencies - DONE. Took 1774ms
+[2021-01-05 22:29:39.2530] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:39.4710] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:40.5480] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:56.9300] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:56.9820] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:57.0280] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:57.9560] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:59.1570] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:29:59.8620] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:30:00.4820] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:30:58.1540] - DEBUG - [Save session: 0] Started, operation: saveOperation
+[2021-01-05 22:30:58.1550] - DEBUG - [Save session: 0] Before container.writeChanges
+[2021-01-05 22:30:58.1550] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:30:58.1820] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2021-01-05 22:30:58.1830] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:30:58.1860] - INFO - Marking changed: false
+[2021-01-05 22:30:58.1910] - DEBUG - [Save session: 0] Completed super.save
+[2021-01-05 22:31:01.4990] - DEBUG - [Save session: 1] Started, operation: saveOperation
+[2021-01-05 22:31:01.4990] - DEBUG - [Save session: 1] Before container.writeChanges
+[2021-01-05 22:31:01.5000] - DEBUG - [Save session: 1] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:31:01.5010] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2021-01-05 22:31:01.5010] - DEBUG - [Save session: 1] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:31:01.5020] - INFO - Marking changed: false
+[2021-01-05 22:31:01.5050] - DEBUG - [Save session: 1] Completed super.save
+[2021-01-05 22:31:13.1620] - DEBUG - [Save session: 2] Started, operation: saveOperation
+[2021-01-05 22:31:13.1620] - DEBUG - [Save session: 2] Before container.writeChanges
+[2021-01-05 22:31:13.1690] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:31:13.1700] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2021-01-05 22:31:13.1700] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:31:13.1720] - INFO - Marking changed: false
+[2021-01-05 22:31:13.1750] - DEBUG - [Save session: 2] Completed super.save
+[2021-01-05 22:31:47.4260] - DEBUG - [Save session: 3] Started, operation: saveOperation
+[2021-01-05 22:31:47.4260] - DEBUG - [Save session: 3] Before container.writeChanges
+[2021-01-05 22:31:47.4270] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:31:47.4280] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2021-01-05 22:31:47.4280] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:31:47.4290] - INFO - Marking changed: false
+[2021-01-05 22:31:47.4330] - DEBUG - [Save session: 3] Completed super.save
+[2021-01-05 22:31:54.8200] - DEBUG - [Save session: 4] Started, operation: saveOperation
+[2021-01-05 22:31:54.8200] - DEBUG - [Save session: 4] Before container.writeChanges
+[2021-01-05 22:31:54.8210] - DEBUG - [Save session: 4] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:31:54.8220] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2021-01-05 22:31:54.8220] - DEBUG - [Save session: 4] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:31:54.8230] - INFO - Marking changed: false
+[2021-01-05 22:31:54.8270] - DEBUG - [Save session: 4] Completed super.save
+[2021-01-05 22:32:17.0690] - DEBUG - [Save session: 5] Started, operation: saveOperation
+[2021-01-05 22:32:17.0690] - DEBUG - [Save session: 5] Before container.writeChanges
+[2021-01-05 22:32:17.0690] - DEBUG - [Save session: 5] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:32:17.0700] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2021-01-05 22:32:17.0700] - DEBUG - [Save session: 5] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:32:17.0720] - INFO - Marking changed: false
+[2021-01-05 22:32:17.0750] - DEBUG - [Save session: 5] Completed super.save
+[2021-01-05 22:32:28.8760] - DEBUG - [Save session: 6] Started, operation: saveOperation
+[2021-01-05 22:32:28.8760] - DEBUG - [Save session: 6] Before container.writeChanges
+[2021-01-05 22:32:28.8770] - DEBUG - [Save session: 6] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:32:28.8770] - DEBUG - [Save session: 6] Completed container.writeChanges
+[2021-01-05 22:32:28.8780] - DEBUG - [Save session: 6] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:32:28.8790] - INFO - Marking changed: false
+[2021-01-05 22:32:28.8830] - DEBUG - [Save session: 6] Completed super.save
+[2021-01-05 22:32:35.0550] - DEBUG - [Save session: 7] Started, operation: saveOperation
+[2021-01-05 22:32:35.0550] - DEBUG - [Save session: 7] Before container.writeChanges
+[2021-01-05 22:32:35.0560] - DEBUG - [Save session: 7] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:32:35.0570] - DEBUG - [Save session: 7] Completed container.writeChanges
+[2021-01-05 22:32:35.0570] - DEBUG - [Save session: 7] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:32:35.0580] - INFO - Marking changed: false
+[2021-01-05 22:32:35.0620] - DEBUG - [Save session: 7] Completed super.save
+[2021-01-05 22:32:38.4770] - DEBUG - [Save session: 8] Started, operation: saveOperation
+[2021-01-05 22:32:38.4770] - DEBUG - [Save session: 8] Before container.writeChanges
+[2021-01-05 22:32:38.4780] - DEBUG - [Save session: 8] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:32:38.4790] - DEBUG - [Save session: 8] Completed container.writeChanges
+[2021-01-05 22:32:38.4790] - DEBUG - [Save session: 8] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:32:38.4800] - INFO - Marking changed: false
+[2021-01-05 22:32:38.4860] - DEBUG - [Save session: 8] Completed super.save
+[2021-01-05 22:33:16.5300] - DEBUG - [Save session: 9] Started, operation: saveOperation
+[2021-01-05 22:33:16.5300] - DEBUG - [Save session: 9] Before container.writeChanges
+[2021-01-05 22:33:16.5310] - DEBUG - [Save session: 9] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:33:16.5320] - DEBUG - [Save session: 9] Completed container.writeChanges
+[2021-01-05 22:33:16.5320] - DEBUG - [Save session: 9] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:33:16.5330] - INFO - Marking changed: false
+[2021-01-05 22:33:16.5360] - DEBUG - [Save session: 9] Completed super.save
+[2021-01-05 22:34:10.1200] - DEBUG - [Save session: 10] Started, operation: saveOperation
+[2021-01-05 22:34:10.1200] - DEBUG - [Save session: 10] Before container.writeChanges
+[2021-01-05 22:34:10.1210] - DEBUG - [Save session: 10] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:34:10.1220] - DEBUG - [Save session: 10] Completed container.writeChanges
+[2021-01-05 22:34:10.1220] - DEBUG - [Save session: 10] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:34:10.1230] - INFO - Marking changed: false
+[2021-01-05 22:34:10.1270] - DEBUG - [Save session: 10] Completed super.save
+[2021-01-05 22:34:12.4680] - DEBUG - [Save session: 11] Started, operation: saveOperation
+[2021-01-05 22:34:12.4680] - DEBUG - [Save session: 11] Before container.writeChanges
+[2021-01-05 22:34:12.4690] - DEBUG - [Save session: 11] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:34:12.4700] - DEBUG - [Save session: 11] Completed container.writeChanges
+[2021-01-05 22:34:12.4700] - DEBUG - [Save session: 11] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:34:12.4710] - INFO - Marking changed: false
+[2021-01-05 22:34:12.4730] - DEBUG - [Save session: 11] Completed super.save
+[2021-01-05 22:34:26.8180] - DEBUG - [Save session: 12] Started, operation: saveOperation
+[2021-01-05 22:34:26.8180] - DEBUG - [Save session: 12] Before container.writeChanges
+[2021-01-05 22:34:26.8190] - DEBUG - [Save session: 12] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:34:26.8200] - DEBUG - [Save session: 12] Completed container.writeChanges
+[2021-01-05 22:34:26.8200] - DEBUG - [Save session: 12] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:34:26.8210] - INFO - Marking changed: false
+[2021-01-05 22:34:26.8250] - DEBUG - [Save session: 12] Completed super.save
+[2021-01-05 22:34:34.3480] - DEBUG - [Save session: 13] Started, operation: saveOperation
+[2021-01-05 22:34:34.3480] - DEBUG - [Save session: 13] Before container.writeChanges
+[2021-01-05 22:34:34.3490] - DEBUG - [Save session: 13] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:34:34.3500] - DEBUG - [Save session: 13] Completed container.writeChanges
+[2021-01-05 22:34:34.3500] - DEBUG - [Save session: 13] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:34:34.3510] - INFO - Marking changed: false
+[2021-01-05 22:34:34.3540] - DEBUG - [Save session: 13] Completed super.save
+[2021-01-05 22:35:15.4490] - DEBUG - [Save session: 14] Started, operation: saveOperation
+[2021-01-05 22:35:15.4490] - DEBUG - [Save session: 14] Before container.writeChanges
+[2021-01-05 22:35:15.4500] - DEBUG - [Save session: 14] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:35:15.4510] - DEBUG - [Save session: 14] Completed container.writeChanges
+[2021-01-05 22:35:15.4510] - DEBUG - [Save session: 14] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:35:15.4520] - INFO - Marking changed: false
+[2021-01-05 22:35:15.4570] - DEBUG - [Save session: 14] Completed super.save
+[2021-01-05 22:35:22.9740] - DEBUG - [Save session: 15] Started, operation: saveOperation
+[2021-01-05 22:35:22.9740] - DEBUG - [Save session: 15] Before container.writeChanges
+[2021-01-05 22:35:22.9750] - DEBUG - [Save session: 15] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:35:22.9760] - DEBUG - [Save session: 15] Completed container.writeChanges
+[2021-01-05 22:35:22.9760] - DEBUG - [Save session: 15] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:35:22.9770] - INFO - Marking changed: false
+[2021-01-05 22:35:22.9820] - DEBUG - [Save session: 15] Completed super.save
+[2021-01-05 22:35:24.6960] - DEBUG - [Save session: 16] Started, operation: saveOperation
+[2021-01-05 22:35:24.6960] - DEBUG - [Save session: 16] Before container.writeChanges
+[2021-01-05 22:35:24.6970] - DEBUG - [Save session: 16] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:35:24.6980] - DEBUG - [Save session: 16] Completed container.writeChanges
+[2021-01-05 22:35:24.6980] - DEBUG - [Save session: 16] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:35:24.6990] - INFO - Marking changed: false
+[2021-01-05 22:35:24.7030] - DEBUG - [Save session: 16] Completed super.save
+[2021-01-05 22:35:27.8010] - DEBUG - [Save session: 17] Started, operation: saveOperation
+[2021-01-05 22:35:27.8010] - DEBUG - [Save session: 17] Before container.writeChanges
+[2021-01-05 22:35:27.8020] - DEBUG - [Save session: 17] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:35:27.8030] - DEBUG - [Save session: 17] Completed container.writeChanges
+[2021-01-05 22:35:27.8030] - DEBUG - [Save session: 17] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:35:27.8040] - INFO - Marking changed: false
+[2021-01-05 22:35:27.8070] - DEBUG - [Save session: 17] Completed super.save
+[2021-01-05 22:35:35.7330] - DEBUG - [Save session: 18] Started, operation: saveOperation
+[2021-01-05 22:35:35.7330] - DEBUG - [Save session: 18] Before container.writeChanges
+[2021-01-05 22:35:35.7330] - DEBUG - [Save session: 18] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:35:35.7340] - DEBUG - [Save session: 18] Completed container.writeChanges
+[2021-01-05 22:35:35.7340] - DEBUG - [Save session: 18] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:35:35.7350] - INFO - Marking changed: false
+[2021-01-05 22:35:35.7390] - DEBUG - [Save session: 18] Completed super.save
+[2021-01-05 22:36:54.5510] - DEBUG - [Save session: 19] Started, operation: saveOperation
+[2021-01-05 22:36:54.5510] - DEBUG - [Save session: 19] Before container.writeChanges
+[2021-01-05 22:36:54.5520] - DEBUG - [Save session: 19] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:36:54.5530] - DEBUG - [Save session: 19] Completed container.writeChanges
+[2021-01-05 22:36:54.5530] - DEBUG - [Save session: 19] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:36:54.5540] - INFO - Marking changed: false
+[2021-01-05 22:36:54.5570] - DEBUG - [Save session: 19] Completed super.save
+[2021-01-05 22:37:48.7780] - DEBUG - [Save session: 20] Started, operation: saveOperation
+[2021-01-05 22:37:48.7780] - DEBUG - [Save session: 20] Before container.writeChanges
+[2021-01-05 22:37:48.7790] - DEBUG - [Save session: 20] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:37:48.7800] - DEBUG - [Save session: 20] Completed container.writeChanges
+[2021-01-05 22:37:48.7800] - DEBUG - [Save session: 20] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:37:48.7810] - INFO - Marking changed: false
+[2021-01-05 22:37:48.7850] - DEBUG - [Save session: 20] Completed super.save
+[2021-01-05 22:38:54.2840] - DEBUG - [Save session: 21] Started, operation: saveOperation
+[2021-01-05 22:38:54.2840] - DEBUG - [Save session: 21] Before container.writeChanges
+[2021-01-05 22:38:54.2850] - DEBUG - [Save session: 21] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:38:54.2860] - DEBUG - [Save session: 21] Completed container.writeChanges
+[2021-01-05 22:38:54.2860] - DEBUG - [Save session: 21] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:38:54.2870] - INFO - Marking changed: false
+[2021-01-05 22:38:54.2900] - DEBUG - [Save session: 21] Completed super.save
+[2021-01-05 22:39:14.8250] - DEBUG - [Save session: 22] Started, operation: saveOperation
+[2021-01-05 22:39:14.8250] - DEBUG - [Save session: 22] Before container.writeChanges
+[2021-01-05 22:39:14.8260] - DEBUG - [Save session: 22] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:39:14.8270] - DEBUG - [Save session: 22] Completed container.writeChanges
+[2021-01-05 22:39:14.8270] - DEBUG - [Save session: 22] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:39:14.8290] - INFO - Marking changed: false
+[2021-01-05 22:39:14.8320] - DEBUG - [Save session: 22] Completed super.save
+[2021-01-05 22:39:37.0250] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 22.39.37.zip
+[2021-01-05 22:39:42.8200] - DEBUG - [Save session: 23] Started, operation: saveOperation
+[2021-01-05 22:39:42.8200] - DEBUG - [Save session: 23] Before container.writeChanges
+[2021-01-05 22:39:42.8280] - DEBUG - [Save session: 23] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:39:42.8300] - DEBUG - [Save session: 23] Completed container.writeChanges
+[2021-01-05 22:39:42.8300] - DEBUG - [Save session: 23] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:39:42.8310] - INFO - Marking changed: false
+[2021-01-05 22:39:42.8340] - DEBUG - [Save session: 23] Completed super.save
+[2021-01-05 22:39:51.5320] - DEBUG - [Save session: 24] Started, operation: saveOperation
+[2021-01-05 22:39:51.5320] - DEBUG - [Save session: 24] Before container.writeChanges
+[2021-01-05 22:39:51.5330] - DEBUG - [Save session: 24] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:39:51.5340] - DEBUG - [Save session: 24] Completed container.writeChanges
+[2021-01-05 22:39:51.5340] - DEBUG - [Save session: 24] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:39:51.5350] - INFO - Marking changed: false
+[2021-01-05 22:39:51.5400] - DEBUG - [Save session: 24] Completed super.save
+[2021-01-05 22:39:57.4990] - DEBUG - [Save session: 25] Started, operation: saveOperation
+[2021-01-05 22:39:57.4990] - DEBUG - [Save session: 25] Before container.writeChanges
+[2021-01-05 22:39:57.5000] - DEBUG - [Save session: 25] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:39:57.5010] - DEBUG - [Save session: 25] Completed container.writeChanges
+[2021-01-05 22:39:57.5010] - DEBUG - [Save session: 25] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:39:57.5020] - INFO - Marking changed: false
+[2021-01-05 22:39:57.5050] - DEBUG - [Save session: 25] Completed super.save
+[2021-01-05 22:39:59.5500] - DEBUG - [Save session: 26] Started, operation: saveOperation
+[2021-01-05 22:39:59.5500] - DEBUG - [Save session: 26] Before container.writeChanges
+[2021-01-05 22:39:59.5510] - DEBUG - [Save session: 26] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:39:59.5520] - DEBUG - [Save session: 26] Completed container.writeChanges
+[2021-01-05 22:39:59.5520] - DEBUG - [Save session: 26] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:39:59.5530] - INFO - Marking changed: false
+[2021-01-05 22:39:59.5560] - DEBUG - [Save session: 26] Completed super.save
+[2021-01-05 22:40:24.1350] - DEBUG - [Save session: 27] Started, operation: saveOperation
+[2021-01-05 22:40:24.1350] - DEBUG - [Save session: 27] Before container.writeChanges
+[2021-01-05 22:40:24.1350] - DEBUG - [Save session: 27] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:40:24.1370] - DEBUG - [Save session: 27] Completed container.writeChanges
+[2021-01-05 22:40:24.1370] - DEBUG - [Save session: 27] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:40:24.1380] - INFO - Marking changed: false
+[2021-01-05 22:40:24.1420] - DEBUG - [Save session: 27] Completed super.save
+[2021-01-05 22:40:27.7440] - DEBUG - [Save session: 28] Started, operation: saveOperation
+[2021-01-05 22:40:27.7440] - DEBUG - [Save session: 28] Before container.writeChanges
+[2021-01-05 22:40:27.7450] - DEBUG - [Save session: 28] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:40:27.7460] - DEBUG - [Save session: 28] Completed container.writeChanges
+[2021-01-05 22:40:27.7460] - DEBUG - [Save session: 28] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:40:27.7470] - INFO - Marking changed: false
+[2021-01-05 22:40:27.7510] - DEBUG - [Save session: 28] Completed super.save
+[2021-01-05 22:40:39.3420] - DEBUG - [Save session: 29] Started, operation: saveOperation
+[2021-01-05 22:40:39.3420] - DEBUG - [Save session: 29] Before container.writeChanges
+[2021-01-05 22:40:39.3430] - DEBUG - [Save session: 29] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:40:39.3430] - DEBUG - [Save session: 29] Completed container.writeChanges
+[2021-01-05 22:40:39.3440] - DEBUG - [Save session: 29] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:40:39.3450] - INFO - Marking changed: false
+[2021-01-05 22:40:39.3480] - DEBUG - [Save session: 29] Completed super.save
+[2021-01-05 22:40:46.2100] - DEBUG - [Save session: 30] Started, operation: saveOperation
+[2021-01-05 22:40:46.2100] - DEBUG - [Save session: 30] Before container.writeChanges
+[2021-01-05 22:40:46.2110] - DEBUG - [Save session: 30] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:40:46.2120] - DEBUG - [Save session: 30] Completed container.writeChanges
+[2021-01-05 22:40:46.2120] - DEBUG - [Save session: 30] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:40:46.2130] - INFO - Marking changed: false
+[2021-01-05 22:40:46.2180] - DEBUG - [Save session: 30] Completed super.save
+[2021-01-05 22:40:46.2230] - ERROR - Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+[2021-01-05 22:40:46.2230] - ERROR -     at doWrite (_stream_writable.js:427:19)
+[2021-01-05 22:40:46.2230] - ERROR -     at writeOrBuffer (_stream_writable.js:415:5)
+[2021-01-05 22:40:46.2230] - ERROR -     at Socket.Writable.write (_stream_writable.js:305:11)
+[2021-01-05 22:40:46.2230] - ERROR -     at Array.logRequest (/Applications/Framer.app/Contents/Resources/Server/node_modules/morgan/index.js:130:14)
+[2021-01-05 22:40:46.2230] - ERROR -     at listener (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:169:15)
+[2021-01-05 22:40:46.2230] - ERROR -     at onFinish (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:100:5)
+[2021-01-05 22:40:46.2230] - ERROR -     at callback (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:55:10)
+[2021-01-05 22:40:46.2230] - ERROR -     at ServerResponse.onevent (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:93:5)
+[2021-01-05 22:40:46.2230] - ERROR -     at ServerResponse.emit (events.js:215:7)
+[2021-01-05 22:40:46.2230] - ERROR -     at ServerResponse.EventEmitter.emit (domain.js:475:20)
+[2021-01-05 22:40:46.2280] - ERROR - Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+[2021-01-05 22:40:46.2280] - ERROR -     at doWrite (_stream_writable.js:427:19)
+[2021-01-05 22:40:46.2280] - ERROR -     at writeOrBuffer (_stream_writable.js:415:5)
+[2021-01-05 22:40:46.2280] - ERROR -     at Socket.Writable.write (_stream_writable.js:305:11)
+[2021-01-05 22:40:46.2280] - ERROR -     at Array.logRequest (/Applications/Framer.app/Contents/Resources/Server/node_modules/morgan/index.js:130:14)
+[2021-01-05 22:40:46.2290] - ERROR -     at listener (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:169:15)
+[2021-01-05 22:40:46.2290] - ERROR -     at onFinish (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:100:5)
+[2021-01-05 22:40:46.2290] - ERROR -     at callback (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:55:10)
+[2021-01-05 22:40:46.2290] - ERROR -     at ServerResponse.onevent (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:93:5)
+[2021-01-05 22:40:46.2290] - ERROR -     at ServerResponse.emit (events.js:215:7)
+[2021-01-05 22:40:46.2290] - ERROR -     at ServerResponse.EventEmitter.emit (domain.js:475:20)
+[2021-01-05 22:40:46.2450] - ERROR - Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+[2021-01-05 22:40:46.2450] - ERROR -     at doWrite (_stream_writable.js:427:19)
+[2021-01-05 22:40:46.2450] - ERROR -     at writeOrBuffer (_stream_writable.js:415:5)
+[2021-01-05 22:40:46.2450] - ERROR -     at Socket.Writable.write (_stream_writable.js:305:11)
+[2021-01-05 22:40:46.2450] - ERROR -     at Array.logRequest (/Applications/Framer.app/Contents/Resources/Server/node_modules/morgan/index.js:130:14)
+[2021-01-05 22:40:46.2460] - ERROR -     at listener (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:169:15)
+[2021-01-05 22:40:46.2460] - ERROR -     at onFinish (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:100:5)
+[2021-01-05 22:40:46.2460] - ERROR -     at callback (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:55:10)
+[2021-01-05 22:40:46.2460] - ERROR -     at ServerResponse.onevent (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:93:5)
+[2021-01-05 22:40:46.2460] - ERROR -     at ServerResponse.emit (events.js:215:7)
+[2021-01-05 22:40:46.2460] - ERROR -     at ServerResponse.EventEmitter.emit (domain.js:475:20)
+[2021-01-05 22:40:46.2550] - ERROR - Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+[2021-01-05 22:40:46.2550] - ERROR -     at doWrite (_stream_writable.js:427:19)
+[2021-01-05 22:40:46.2560] - ERROR -     at writeOrBuffer (_stream_writable.js:415:5)
+[2021-01-05 22:40:46.2560] - ERROR -     at Socket.Writable.write (_stream_writable.js:305:11)
+[2021-01-05 22:40:46.2560] - ERROR -     at Array.logRequest (/Applications/Framer.app/Contents/Resources/Server/node_modules/morgan/index.js:130:14)
+[2021-01-05 22:40:46.2560] - ERROR -     at listener (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:169:15)
+[2021-01-05 22:40:46.2560] - ERROR -     at onFinish (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:100:5)
+[2021-01-05 22:40:46.2560] - ERROR -     at callback (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:55:10)
+[2021-01-05 22:40:46.2560] - ERROR -     at ServerResponse.onevent (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:93:5)
+[2021-01-05 22:40:46.2560] - ERROR -     at ServerResponse.emit (events.js:215:7)
+[2021-01-05 22:40:46.2560] - ERROR -     at ServerResponse.EventEmitter.emit (domain.js:475:20)
+[2021-01-05 22:40:46.2730] - ERROR - Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+[2021-01-05 22:40:46.2730] - ERROR -     at doWrite (_stream_writable.js:427:19)
+[2021-01-05 22:40:46.2740] - ERROR -     at writeOrBuffer (_stream_writable.js:415:5)
+[2021-01-05 22:40:46.2740] - ERROR -     at Socket.Writable.write (_stream_writable.js:305:11)
+[2021-01-05 22:40:46.2740] - ERROR -     at Array.logRequest (/Applications/Framer.app/Contents/Resources/Server/node_modules/morgan/index.js:130:14)
+[2021-01-05 22:40:46.2740] - ERROR -     at listener (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:169:15)
+[2021-01-05 22:40:46.2740] - ERROR -     at onFinish (/Applications/Framer.app/Contents/Resources/Server/node_modules/on-finished/index.js:100:5)
+[2021-01-05 22:40:46.2740] - ERROR -     at callback (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:55:10)
+[2021-01-05 22:40:46.2740] - ERROR -     at ServerResponse.onevent (/Applications/Framer.app/Contents/Resources/Server/node_modules/ee-first/index.js:93:5)
+[2021-01-05 22:40:46.2740] - ERROR -     at ServerResponse.emit (events.js:215:7)
+[2021-01-05 22:40:46.2740] - ERROR -     at ServerResponse.EventEmitter.emit (domain.js:475:20)
+[2021-01-05 22:40:47.5600] - ERROR - Server Crashed! Exit code 1
+[2021-01-05 22:40:47.6130] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-05 22:40:48.7010] - INFO - Project server PID: 1694
+[2021-01-05 22:40:48.9410] - INFO - Installing dependencies…
+[2021-01-05 22:40:49.5170] - ERROR - Tue, 05 Jan 2021 13:40:49 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-05 22:40:49.7800] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (3ms)
+[2021-01-05 22:40:51.1030] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-05 22:40:51.1040] - INFO - Installing dependencies - DONE. Took 2162ms
+[2021-01-05 22:41:20.6090] - DEBUG - [Save session: 31] Started, operation: saveOperation
+[2021-01-05 22:41:20.6090] - DEBUG - [Save session: 31] Before container.writeChanges
+[2021-01-05 22:41:20.6100] - DEBUG - [Save session: 31] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:41:20.6100] - DEBUG - [Save session: 31] Completed container.writeChanges
+[2021-01-05 22:41:20.6110] - DEBUG - [Save session: 31] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:41:20.6120] - INFO - Marking changed: false
+[2021-01-05 22:41:20.6150] - DEBUG - [Save session: 31] Completed super.save
+[2021-01-05 22:41:54.3520] - DEBUG - [Save session: 32] Started, operation: saveOperation
+[2021-01-05 22:41:54.3520] - DEBUG - [Save session: 32] Before container.writeChanges
+[2021-01-05 22:41:54.3530] - DEBUG - [Save session: 32] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:41:54.3540] - DEBUG - [Save session: 32] Completed container.writeChanges
+[2021-01-05 22:41:54.3540] - DEBUG - [Save session: 32] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:41:54.3550] - INFO - Marking changed: false
+[2021-01-05 22:41:54.3590] - DEBUG - [Save session: 32] Completed super.save
+[2021-01-05 22:42:13.9770] - DEBUG - [Save session: 33] Started, operation: saveOperation
+[2021-01-05 22:42:13.9770] - DEBUG - [Save session: 33] Before container.writeChanges
+[2021-01-05 22:42:13.9780] - DEBUG - [Save session: 33] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:42:13.9790] - DEBUG - [Save session: 33] Completed container.writeChanges
+[2021-01-05 22:42:13.9790] - DEBUG - [Save session: 33] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:42:13.9810] - INFO - Marking changed: false
+[2021-01-05 22:42:13.9830] - DEBUG - [Save session: 33] Completed super.save
+[2021-01-05 22:42:27.0030] - DEBUG - [Save session: 34] Started, operation: saveOperation
+[2021-01-05 22:42:27.0030] - DEBUG - [Save session: 34] Before container.writeChanges
+[2021-01-05 22:42:27.0040] - DEBUG - [Save session: 34] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:42:27.0050] - DEBUG - [Save session: 34] Completed container.writeChanges
+[2021-01-05 22:42:27.0050] - DEBUG - [Save session: 34] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:42:27.0060] - INFO - Marking changed: false
+[2021-01-05 22:42:27.0110] - DEBUG - [Save session: 34] Completed super.save
+[2021-01-05 22:42:36.7540] - DEBUG - [Save session: 35] Started, operation: saveOperation
+[2021-01-05 22:42:36.7540] - DEBUG - [Save session: 35] Before container.writeChanges
+[2021-01-05 22:42:36.7550] - DEBUG - [Save session: 35] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:42:36.7560] - DEBUG - [Save session: 35] Completed container.writeChanges
+[2021-01-05 22:42:36.7560] - DEBUG - [Save session: 35] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:42:36.7580] - INFO - Marking changed: false
+[2021-01-05 22:42:36.7610] - DEBUG - [Save session: 35] Completed super.save
+[2021-01-05 22:42:46.3020] - DEBUG - [Save session: 36] Started, operation: saveOperation
+[2021-01-05 22:42:46.3030] - DEBUG - [Save session: 36] Before container.writeChanges
+[2021-01-05 22:42:46.3040] - DEBUG - [Save session: 36] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:42:46.3040] - DEBUG - [Save session: 36] Completed container.writeChanges
+[2021-01-05 22:42:46.3050] - DEBUG - [Save session: 36] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:42:46.3060] - INFO - Marking changed: false
+[2021-01-05 22:42:46.3110] - DEBUG - [Save session: 36] Completed super.save
+[2021-01-05 22:42:55.1820] - DEBUG - [Save session: 37] Started, operation: saveOperation
+[2021-01-05 22:42:55.1820] - DEBUG - [Save session: 37] Before container.writeChanges
+[2021-01-05 22:42:55.1830] - DEBUG - [Save session: 37] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:42:55.1840] - DEBUG - [Save session: 37] Completed container.writeChanges
+[2021-01-05 22:42:55.1840] - DEBUG - [Save session: 37] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:42:55.1850] - INFO - Marking changed: false
+[2021-01-05 22:42:55.1900] - DEBUG - [Save session: 37] Completed super.save
+[2021-01-05 22:42:58.2140] - DEBUG - [Save session: 38] Started, operation: saveOperation
+[2021-01-05 22:42:58.2140] - DEBUG - [Save session: 38] Before container.writeChanges
+[2021-01-05 22:42:58.2140] - DEBUG - [Save session: 38] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:42:58.2150] - DEBUG - [Save session: 38] Completed container.writeChanges
+[2021-01-05 22:42:58.2150] - DEBUG - [Save session: 38] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:42:58.2170] - INFO - Marking changed: false
+[2021-01-05 22:42:58.2210] - DEBUG - [Save session: 38] Completed super.save
+[2021-01-05 22:43:53.8980] - DEBUG - [Save session: 39] Started, operation: saveOperation
+[2021-01-05 22:43:53.8980] - DEBUG - [Save session: 39] Before container.writeChanges
+[2021-01-05 22:43:53.8980] - DEBUG - [Save session: 39] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:43:53.8990] - DEBUG - [Save session: 39] Completed container.writeChanges
+[2021-01-05 22:43:53.9000] - DEBUG - [Save session: 39] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:43:53.9010] - INFO - Marking changed: false
+[2021-01-05 22:43:53.9030] - DEBUG - [Save session: 39] Completed super.save
+[2021-01-05 22:44:28.4240] - DEBUG - [Save session: 40] Started, operation: saveOperation
+[2021-01-05 22:44:28.4240] - DEBUG - [Save session: 40] Before container.writeChanges
+[2021-01-05 22:44:28.4250] - DEBUG - [Save session: 40] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:44:28.4260] - DEBUG - [Save session: 40] Completed container.writeChanges
+[2021-01-05 22:44:28.4260] - DEBUG - [Save session: 40] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:44:28.4280] - INFO - Marking changed: false
+[2021-01-05 22:44:28.4330] - DEBUG - [Save session: 40] Completed super.save
+[2021-01-05 22:44:34.0240] - DEBUG - [Save session: 41] Started, operation: saveOperation
+[2021-01-05 22:44:34.0240] - DEBUG - [Save session: 41] Before container.writeChanges
+[2021-01-05 22:44:34.0250] - DEBUG - [Save session: 41] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:44:34.0260] - DEBUG - [Save session: 41] Completed container.writeChanges
+[2021-01-05 22:44:34.0260] - DEBUG - [Save session: 41] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:44:34.0280] - INFO - Marking changed: false
+[2021-01-05 22:44:34.0350] - DEBUG - [Save session: 41] Completed super.save
+[2021-01-05 22:44:36.1300] - DEBUG - [Save session: 42] Started, operation: saveOperation
+[2021-01-05 22:44:36.1310] - DEBUG - [Save session: 42] Before container.writeChanges
+[2021-01-05 22:44:36.1320] - DEBUG - [Save session: 42] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:44:36.1330] - DEBUG - [Save session: 42] Completed container.writeChanges
+[2021-01-05 22:44:36.1330] - DEBUG - [Save session: 42] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:44:36.1340] - INFO - Marking changed: false
+[2021-01-05 22:44:36.1390] - DEBUG - [Save session: 42] Completed super.save
+[2021-01-05 22:44:39.6610] - DEBUG - [Save session: 43] Started, operation: saveOperation
+[2021-01-05 22:44:39.6610] - DEBUG - [Save session: 43] Before container.writeChanges
+[2021-01-05 22:44:39.6620] - DEBUG - [Save session: 43] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:44:39.6630] - DEBUG - [Save session: 43] Completed container.writeChanges
+[2021-01-05 22:44:39.6630] - DEBUG - [Save session: 43] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:44:39.6640] - INFO - Marking changed: false
+[2021-01-05 22:44:39.6670] - DEBUG - [Save session: 43] Completed super.save
+[2021-01-05 22:45:40.8630] - DEBUG - [Save session: 44] Started, operation: saveOperation
+[2021-01-05 22:45:40.8630] - DEBUG - [Save session: 44] Before container.writeChanges
+[2021-01-05 22:45:40.8640] - DEBUG - [Save session: 44] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:45:40.8650] - DEBUG - [Save session: 44] Completed container.writeChanges
+[2021-01-05 22:45:40.8650] - DEBUG - [Save session: 44] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:45:40.8660] - INFO - Marking changed: false
+[2021-01-05 22:45:40.8700] - DEBUG - [Save session: 44] Completed super.save
+[2021-01-05 22:45:45.2430] - DEBUG - [Save session: 45] Started, operation: saveOperation
+[2021-01-05 22:45:45.2440] - DEBUG - [Save session: 45] Before container.writeChanges
+[2021-01-05 22:45:45.2440] - DEBUG - [Save session: 45] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:45:45.2450] - DEBUG - [Save session: 45] Completed container.writeChanges
+[2021-01-05 22:45:45.2450] - DEBUG - [Save session: 45] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:45:45.2470] - INFO - Marking changed: false
+[2021-01-05 22:45:45.2500] - DEBUG - [Save session: 45] Completed super.save
+[2021-01-05 22:46:00.4350] - DEBUG - [Save session: 46] Started, operation: saveOperation
+[2021-01-05 22:46:00.4350] - DEBUG - [Save session: 46] Before container.writeChanges
+[2021-01-05 22:46:00.4360] - DEBUG - [Save session: 46] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:46:00.4370] - DEBUG - [Save session: 46] Completed container.writeChanges
+[2021-01-05 22:46:00.4370] - DEBUG - [Save session: 46] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:46:00.4380] - INFO - Marking changed: false
+[2021-01-05 22:46:00.4420] - DEBUG - [Save session: 46] Completed super.save
+[2021-01-05 22:46:11.2270] - DEBUG - [Save session: 47] Started, operation: saveOperation
+[2021-01-05 22:46:11.2270] - DEBUG - [Save session: 47] Before container.writeChanges
+[2021-01-05 22:46:11.2280] - DEBUG - [Save session: 47] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:46:11.2280] - DEBUG - [Save session: 47] Completed container.writeChanges
+[2021-01-05 22:46:11.2290] - DEBUG - [Save session: 47] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:46:11.2300] - INFO - Marking changed: false
+[2021-01-05 22:46:11.2340] - DEBUG - [Save session: 47] Completed super.save
+[2021-01-05 22:46:16.0270] - DEBUG - [Save session: 48] Started, operation: saveOperation
+[2021-01-05 22:46:16.0270] - DEBUG - [Save session: 48] Before container.writeChanges
+[2021-01-05 22:46:16.0280] - DEBUG - [Save session: 48] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:46:16.0290] - DEBUG - [Save session: 48] Completed container.writeChanges
+[2021-01-05 22:46:16.0290] - DEBUG - [Save session: 48] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:46:16.0300] - INFO - Marking changed: false
+[2021-01-05 22:46:16.0330] - DEBUG - [Save session: 48] Completed super.save
+[2021-01-05 22:46:19.9070] - DEBUG - [Save session: 49] Started, operation: saveOperation
+[2021-01-05 22:46:19.9070] - DEBUG - [Save session: 49] Before container.writeChanges
+[2021-01-05 22:46:19.9080] - DEBUG - [Save session: 49] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:46:19.9090] - DEBUG - [Save session: 49] Completed container.writeChanges
+[2021-01-05 22:46:19.9090] - DEBUG - [Save session: 49] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:46:19.9100] - INFO - Marking changed: false
+[2021-01-05 22:46:19.9140] - DEBUG - [Save session: 49] Completed super.save
+[2021-01-05 22:46:52.7630] - DEBUG - [Save session: 50] Started, operation: saveOperation
+[2021-01-05 22:46:52.7630] - DEBUG - [Save session: 50] Before container.writeChanges
+[2021-01-05 22:46:52.7640] - DEBUG - [Save session: 50] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:46:52.7650] - DEBUG - [Save session: 50] Completed container.writeChanges
+[2021-01-05 22:46:52.7650] - DEBUG - [Save session: 50] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:46:52.7660] - INFO - Marking changed: false
+[2021-01-05 22:46:52.7710] - DEBUG - [Save session: 50] Completed super.save
+[2021-01-05 22:47:19.3860] - DEBUG - [Save session: 51] Started, operation: saveOperation
+[2021-01-05 22:47:19.3860] - DEBUG - [Save session: 51] Before container.writeChanges
+[2021-01-05 22:47:19.3870] - DEBUG - [Save session: 51] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:47:19.3880] - DEBUG - [Save session: 51] Completed container.writeChanges
+[2021-01-05 22:47:19.3880] - DEBUG - [Save session: 51] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:47:19.3900] - INFO - Marking changed: false
+[2021-01-05 22:47:19.3940] - DEBUG - [Save session: 51] Completed super.save
+[2021-01-05 22:47:22.3330] - DEBUG - [Save session: 52] Started, operation: saveOperation
+[2021-01-05 22:47:22.3330] - DEBUG - [Save session: 52] Before container.writeChanges
+[2021-01-05 22:47:22.3340] - DEBUG - [Save session: 52] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:47:22.3350] - DEBUG - [Save session: 52] Completed container.writeChanges
+[2021-01-05 22:47:22.3350] - DEBUG - [Save session: 52] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:47:22.3360] - INFO - Marking changed: false
+[2021-01-05 22:47:22.3410] - DEBUG - [Save session: 52] Completed super.save
+[2021-01-05 22:47:49.6920] - DEBUG - [Save session: 53] Started, operation: saveOperation
+[2021-01-05 22:47:49.6920] - DEBUG - [Save session: 53] Before container.writeChanges
+[2021-01-05 22:47:49.6930] - DEBUG - [Save session: 53] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:47:49.6940] - DEBUG - [Save session: 53] Completed container.writeChanges
+[2021-01-05 22:47:49.6940] - DEBUG - [Save session: 53] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:47:49.6950] - INFO - Marking changed: false
+[2021-01-05 22:47:49.6980] - DEBUG - [Save session: 53] Completed super.save
+[2021-01-05 22:48:06.3060] - DEBUG - [Save session: 54] Started, operation: saveOperation
+[2021-01-05 22:48:06.3060] - DEBUG - [Save session: 54] Before container.writeChanges
+[2021-01-05 22:48:06.3070] - DEBUG - [Save session: 54] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:48:06.3080] - DEBUG - [Save session: 54] Completed container.writeChanges
+[2021-01-05 22:48:06.3080] - DEBUG - [Save session: 54] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:48:06.3090] - INFO - Marking changed: false
+[2021-01-05 22:48:06.3130] - DEBUG - [Save session: 54] Completed super.save
+[2021-01-05 22:48:08.0540] - DEBUG - [Save session: 55] Started, operation: saveOperation
+[2021-01-05 22:48:08.0540] - DEBUG - [Save session: 55] Before container.writeChanges
+[2021-01-05 22:48:08.0550] - DEBUG - [Save session: 55] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:48:08.0560] - DEBUG - [Save session: 55] Completed container.writeChanges
+[2021-01-05 22:48:08.0560] - DEBUG - [Save session: 55] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:48:08.0570] - INFO - Marking changed: false
+[2021-01-05 22:48:08.0590] - DEBUG - [Save session: 55] Completed super.save
+[2021-01-05 22:48:26.3520] - DEBUG - [Save session: 56] Started, operation: saveOperation
+[2021-01-05 22:48:26.3520] - DEBUG - [Save session: 56] Before container.writeChanges
+[2021-01-05 22:48:26.3530] - DEBUG - [Save session: 56] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:48:26.3540] - DEBUG - [Save session: 56] Completed container.writeChanges
+[2021-01-05 22:48:26.3540] - DEBUG - [Save session: 56] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:48:26.3550] - INFO - Marking changed: false
+[2021-01-05 22:48:26.3590] - DEBUG - [Save session: 56] Completed super.save
+[2021-01-05 22:48:57.4310] - DEBUG - [Save session: 57] Started, operation: saveOperation
+[2021-01-05 22:48:57.4310] - DEBUG - [Save session: 57] Before container.writeChanges
+[2021-01-05 22:48:57.4320] - DEBUG - [Save session: 57] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:48:57.4330] - DEBUG - [Save session: 57] Completed container.writeChanges
+[2021-01-05 22:48:57.4330] - DEBUG - [Save session: 57] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:48:57.4350] - INFO - Marking changed: false
+[2021-01-05 22:48:57.4380] - DEBUG - [Save session: 57] Completed super.save
+[2021-01-05 22:49:20.4880] - DEBUG - [Save session: 58] Started, operation: saveOperation
+[2021-01-05 22:49:20.4880] - DEBUG - [Save session: 58] Before container.writeChanges
+[2021-01-05 22:49:20.4890] - DEBUG - [Save session: 58] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:49:20.4900] - DEBUG - [Save session: 58] Completed container.writeChanges
+[2021-01-05 22:49:20.4900] - DEBUG - [Save session: 58] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:49:20.4920] - INFO - Marking changed: false
+[2021-01-05 22:49:20.4970] - DEBUG - [Save session: 58] Completed super.save
+[2021-01-05 22:49:37.0200] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 22.49.37.zip
+[2021-01-05 22:49:48.3790] - DEBUG - [Save session: 59] Started, operation: autosaveInPlaceOperation
+[2021-01-05 22:49:48.3790] - DEBUG - [Save session: 59] Before container.writeChanges
+[2021-01-05 22:49:48.3790] - DEBUG - [Save session: 59] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:49:48.4110] - DEBUG - [Save session: 59] Completed container.writeChanges
+[2021-01-05 22:49:48.4110] - DEBUG - [Save session: 59] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:49:48.4160] - DEBUG - [Save session: 59] Completed super.save
+[2021-01-05 22:50:24.6790] - DEBUG - [Save session: 60] Started, operation: saveOperation
+[2021-01-05 22:50:24.6790] - DEBUG - [Save session: 60] Before container.writeChanges
+[2021-01-05 22:50:24.6790] - DEBUG - [Save session: 60] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:50:24.7050] - DEBUG - [Save session: 60] Completed container.writeChanges
+[2021-01-05 22:50:24.7060] - DEBUG - [Save session: 60] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:50:24.7080] - INFO - Marking changed: false
+[2021-01-05 22:50:24.7130] - DEBUG - [Save session: 60] Completed super.save
+[2021-01-05 22:50:26.1780] - DEBUG - [Save session: 61] Started, operation: saveOperation
+[2021-01-05 22:50:26.1780] - DEBUG - [Save session: 61] Before container.writeChanges
+[2021-01-05 22:50:26.1780] - DEBUG - [Save session: 61] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:50:26.1790] - DEBUG - [Save session: 61] Completed container.writeChanges
+[2021-01-05 22:50:26.1790] - DEBUG - [Save session: 61] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:50:26.1810] - INFO - Marking changed: false
+[2021-01-05 22:50:26.1840] - DEBUG - [Save session: 61] Completed super.save
+[2021-01-05 22:50:27.5770] - DEBUG - [Save session: 62] Started, operation: saveOperation
+[2021-01-05 22:50:27.5770] - DEBUG - [Save session: 62] Before container.writeChanges
+[2021-01-05 22:50:27.5770] - DEBUG - [Save session: 62] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:50:27.5780] - DEBUG - [Save session: 62] Completed container.writeChanges
+[2021-01-05 22:50:27.5780] - DEBUG - [Save session: 62] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:50:27.5800] - INFO - Marking changed: false
+[2021-01-05 22:50:27.5880] - DEBUG - [Save session: 62] Completed super.save
+[2021-01-05 22:51:00.0960] - DEBUG - [Save session: 63] Started, operation: saveOperation
+[2021-01-05 22:51:00.0960] - DEBUG - [Save session: 63] Before container.writeChanges
+[2021-01-05 22:51:00.0970] - DEBUG - [Save session: 63] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:51:00.0980] - DEBUG - [Save session: 63] Completed container.writeChanges
+[2021-01-05 22:51:00.0980] - DEBUG - [Save session: 63] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:51:00.0990] - INFO - Marking changed: false
+[2021-01-05 22:51:00.1030] - DEBUG - [Save session: 63] Completed super.save
+[2021-01-05 22:51:03.7110] - DEBUG - [Save session: 64] Started, operation: saveOperation
+[2021-01-05 22:51:03.7110] - DEBUG - [Save session: 64] Before container.writeChanges
+[2021-01-05 22:51:03.7120] - DEBUG - [Save session: 64] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:51:03.7130] - DEBUG - [Save session: 64] Completed container.writeChanges
+[2021-01-05 22:51:03.7130] - DEBUG - [Save session: 64] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:51:03.7150] - INFO - Marking changed: false
+[2021-01-05 22:51:03.7200] - DEBUG - [Save session: 64] Completed super.save
+[2021-01-05 22:51:21.9720] - DEBUG - [Save session: 65] Started, operation: saveOperation
+[2021-01-05 22:51:21.9720] - DEBUG - [Save session: 65] Before container.writeChanges
+[2021-01-05 22:51:21.9730] - DEBUG - [Save session: 65] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:51:21.9740] - DEBUG - [Save session: 65] Completed container.writeChanges
+[2021-01-05 22:51:21.9740] - DEBUG - [Save session: 65] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:51:21.9750] - INFO - Marking changed: false
+[2021-01-05 22:51:21.9800] - DEBUG - [Save session: 65] Completed super.save
+[2021-01-05 22:51:27.3710] - DEBUG - [Save session: 66] Started, operation: saveOperation
+[2021-01-05 22:51:27.3710] - DEBUG - [Save session: 66] Before container.writeChanges
+[2021-01-05 22:51:27.3720] - DEBUG - [Save session: 66] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:51:27.3730] - DEBUG - [Save session: 66] Completed container.writeChanges
+[2021-01-05 22:51:27.3730] - DEBUG - [Save session: 66] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:51:27.3740] - INFO - Marking changed: false
+[2021-01-05 22:51:27.3790] - DEBUG - [Save session: 66] Completed super.save
+[2021-01-05 22:51:40.5600] - DEBUG - [Save session: 67] Started, operation: saveOperation
+[2021-01-05 22:51:40.5610] - DEBUG - [Save session: 67] Before container.writeChanges
+[2021-01-05 22:51:40.5610] - DEBUG - [Save session: 67] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:51:40.5630] - DEBUG - [Save session: 67] Completed container.writeChanges
+[2021-01-05 22:51:40.5630] - DEBUG - [Save session: 67] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:51:40.5640] - INFO - Marking changed: false
+[2021-01-05 22:51:40.5670] - DEBUG - [Save session: 67] Completed super.save
+[2021-01-05 22:52:18.2660] - DEBUG - [Save session: 68] Started, operation: saveOperation
+[2021-01-05 22:52:18.2660] - DEBUG - [Save session: 68] Before container.writeChanges
+[2021-01-05 22:52:18.2670] - DEBUG - [Save session: 68] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:52:18.2680] - DEBUG - [Save session: 68] Completed container.writeChanges
+[2021-01-05 22:52:18.2680] - DEBUG - [Save session: 68] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:52:18.2700] - INFO - Marking changed: false
+[2021-01-05 22:52:18.2740] - DEBUG - [Save session: 68] Completed super.save
+[2021-01-05 22:52:48.5550] - DEBUG - [Save session: 69] Started, operation: saveOperation
+[2021-01-05 22:52:48.5550] - DEBUG - [Save session: 69] Before container.writeChanges
+[2021-01-05 22:52:48.5560] - DEBUG - [Save session: 69] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:52:48.5570] - DEBUG - [Save session: 69] Completed container.writeChanges
+[2021-01-05 22:52:48.5570] - DEBUG - [Save session: 69] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:52:48.5590] - INFO - Marking changed: false
+[2021-01-05 22:52:48.5630] - DEBUG - [Save session: 69] Completed super.save
+[2021-01-05 22:52:51.2290] - DEBUG - [Save session: 70] Started, operation: saveOperation
+[2021-01-05 22:52:51.2290] - DEBUG - [Save session: 70] Before container.writeChanges
+[2021-01-05 22:52:51.2300] - DEBUG - [Save session: 70] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:52:51.2310] - DEBUG - [Save session: 70] Completed container.writeChanges
+[2021-01-05 22:52:51.2310] - DEBUG - [Save session: 70] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:52:51.2320] - INFO - Marking changed: false
+[2021-01-05 22:52:51.2370] - DEBUG - [Save session: 70] Completed super.save
+[2021-01-05 22:53:17.7260] - DEBUG - [Save session: 71] Started, operation: saveOperation
+[2021-01-05 22:53:17.7260] - DEBUG - [Save session: 71] Before container.writeChanges
+[2021-01-05 22:53:17.7270] - DEBUG - [Save session: 71] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:53:17.7280] - DEBUG - [Save session: 71] Completed container.writeChanges
+[2021-01-05 22:53:17.7280] - DEBUG - [Save session: 71] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:53:17.7290] - INFO - Marking changed: false
+[2021-01-05 22:53:17.7340] - DEBUG - [Save session: 71] Completed super.save
+[2021-01-05 22:53:32.0130] - DEBUG - [Save session: 72] Started, operation: saveOperation
+[2021-01-05 22:53:32.0130] - DEBUG - [Save session: 72] Before container.writeChanges
+[2021-01-05 22:53:32.0140] - DEBUG - [Save session: 72] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:53:32.0150] - DEBUG - [Save session: 72] Completed container.writeChanges
+[2021-01-05 22:53:32.0150] - DEBUG - [Save session: 72] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:53:32.0160] - INFO - Marking changed: false
+[2021-01-05 22:53:32.0200] - DEBUG - [Save session: 72] Completed super.save
+[2021-01-05 22:53:34.3330] - DEBUG - [Save session: 73] Started, operation: saveOperation
+[2021-01-05 22:53:34.3330] - DEBUG - [Save session: 73] Before container.writeChanges
+[2021-01-05 22:53:34.3340] - DEBUG - [Save session: 73] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:53:34.3350] - DEBUG - [Save session: 73] Completed container.writeChanges
+[2021-01-05 22:53:34.3350] - DEBUG - [Save session: 73] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:53:34.3370] - INFO - Marking changed: false
+[2021-01-05 22:53:34.3390] - DEBUG - [Save session: 73] Completed super.save
+[2021-01-05 22:54:15.4740] - DEBUG - [Save session: 74] Started, operation: saveOperation
+[2021-01-05 22:54:15.4740] - DEBUG - [Save session: 74] Before container.writeChanges
+[2021-01-05 22:54:15.4750] - DEBUG - [Save session: 74] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:54:15.4760] - DEBUG - [Save session: 74] Completed container.writeChanges
+[2021-01-05 22:54:15.4760] - DEBUG - [Save session: 74] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:54:15.4770] - INFO - Marking changed: false
+[2021-01-05 22:54:15.4810] - DEBUG - [Save session: 74] Completed super.save
+[2021-01-05 22:54:23.0410] - DEBUG - [Save session: 75] Started, operation: saveOperation
+[2021-01-05 22:54:23.0420] - DEBUG - [Save session: 75] Before container.writeChanges
+[2021-01-05 22:54:23.0420] - DEBUG - [Save session: 75] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:54:23.0430] - DEBUG - [Save session: 75] Completed container.writeChanges
+[2021-01-05 22:54:23.0430] - DEBUG - [Save session: 75] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:54:23.0450] - INFO - Marking changed: false
+[2021-01-05 22:54:23.0480] - DEBUG - [Save session: 75] Completed super.save
+[2021-01-05 22:54:32.6980] - DEBUG - [Save session: 76] Started, operation: saveOperation
+[2021-01-05 22:54:32.6980] - DEBUG - [Save session: 76] Before container.writeChanges
+[2021-01-05 22:54:32.6990] - DEBUG - [Save session: 76] Before waitUsingRecursiveRunLoop
+[2021-01-05 22:54:32.7000] - DEBUG - [Save session: 76] Completed container.writeChanges
+[2021-01-05 22:54:32.7000] - DEBUG - [Save session: 76] Completed waitUsingRecursiveRunLoop
+[2021-01-05 22:54:32.7010] - INFO - Marking changed: false
+[2021-01-05 22:54:32.7060] - DEBUG - [Save session: 76] Completed super.save
+[2021-01-05 22:59:43.0170] - INFO - Backing up to /Users/seungmee/Desktop/confetti+/framer-confetti/confetti.framerfx/.backups/2021-01-05 22.59.43.zip
+[2021-01-05 23:01:59.6750] - DEBUG - [Save session: 77] Started, operation: saveOperation
+[2021-01-05 23:01:59.6750] - DEBUG - [Save session: 77] Before container.writeChanges
+[2021-01-05 23:01:59.6760] - DEBUG - [Save session: 77] Before waitUsingRecursiveRunLoop
+[2021-01-05 23:01:59.6770] - DEBUG - [Save session: 77] Completed container.writeChanges
+[2021-01-05 23:01:59.6770] - DEBUG - [Save session: 77] Completed waitUsingRecursiveRunLoop
+[2021-01-05 23:01:59.6790] - INFO - Marking changed: false
+[2021-01-05 23:01:59.6830] - DEBUG - [Save session: 77] Completed super.save
+[2021-01-05 23:02:25.0000] - DEBUG - [Save session: 78] Started, operation: saveOperation
+[2021-01-05 23:02:25.0000] - DEBUG - [Save session: 78] Before container.writeChanges
+[2021-01-05 23:02:25.0010] - DEBUG - [Save session: 78] Before waitUsingRecursiveRunLoop
+[2021-01-05 23:02:25.0020] - DEBUG - [Save session: 78] Completed container.writeChanges
+[2021-01-05 23:02:25.0020] - DEBUG - [Save session: 78] Completed waitUsingRecursiveRunLoop
+[2021-01-05 23:02:25.0030] - INFO - Marking changed: false
+[2021-01-05 23:02:25.0070] - DEBUG - [Save session: 78] Completed super.save
+[2021-01-05 23:03:53.1810] - DEBUG - [Save session: 79] Started, operation: saveOperation
+[2021-01-05 23:03:53.1810] - DEBUG - [Save session: 79] Before container.writeChanges
+[2021-01-05 23:03:53.1820] - DEBUG - [Save session: 79] Before waitUsingRecursiveRunLoop
+[2021-01-05 23:03:53.1830] - DEBUG - [Save session: 79] Completed container.writeChanges
+[2021-01-05 23:03:53.1830] - DEBUG - [Save session: 79] Completed waitUsingRecursiveRunLoop
+[2021-01-05 23:03:53.1850] - INFO - Marking changed: false
+[2021-01-05 23:03:53.1870] - DEBUG - [Save session: 79] Completed super.save
