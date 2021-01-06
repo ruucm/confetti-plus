@@ -15,6 +15,7 @@ export function Confetti(props) {
     particleColors,
     emojis,
     imgs,
+    onConfettiComplete = () => console.log("confetti complete"),
     ...options
   } = props
   const particles = []
@@ -71,9 +72,7 @@ export function Confetti(props) {
   }, [play])
 
   useEffect(() => {
-    if (activeNum === 0) {
-      console.log("confetti complete")
-    }
+    if (activeNum === 0) onConfettiComplete()
   }, [activeNum])
 
   if (loop)
@@ -274,5 +273,8 @@ addPropertyControls(Confetti, {
     hidden(props) {
       return props.type !== "image"
     },
+  },
+  onConfettiComplete: {
+    type: ControlType.EventHandler,
   },
 })
