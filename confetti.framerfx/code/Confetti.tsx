@@ -2,7 +2,6 @@ import { addPropertyControls, ControlType } from "framer"
 import * as React from "react"
 import { useEffect, useRef } from "react"
 import { Particle } from "./particle"
-import { useInterval } from "./use-interval"
 import { getRandomInt } from "./utils"
 
 export function Confetti(props) {
@@ -72,16 +71,21 @@ export function Confetti(props) {
   }, [play])
 
   useEffect(() => {
-    if (activeNum === 0) onConfettiComplete()
+    if (activeNum === 0) {
+      onConfettiComplete()
+      if (loop) {
+        console.log("restart or init")
+      }
+    }
   }, [activeNum])
 
-  if (loop)
-    useInterval(() => {
-      for (let i = 0; i < particleNumber; i++) {
-        const item = particles[i]
-        item.init()
-      }
-    }, interval * 1000)
+  // if (loop)
+  //   useInterval(() => {
+  //     for (let i = 0; i < particleNumber; i++) {
+  //       const item = particles[i]
+  //       item.init()
+  //     }
+  //   }, interval * 1000)
 
   return <canvas ref={canvasRef} {...props} />
 }
