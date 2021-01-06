@@ -2,7 +2,6 @@ import { addPropertyControls, ControlType } from "framer"
 import * as React from "react"
 import { useEffect, useRef } from "react"
 import { Particle } from "./particle"
-import { useInterval } from "./use-interval"
 import { getRandomInt } from "./utils"
 
 export function Confetti(props) {
@@ -15,9 +14,14 @@ export function Confetti(props) {
     particleColors,
     emojis,
     imgs,
+    onConfettiComplete = () => console.log("confetti complete"),
     ...options
   } = props
   const particles = []
+  const activeParticles = []
+  const [activeNum, setActiveNum] = React.useState(-1)
+  let activeCount
+
   init()
 
   function init() {
@@ -31,7 +35,9 @@ export function Confetti(props) {
         particleColors[getRandomInt(0, particleColors.length)],
         emojis[getRandomInt(0, emojis.length)],
         image,
-        options
+        options,
+        props.width,
+        props.height
       )
       particles[i] = item
     }
@@ -48,7 +54,25 @@ export function Confetti(props) {
       for (let i = 0; i < particleNumber; i++) {
         const item = particles[i]
         item.draw(context)
+        activeParticles[i] = item.active
       }
+      activeCount = activeParticles.filter(function (s) {
+        return s
+      }).length
+      if (activeCount === 0) {
+        if (loop) {
+          console.log("run loop!")
+          for (let i = 0; i < particleNumber; i++) {
+            const item = particles[i]
+            item.init()
+          }
+        }
+        setActiveNum(0)
+        activeCount = -1
+      }
+      // console.log("hey")
+      // setActiveNum(activeCount)
+
       animationFrameId = window.requestAnimationFrame(render)
     }
     if (play) render()
@@ -58,13 +82,9 @@ export function Confetti(props) {
     }
   }, [play])
 
-  if (loop)
-    useInterval(() => {
-      for (let i = 0; i < particleNumber; i++) {
-        const item = particles[i]
-        item.init()
-      }
-    }, interval * 1000)
+  useEffect(() => {
+    if (activeNum === 0) onConfettiComplete()
+  }, [activeNum])
 
   return <canvas ref={canvasRef} {...props} />
 }
@@ -112,9 +132,6 @@ addPropertyControls(Confetti, {
     max: 1000,
     step: 5,
     displayStepper: true,
-    hidden(props) {
-      return props.type !== "Shape"
-    },
   },
   particleWidth: {
     type: ControlType.Number,
@@ -259,5 +276,8 @@ addPropertyControls(Confetti, {
     hidden(props) {
       return props.type !== "image"
     },
+  },
+  onConfettiComplete: {
+    type: ControlType.EventHandler,
   },
 })
