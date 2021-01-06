@@ -9,7 +9,6 @@ export function Confetti(props) {
   const {
     play,
     loop,
-    interval,
     particleNumber,
     particleColors,
     emojis,
@@ -60,19 +59,15 @@ export function Confetti(props) {
         return s
       }).length
       if (activeCount === 0) {
-        if (loop) {
-          console.log("run loop!")
+        if (loop)
+          // handle loop(initing particles) before update state (setActiveNum)
           for (let i = 0; i < particleNumber; i++) {
             const item = particles[i]
             item.init()
           }
-        }
         setActiveNum(0)
-        activeCount = -1
+        activeCount = -1 // prevent repeating loop
       }
-      // console.log("hey")
-      // setActiveNum(activeCount)
-
       animationFrameId = window.requestAnimationFrame(render)
     }
     if (play) render()
@@ -101,16 +96,6 @@ addPropertyControls(Confetti, {
   loop: {
     type: ControlType.Boolean,
     defaultValue: false,
-  },
-  interval: {
-    title: "~ Interval",
-    type: ControlType.Number,
-    unit: "sec",
-    displayStepper: true,
-    min: 1,
-    hidden(props) {
-      return props.loop == false
-    },
   },
   type: {
     type: ControlType.SegmentedEnum,
