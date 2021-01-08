@@ -19,188 +19,7 @@
                 "centerAnchorX" : 0.5,
                 "centerAnchorY" : 0.3655753968253968,
                 "children" : [
-                  {
-                    "__class" : "CodeComponentNode",
-                    "$control__emojis" : {
-                      "type" : "array",
-                      "value" : [
-                        {
-                          "id" : "f6Nf6tjCx",
-                          "type" : "string",
-                          "value" : "🎉"
-                        },
-                        {
-                          "id" : "iVIJdr7Em",
-                          "type" : "string",
-                          "value" : "🤡"
-                        },
-                        {
-                          "id" : "YXndAbt5_",
-                          "type" : "string",
-                          "value" : "🎄"
-                        }
-                      ]
-                    },
-                    "$control__friction" : {
-                      "type" : "number",
-                      "value" : 0.69999999999999996
-                    },
-                    "$control__gravity" : {
-                      "type" : "number",
-                      "value" : 0.02
-                    },
-                    "$control__imgs" : {
-                      "type" : "array"
-                    },
-                    "$control__injectionDegree" : {
-                      "type" : "number",
-                      "value" : 120
-                    },
-                    "$control__interval" : {
-                      "type" : "number",
-                      "value" : 1
-                    },
-                    "$control__launchDegree" : {
-                      "type" : "number",
-                      "value" : -90
-                    },
-                    "$control__loop" : {
-                      "type" : "boolean",
-                      "value" : false
-                    },
-                    "$control__particleColors" : {
-                      "type" : "array",
-                      "value" : [
-                        {
-                          "id" : "U5CdkVlZo",
-                          "type" : "color",
-                          "value" : "#1abc9c"
-                        },
-                        {
-                          "id" : "GtfsfiY5S",
-                          "type" : "color",
-                          "value" : "#2ecc71"
-                        },
-                        {
-                          "id" : "qASRVCoW4",
-                          "type" : "color",
-                          "value" : "#f1c40f"
-                        },
-                        {
-                          "id" : "gW7KAyLng",
-                          "type" : "color",
-                          "value" : "#e74c3c"
-                        },
-                        {
-                          "id" : "jNVlipP_R",
-                          "type" : "color",
-                          "value" : "#c0392b"
-                        },
-                        {
-                          "id" : "QV_5Ov3oz",
-                          "type" : "color",
-                          "value" : "#27ae60"
-                        },
-                        {
-                          "id" : "QFPLs5zKI",
-                          "type" : "color",
-                          "value" : "#9b59b6"
-                        }
-                      ]
-                    },
-                    "$control__particleHeight" : {
-                      "type" : "number",
-                      "value" : 15
-                    },
-                    "$control__particleNumber" : {
-                      "type" : "number",
-                      "value" : 20
-                    },
-                    "$control__particleSize" : {
-                      "type" : "number",
-                      "value" : 30
-                    },
-                    "$control__particleWidth" : {
-                      "type" : "number",
-                      "value" : 20
-                    },
-                    "$control__play" : {
-                      "type" : "boolean",
-                      "value" : true
-                    },
-                    "$control__shape" : {
-                      "type" : "segmentedenum",
-                      "value" : "rect"
-                    },
-                    "$control__type" : {
-                      "type" : "segmentedenum",
-                      "value" : "shape"
-                    },
-                    "$control__velocity" : {
-                      "type" : "number",
-                      "value" : 10
-                    },
-                    "$control__wind" : {
-                      "type" : "number",
-                      "value" : 0
-                    },
-                    "$control__x" : {
-                      "type" : "number",
-                      "value" : 100
-                    },
-                    "$control__y" : {
-                      "type" : "number",
-                      "value" : 0
-                    },
-                    "aspectRatio" : null,
-                    "bottom" : 37,
-                    "centerAnchorX" : 0.50000000000000022,
-                    "centerAnchorY" : 0.50074074074074093,
-                    "clip" : true,
-                    "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
-                    "codeComponentPackageVersion" : null,
-                    "codeOverrideEnabled" : false,
-                    "constraintsLocked" : false,
-                    "duplicatedFrom" : [
-                      "Aw5VeIray"
-                    ],
-                    "exportOptions" : [
 
-                    ],
-                    "fillColor" : "rgba(255,255,255,1)",
-                    "fillEnabled" : false,
-                    "fillImage" : null,
-                    "fillImageOriginalName" : null,
-                    "fillImagePixelHeight" : null,
-                    "fillImagePixelWidth" : null,
-                    "fillImageResize" : "fill",
-                    "fillType" : "color",
-                    "height" : 600,
-                    "heightType" : 0,
-                    "id" : "q9UsteM0h",
-                    "intrinsicHeight" : 600,
-                    "intrinsicWidth" : 300,
-                    "left" : 75,
-                    "locked" : false,
-                    "name" : null,
-                    "opacity" : 1,
-                    "originalid" : null,
-                    "parentid" : "yM6QnQNRm",
-                    "previewSettings" : null,
-                    "radius" : 0,
-                    "radiusBottomLeft" : 0,
-                    "radiusBottomRight" : 0,
-                    "radiusIsRelative" : false,
-                    "radiusPerCorner" : false,
-                    "radiusTopLeft" : 0,
-                    "radiusTopRight" : 0,
-                    "right" : 75,
-                    "rotation" : 0,
-                    "top" : 38,
-                    "visible" : true,
-                    "width" : 300,
-                    "widthType" : 0
-                  }
                 ],
                 "clip" : false,
                 "codeOverrideEnabled" : false,
@@ -252,6 +71,1130 @@
                 "top" : null,
                 "visible" : true,
                 "width" : 450,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "$control__emojis" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "f6Nf6tjCx",
+                      "type" : "string",
+                      "value" : "🎉"
+                    },
+                    {
+                      "id" : "iVIJdr7Em",
+                      "type" : "string",
+                      "value" : "🤡"
+                    },
+                    {
+                      "id" : "YXndAbt5_",
+                      "type" : "string",
+                      "value" : "🎄"
+                    }
+                  ]
+                },
+                "$control__friction" : {
+                  "type" : "number",
+                  "value" : 0.69999999999999996
+                },
+                "$control__gravity" : {
+                  "type" : "number",
+                  "value" : 0.02
+                },
+                "$control__imgs" : {
+                  "type" : "array"
+                },
+                "$control__injectionDegree" : {
+                  "type" : "number",
+                  "value" : 60
+                },
+                "$control__interval" : {
+                  "type" : "number",
+                  "value" : 1
+                },
+                "$control__launchDegree" : {
+                  "type" : "number",
+                  "value" : -90
+                },
+                "$control__loop" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__onConfettiComplete" : {
+                  "type" : "eventhandler"
+                },
+                "$control__particleColors" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "U5CdkVlZo",
+                      "type" : "color",
+                      "value" : "#1abc9c"
+                    },
+                    {
+                      "id" : "GtfsfiY5S",
+                      "type" : "color",
+                      "value" : "#2ecc71"
+                    },
+                    {
+                      "id" : "qASRVCoW4",
+                      "type" : "color",
+                      "value" : "#f1c40f"
+                    },
+                    {
+                      "id" : "gW7KAyLng",
+                      "type" : "color",
+                      "value" : "#e74c3c"
+                    },
+                    {
+                      "id" : "jNVlipP_R",
+                      "type" : "color",
+                      "value" : "#c0392b"
+                    },
+                    {
+                      "id" : "QV_5Ov3oz",
+                      "type" : "color",
+                      "value" : "#27ae60"
+                    },
+                    {
+                      "id" : "QFPLs5zKI",
+                      "type" : "color",
+                      "value" : "#9b59b6"
+                    }
+                  ]
+                },
+                "$control__particleHeight" : {
+                  "type" : "number",
+                  "value" : 15
+                },
+                "$control__particleNumber" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__particleSize" : {
+                  "type" : "number",
+                  "value" : 30
+                },
+                "$control__particleWidth" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__play" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__shape" : {
+                  "type" : "segmentedenum",
+                  "value" : "rect"
+                },
+                "$control__type" : {
+                  "type" : "segmentedenum",
+                  "value" : "shape"
+                },
+                "$control__velocity" : {
+                  "type" : "number",
+                  "value" : 10
+                },
+                "$control__wind" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__x" : {
+                  "type" : "number",
+                  "value" : 100
+                },
+                "$control__y" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5042553191489364,
+                "centerAnchorY" : 0.14384920634920656,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+                "codeComponentPackageVersion" : null,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "Aw5VeIray",
+                  "q9UsteM0h"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 940,
+                "heightType" : 0,
+                "id" : "ESFkvWdXj",
+                "intrinsicHeight" : 600,
+                "intrinsicWidth" : 300,
+                "left" : 45,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Mih7ayDjN",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 41,
+                "rotation" : 0,
+                "top" : -325,
+                "visible" : true,
+                "width" : 384,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "$control__emojis" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "f6Nf6tjCx",
+                      "type" : "string",
+                      "value" : "🎉"
+                    },
+                    {
+                      "id" : "iVIJdr7Em",
+                      "type" : "string",
+                      "value" : "🤡"
+                    },
+                    {
+                      "id" : "YXndAbt5_",
+                      "type" : "string",
+                      "value" : "🎄"
+                    }
+                  ]
+                },
+                "$control__friction" : {
+                  "type" : "number",
+                  "value" : 0.69999999999999996
+                },
+                "$control__gravity" : {
+                  "type" : "number",
+                  "value" : 0.02
+                },
+                "$control__imgs" : {
+                  "type" : "array"
+                },
+                "$control__injectionDegree" : {
+                  "type" : "number",
+                  "value" : 60
+                },
+                "$control__interval" : {
+                  "type" : "number",
+                  "value" : 1
+                },
+                "$control__launchDegree" : {
+                  "type" : "number",
+                  "value" : -90
+                },
+                "$control__loop" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__onConfettiComplete" : {
+                  "type" : "eventhandler"
+                },
+                "$control__particleColors" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "U5CdkVlZo",
+                      "type" : "color",
+                      "value" : "#1abc9c"
+                    },
+                    {
+                      "id" : "GtfsfiY5S",
+                      "type" : "color",
+                      "value" : "#2ecc71"
+                    },
+                    {
+                      "id" : "qASRVCoW4",
+                      "type" : "color",
+                      "value" : "#f1c40f"
+                    },
+                    {
+                      "id" : "gW7KAyLng",
+                      "type" : "color",
+                      "value" : "#e74c3c"
+                    },
+                    {
+                      "id" : "jNVlipP_R",
+                      "type" : "color",
+                      "value" : "#c0392b"
+                    },
+                    {
+                      "id" : "QV_5Ov3oz",
+                      "type" : "color",
+                      "value" : "#27ae60"
+                    },
+                    {
+                      "id" : "QFPLs5zKI",
+                      "type" : "color",
+                      "value" : "#9b59b6"
+                    }
+                  ]
+                },
+                "$control__particleHeight" : {
+                  "type" : "number",
+                  "value" : 15
+                },
+                "$control__particleNumber" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__particleSize" : {
+                  "type" : "number",
+                  "value" : 30
+                },
+                "$control__particleWidth" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__play" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__shape" : {
+                  "type" : "segmentedenum",
+                  "value" : "rect"
+                },
+                "$control__type" : {
+                  "type" : "segmentedenum",
+                  "value" : "shape"
+                },
+                "$control__velocity" : {
+                  "type" : "number",
+                  "value" : 10
+                },
+                "$control__wind" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__x" : {
+                  "type" : "number",
+                  "value" : 100
+                },
+                "$control__y" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5042553191489364,
+                "centerAnchorY" : 0.14384920634920656,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+                "codeComponentPackageVersion" : null,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "Aw5VeIray",
+                  "q9UsteM0h",
+                  "ESFkvWdXj"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 940,
+                "heightType" : 0,
+                "id" : "QbfVu83mY",
+                "intrinsicHeight" : 600,
+                "intrinsicWidth" : 300,
+                "left" : 45,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Mih7ayDjN",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 41,
+                "rotation" : 0,
+                "top" : -325,
+                "visible" : true,
+                "width" : 384,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "$control__emojis" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "f6Nf6tjCx",
+                      "type" : "string",
+                      "value" : "🎉"
+                    },
+                    {
+                      "id" : "iVIJdr7Em",
+                      "type" : "string",
+                      "value" : "🤡"
+                    },
+                    {
+                      "id" : "YXndAbt5_",
+                      "type" : "string",
+                      "value" : "🎄"
+                    }
+                  ]
+                },
+                "$control__friction" : {
+                  "type" : "number",
+                  "value" : 0.69999999999999996
+                },
+                "$control__gravity" : {
+                  "type" : "number",
+                  "value" : 0.02
+                },
+                "$control__imgs" : {
+                  "type" : "array"
+                },
+                "$control__injectionDegree" : {
+                  "type" : "number",
+                  "value" : 60
+                },
+                "$control__interval" : {
+                  "type" : "number",
+                  "value" : 1
+                },
+                "$control__launchDegree" : {
+                  "type" : "number",
+                  "value" : -90
+                },
+                "$control__loop" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__onConfettiComplete" : {
+                  "type" : "eventhandler"
+                },
+                "$control__particleColors" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "U5CdkVlZo",
+                      "type" : "color",
+                      "value" : "#1abc9c"
+                    },
+                    {
+                      "id" : "GtfsfiY5S",
+                      "type" : "color",
+                      "value" : "#2ecc71"
+                    },
+                    {
+                      "id" : "qASRVCoW4",
+                      "type" : "color",
+                      "value" : "#f1c40f"
+                    },
+                    {
+                      "id" : "gW7KAyLng",
+                      "type" : "color",
+                      "value" : "#e74c3c"
+                    },
+                    {
+                      "id" : "jNVlipP_R",
+                      "type" : "color",
+                      "value" : "#c0392b"
+                    },
+                    {
+                      "id" : "QV_5Ov3oz",
+                      "type" : "color",
+                      "value" : "#27ae60"
+                    },
+                    {
+                      "id" : "QFPLs5zKI",
+                      "type" : "color",
+                      "value" : "#9b59b6"
+                    }
+                  ]
+                },
+                "$control__particleHeight" : {
+                  "type" : "number",
+                  "value" : 15
+                },
+                "$control__particleNumber" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__particleSize" : {
+                  "type" : "number",
+                  "value" : 30
+                },
+                "$control__particleWidth" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__play" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__shape" : {
+                  "type" : "segmentedenum",
+                  "value" : "rect"
+                },
+                "$control__type" : {
+                  "type" : "segmentedenum",
+                  "value" : "shape"
+                },
+                "$control__velocity" : {
+                  "type" : "number",
+                  "value" : 10
+                },
+                "$control__wind" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__x" : {
+                  "type" : "number",
+                  "value" : 100
+                },
+                "$control__y" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5042553191489364,
+                "centerAnchorY" : 0.14384920634920656,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+                "codeComponentPackageVersion" : null,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "Aw5VeIray",
+                  "q9UsteM0h",
+                  "ESFkvWdXj",
+                  "QbfVu83mY"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 940,
+                "heightType" : 0,
+                "id" : "ufaWvjXfj",
+                "intrinsicHeight" : 600,
+                "intrinsicWidth" : 300,
+                "left" : 45,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Mih7ayDjN",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 41,
+                "rotation" : 0,
+                "top" : -325,
+                "visible" : true,
+                "width" : 384,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "$control__emojis" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "f6Nf6tjCx",
+                      "type" : "string",
+                      "value" : "🎉"
+                    },
+                    {
+                      "id" : "iVIJdr7Em",
+                      "type" : "string",
+                      "value" : "🤡"
+                    },
+                    {
+                      "id" : "YXndAbt5_",
+                      "type" : "string",
+                      "value" : "🎄"
+                    }
+                  ]
+                },
+                "$control__friction" : {
+                  "type" : "number",
+                  "value" : 0.69999999999999996
+                },
+                "$control__gravity" : {
+                  "type" : "number",
+                  "value" : 0.02
+                },
+                "$control__imgs" : {
+                  "type" : "array"
+                },
+                "$control__injectionDegree" : {
+                  "type" : "number",
+                  "value" : 60
+                },
+                "$control__interval" : {
+                  "type" : "number",
+                  "value" : 1
+                },
+                "$control__launchDegree" : {
+                  "type" : "number",
+                  "value" : -90
+                },
+                "$control__loop" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__onConfettiComplete" : {
+                  "type" : "eventhandler"
+                },
+                "$control__particleColors" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "U5CdkVlZo",
+                      "type" : "color",
+                      "value" : "#1abc9c"
+                    },
+                    {
+                      "id" : "GtfsfiY5S",
+                      "type" : "color",
+                      "value" : "#2ecc71"
+                    },
+                    {
+                      "id" : "qASRVCoW4",
+                      "type" : "color",
+                      "value" : "#f1c40f"
+                    },
+                    {
+                      "id" : "gW7KAyLng",
+                      "type" : "color",
+                      "value" : "#e74c3c"
+                    },
+                    {
+                      "id" : "jNVlipP_R",
+                      "type" : "color",
+                      "value" : "#c0392b"
+                    },
+                    {
+                      "id" : "QV_5Ov3oz",
+                      "type" : "color",
+                      "value" : "#27ae60"
+                    },
+                    {
+                      "id" : "QFPLs5zKI",
+                      "type" : "color",
+                      "value" : "#9b59b6"
+                    }
+                  ]
+                },
+                "$control__particleHeight" : {
+                  "type" : "number",
+                  "value" : 15
+                },
+                "$control__particleNumber" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__particleSize" : {
+                  "type" : "number",
+                  "value" : 30
+                },
+                "$control__particleWidth" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__play" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__shape" : {
+                  "type" : "segmentedenum",
+                  "value" : "rect"
+                },
+                "$control__type" : {
+                  "type" : "segmentedenum",
+                  "value" : "shape"
+                },
+                "$control__velocity" : {
+                  "type" : "number",
+                  "value" : 10
+                },
+                "$control__wind" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__x" : {
+                  "type" : "number",
+                  "value" : 100
+                },
+                "$control__y" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5042553191489364,
+                "centerAnchorY" : 0.14384920634920656,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+                "codeComponentPackageVersion" : null,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "Aw5VeIray",
+                  "q9UsteM0h",
+                  "ESFkvWdXj",
+                  "QbfVu83mY"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 940,
+                "heightType" : 0,
+                "id" : "z4aeyWimP",
+                "intrinsicHeight" : 600,
+                "intrinsicWidth" : 300,
+                "left" : 45,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Mih7ayDjN",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 41,
+                "rotation" : 0,
+                "top" : -325,
+                "visible" : true,
+                "width" : 384,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "$control__emojis" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "f6Nf6tjCx",
+                      "type" : "string",
+                      "value" : "🎉"
+                    },
+                    {
+                      "id" : "iVIJdr7Em",
+                      "type" : "string",
+                      "value" : "🤡"
+                    },
+                    {
+                      "id" : "YXndAbt5_",
+                      "type" : "string",
+                      "value" : "🎄"
+                    }
+                  ]
+                },
+                "$control__friction" : {
+                  "type" : "number",
+                  "value" : 0.69999999999999996
+                },
+                "$control__gravity" : {
+                  "type" : "number",
+                  "value" : 0.02
+                },
+                "$control__imgs" : {
+                  "type" : "array"
+                },
+                "$control__injectionDegree" : {
+                  "type" : "number",
+                  "value" : 60
+                },
+                "$control__interval" : {
+                  "type" : "number",
+                  "value" : 1
+                },
+                "$control__launchDegree" : {
+                  "type" : "number",
+                  "value" : -90
+                },
+                "$control__loop" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__onConfettiComplete" : {
+                  "type" : "eventhandler"
+                },
+                "$control__particleColors" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "U5CdkVlZo",
+                      "type" : "color",
+                      "value" : "#1abc9c"
+                    },
+                    {
+                      "id" : "GtfsfiY5S",
+                      "type" : "color",
+                      "value" : "#2ecc71"
+                    },
+                    {
+                      "id" : "qASRVCoW4",
+                      "type" : "color",
+                      "value" : "#f1c40f"
+                    },
+                    {
+                      "id" : "gW7KAyLng",
+                      "type" : "color",
+                      "value" : "#e74c3c"
+                    },
+                    {
+                      "id" : "jNVlipP_R",
+                      "type" : "color",
+                      "value" : "#c0392b"
+                    },
+                    {
+                      "id" : "QV_5Ov3oz",
+                      "type" : "color",
+                      "value" : "#27ae60"
+                    },
+                    {
+                      "id" : "QFPLs5zKI",
+                      "type" : "color",
+                      "value" : "#9b59b6"
+                    }
+                  ]
+                },
+                "$control__particleHeight" : {
+                  "type" : "number",
+                  "value" : 15
+                },
+                "$control__particleNumber" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__particleSize" : {
+                  "type" : "number",
+                  "value" : 30
+                },
+                "$control__particleWidth" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__play" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__shape" : {
+                  "type" : "segmentedenum",
+                  "value" : "rect"
+                },
+                "$control__type" : {
+                  "type" : "segmentedenum",
+                  "value" : "shape"
+                },
+                "$control__velocity" : {
+                  "type" : "number",
+                  "value" : 10
+                },
+                "$control__wind" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__x" : {
+                  "type" : "number",
+                  "value" : 100
+                },
+                "$control__y" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.52765957446808531,
+                "centerAnchorY" : 0.14384920634920656,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+                "codeComponentPackageVersion" : null,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "Aw5VeIray",
+                  "q9UsteM0h",
+                  "ESFkvWdXj"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 940,
+                "heightType" : 0,
+                "id" : "TNsQglOuL",
+                "intrinsicHeight" : 600,
+                "intrinsicWidth" : 300,
+                "left" : 45,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Mih7ayDjN",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 19,
+                "rotation" : 0,
+                "top" : -325,
+                "visible" : true,
+                "width" : 406,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "$control__emojis" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "f6Nf6tjCx",
+                      "type" : "string",
+                      "value" : "🎉"
+                    },
+                    {
+                      "id" : "iVIJdr7Em",
+                      "type" : "string",
+                      "value" : "🤡"
+                    },
+                    {
+                      "id" : "YXndAbt5_",
+                      "type" : "string",
+                      "value" : "🎄"
+                    }
+                  ]
+                },
+                "$control__friction" : {
+                  "type" : "number",
+                  "value" : 0.69999999999999996
+                },
+                "$control__gravity" : {
+                  "type" : "number",
+                  "value" : 0.02
+                },
+                "$control__imgs" : {
+                  "type" : "array"
+                },
+                "$control__injectionDegree" : {
+                  "type" : "number",
+                  "value" : 60
+                },
+                "$control__interval" : {
+                  "type" : "number",
+                  "value" : 1
+                },
+                "$control__launchDegree" : {
+                  "type" : "number",
+                  "value" : -90
+                },
+                "$control__loop" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__onConfettiComplete" : {
+                  "type" : "eventhandler"
+                },
+                "$control__particleColors" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "U5CdkVlZo",
+                      "type" : "color",
+                      "value" : "#1abc9c"
+                    },
+                    {
+                      "id" : "GtfsfiY5S",
+                      "type" : "color",
+                      "value" : "#2ecc71"
+                    },
+                    {
+                      "id" : "qASRVCoW4",
+                      "type" : "color",
+                      "value" : "#f1c40f"
+                    },
+                    {
+                      "id" : "gW7KAyLng",
+                      "type" : "color",
+                      "value" : "#e74c3c"
+                    },
+                    {
+                      "id" : "jNVlipP_R",
+                      "type" : "color",
+                      "value" : "#c0392b"
+                    },
+                    {
+                      "id" : "QV_5Ov3oz",
+                      "type" : "color",
+                      "value" : "#27ae60"
+                    },
+                    {
+                      "id" : "QFPLs5zKI",
+                      "type" : "color",
+                      "value" : "#9b59b6"
+                    }
+                  ]
+                },
+                "$control__particleHeight" : {
+                  "type" : "number",
+                  "value" : 15
+                },
+                "$control__particleNumber" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__particleSize" : {
+                  "type" : "number",
+                  "value" : 30
+                },
+                "$control__particleWidth" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__play" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__shape" : {
+                  "type" : "segmentedenum",
+                  "value" : "rect"
+                },
+                "$control__type" : {
+                  "type" : "segmentedenum",
+                  "value" : "shape"
+                },
+                "$control__velocity" : {
+                  "type" : "number",
+                  "value" : 10
+                },
+                "$control__wind" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__x" : {
+                  "type" : "number",
+                  "value" : 100
+                },
+                "$control__y" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.50000000000000022,
+                "centerAnchorY" : 0.094246031746031966,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+                "codeComponentPackageVersion" : null,
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "Aw5VeIray",
+                  "q9UsteM0h",
+                  "ESFkvWdXj",
+                  "TNsQglOuL"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 940,
+                "heightType" : 0,
+                "id" : "Q4L6Tr8Ht",
+                "intrinsicHeight" : 600,
+                "intrinsicWidth" : 300,
+                "left" : 39,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Mih7ayDjN",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 39,
+                "rotation" : 0,
+                "top" : -375,
+                "visible" : true,
+                "width" : 392,
                 "widthType" : 0
               }
             ],
@@ -364,6 +1307,9 @@
             "$control__loopInterval" : {
               "type" : "number",
               "value" : 0
+            },
+            "$control__onConfettiComplete" : {
+              "type" : "eventhandler"
             },
             "$control__particleColors" : {
               "type" : "array",
@@ -500,6 +1446,328 @@
             "top" : 920,
             "visible" : true,
             "width" : 300,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0,
+            "centerAnchorY" : 0,
+            "children" : [
+              {
+                "__class" : "CodeComponentNode",
+                "$control__emojis" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "oXPSfIvkm",
+                      "type" : "string",
+                      "value" : "🎉"
+                    },
+                    {
+                      "id" : "fXE9kuI6u",
+                      "type" : "string",
+                      "value" : "🤡"
+                    },
+                    {
+                      "id" : "R2JxoZmLN",
+                      "type" : "string",
+                      "value" : "🎄"
+                    }
+                  ]
+                },
+                "$control__friction" : {
+                  "type" : "number",
+                  "value" : 0.69999999999999996
+                },
+                "$control__gravity" : {
+                  "type" : "number",
+                  "value" : 0.02
+                },
+                "$control__imgs" : {
+                  "type" : "array"
+                },
+                "$control__injectionDegree" : {
+                  "type" : "number",
+                  "value" : 120
+                },
+                "$control__interval" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__launchDegree" : {
+                  "type" : "number",
+                  "value" : -90
+                },
+                "$control__loop" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__loopInterval" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__onConfettiComplete" : {
+                  "type" : "eventhandler"
+                },
+                "$control__particleColors" : {
+                  "type" : "array",
+                  "value" : [
+                    {
+                      "id" : "TcW8LAezJ",
+                      "type" : "color",
+                      "value" : "#1abc9c"
+                    },
+                    {
+                      "id" : "pLVa5eUch",
+                      "type" : "color",
+                      "value" : "#2ecc71"
+                    },
+                    {
+                      "id" : "diWGnHqsN",
+                      "type" : "color",
+                      "value" : "#f1c40f"
+                    },
+                    {
+                      "id" : "hgMm85Uga",
+                      "type" : "color",
+                      "value" : "#e74c3c"
+                    },
+                    {
+                      "id" : "Q1zKIH7ly",
+                      "type" : "color",
+                      "value" : "#c0392b"
+                    },
+                    {
+                      "id" : "UdGHYTIS3",
+                      "type" : "color",
+                      "value" : "#27ae60"
+                    },
+                    {
+                      "id" : "b1OWrDIlk",
+                      "type" : "color",
+                      "value" : "#9b59b6"
+                    }
+                  ]
+                },
+                "$control__particleHeight" : {
+                  "type" : "number",
+                  "value" : 15
+                },
+                "$control__particleNumber" : {
+                  "type" : "number",
+                  "value" : 50
+                },
+                "$control__particleSize" : {
+                  "type" : "number",
+                  "value" : 30
+                },
+                "$control__particleWidth" : {
+                  "type" : "number",
+                  "value" : 20
+                },
+                "$control__play" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__repeat" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__shape" : {
+                  "type" : "segmentedenum",
+                  "value" : "rect"
+                },
+                "$control__type" : {
+                  "type" : "segmentedenum",
+                  "value" : "shape"
+                },
+                "$control__velocity" : {
+                  "type" : "number",
+                  "value" : 10
+                },
+                "$control__wind" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "$control__x" : {
+                  "type" : "number",
+                  "value" : 100
+                },
+                "$control__y" : {
+                  "type" : "number",
+                  "value" : 0
+                },
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.54208273894436543,
+                "centerAnchorY" : 0.34324942791762036,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/Confetti.tsx_Confetti",
+                "codeComponentPackageVersion" : null,
+                "codeOverrideEnabled" : true,
+                "codeOverrideFile" : ".\/TestOverride.tsx",
+                "codeOverrideIdentifier" : ".\/TestOverride.tsx_ConfettiTest",
+                "codeOverrideName" : "ConfettiTest",
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "Eo7eVmj2g",
+                  "NrWnPmSZF"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 600,
+                "heightType" : 0,
+                "id" : "FLXVMrDdv",
+                "intrinsicHeight" : 600,
+                "intrinsicWidth" : 300,
+                "left" : null,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Xavbr4MqG",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 171,
+                "rotation" : 0,
+                "top" : 0,
+                "visible" : true,
+                "width" : 300,
+                "widthType" : 0
+              },
+              {
+                "__class" : "FrameNode",
+                "aspectRatio" : null,
+                "bottom" : 64,
+                "centerAnchorX" : 0.52781740370898733,
+                "centerAnchorY" : 0.85583524027459978,
+                "children" : [
+
+                ],
+                "clip" : false,
+                "codeOverrideEnabled" : true,
+                "codeOverrideFile" : ".\/TestOverride.tsx",
+                "codeOverrideIdentifier" : ".\/TestOverride.tsx_Btn",
+                "codeOverrideName" : "Btn",
+                "constraintsLocked" : false,
+                "duplicatedFrom" : null,
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "#9ef",
+                "fillEnabled" : true,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "framePreset" : null,
+                "guidesX" : [
+
+                ],
+                "guidesY" : [
+
+                ],
+                "height" : 123,
+                "heightType" : 0,
+                "id" : "HweTFxN_g",
+                "intrinsicHeight" : null,
+                "intrinsicWidth" : null,
+                "isExternalMaster" : null,
+                "isMaster" : false,
+                "isTarget" : false,
+                "left" : null,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "Xavbr4MqG",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "replicaInfo" : null,
+                "right" : 159,
+                "rotation" : 0,
+                "top" : null,
+                "visible" : true,
+                "width" : 343,
+                "widthType" : 0
+              }
+            ],
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "white",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "framePreset" : null,
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 874,
+            "heightType" : 0,
+            "id" : "Xavbr4MqG",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isScreen" : true,
+            "isTarget" : false,
+            "left" : 1607,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "f9RhR5MaI",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "replicaInfo" : null,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 920,
+            "visible" : true,
+            "width" : 701,
             "widthType" : 0
           }
         ],

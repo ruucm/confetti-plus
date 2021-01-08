@@ -10,6 +10,18 @@
 [2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
 [2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
 
+[2020-12-21 18:04:44.4860] - INFO - Reading from /20-12-21 18:04:16.8420] - INFO - Marking changed: false
+[2020-12-21 18:04:17.0140] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-12-21 18:04:17.6790] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
+[2020-12-21 18:04:44.4860] - INFO - Reading from /nce to finish (pid undefined, inside undefined)"}
+[2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
+[2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
+[2020-12-21 18:04:18.0360] - INFO - Installing dependencies - DONE. Took 356ms
+
 [2020-12-21 18:04:44.4860] - INFO - Reading from /ing yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
 [2020-12-21 18:04:17.6810] - INFO - Installing dependencies…
 [2020-12-21 18:04:18.0360] - ERROR - error running yarn: {"type":"warning","data":"Ignored scripts due to flag."}
@@ -3616,3 +3628,88 @@
 [2021-01-05 23:03:53.1830] - DEBUG - [Save session: 79] Completed waitUsingRecursiveRunLoop
 [2021-01-05 23:03:53.1850] - INFO - Marking changed: false
 [2021-01-05 23:03:53.1870] - DEBUG - [Save session: 79] Completed super.save
+
+[2021-01-06 23:23:48.3460] - INFO - Reading from /Users/ruucm/Desktop/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-06 23:23:48.3770] - INFO - Done reading
+[2021-01-06 23:23:48.3770] - INFO - Marking changed: false
+[2021-01-06 23:23:48.6070] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-06 23:23:49.6820] - INFO - Project server PID: 71333
+[2021-01-06 23:23:49.8650] - INFO - Installing dependencies…
+[2021-01-06 23:23:50.1910] - ERROR - Wed, 06 Jan 2021 14:23:50 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-06 23:23:50.2250] - INFO - GET 200 /design/document.json 0 B (4ms)
+[2021-01-06 23:23:50.8760] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-06 23:23:52.3580] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:23:52.3600] - INFO - Installing dependencies - DONE. Took 2494ms
+[2021-01-06 23:23:52.5150] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:23:52.7180] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:09.8290] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:11.3180] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:11.4630] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:11.5470] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:12.8310] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:13.4920] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:14.2090] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:14.9660] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:24:15.0260] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-06 23:27:28.7310] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-06 23:27:28.7310] - DEBUG - [Save session: 0] Before container.writeChanges
+[2021-01-06 23:27:28.7310] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2021-01-06 23:27:28.7590] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2021-01-06 23:33:55.2700] - INFO - Backing up to /Users/ruucm/Desktop/framer-confetti/confetti.framerfx/.backups/2021-01-06 23.33.55.zip
+
+[2021-01-08 15:47:59.6580] - INFO - Reading from /Users/ruucm/Desktop/framer-confetti/confetti.framerfx (origin); preserving existing contents of project folder: true
+[2021-01-08 15:47:59.7070] - INFO - Done reading
+[2021-01-08 15:47:59.7080] - INFO - Marking changed: false
+[2021-01-08 15:48:00.3990] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2021-01-08 15:48:02.0200] - INFO - Project server PID: 10277
+[2021-01-08 15:48:02.2630] - INFO - Installing dependencies…
+[2021-01-08 15:48:02.6210] - ERROR - Fri, 08 Jan 2021 06:48:02 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2021-01-08 15:48:02.6220] - INFO - GET 200 /design/document.json 0 B (18ms)
+[2021-01-08 15:48:02.7410] - INFO - GET 200 /.cache/images/512/pUsTrN77YvlojN2Yijbr6q3oug.png 112 kB (1ms)
+[2021-01-08 15:48:02.7730] - INFO - GET 200 /.cache/images/2048/pUsTrN77YvlojN2Yijbr6q3oug.png 370 kB (1ms)
+[2021-01-08 15:48:04.3870] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2021-01-08 15:48:04.7100] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:04.7110] - INFO - Installing dependencies - DONE. Took 2448ms
+[2021-01-08 15:48:05.4170] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:05.4650] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:05.5070] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:06.0100] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:06.3960] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:07.0710] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:07.1570] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-08 15:48:07.1570] - DEBUG - [Save session: 0] Before container.writeChanges
+[2021-01-08 15:48:07.1570] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2021-01-08 15:48:07.1730] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2021-01-08 15:48:22.5280] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:22.7370] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:24.7630] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:25.9780] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:26.8220] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:27.5550] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:27.7400] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:29.1220] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:48:29.9690] - ERROR - error running yarn: {"type":"warning","data":"Waiting for the other yarn instance to finish (pid undefined, inside undefined)"}
+[2021-01-08 15:53:02.4250] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-08 15:53:02.4250] - DEBUG - [Save session: 1] Before container.writeChanges
+[2021-01-08 15:53:02.4250] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
+[2021-01-08 15:53:02.4500] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2021-01-08 15:56:24.5770] - DEBUG - [Save session: 2] Started, operation: autosaveInPlaceOperation
+[2021-01-08 15:56:24.5770] - DEBUG - [Save session: 2] Before container.writeChanges
+[2021-01-08 15:56:24.5770] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2021-01-08 15:56:24.6140] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2021-01-08 15:56:27.0640] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2021-01-08 15:56:27.0690] - DEBUG - [Save session: 2] Completed super.save
+[2021-01-08 15:56:35.6320] - DEBUG - [Save session: 3] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-08 15:56:35.6320] - DEBUG - [Save session: 3] Before container.writeChanges
+[2021-01-08 15:56:35.6320] - DEBUG - [Save session: 3] Not autosaving to archive, implicitly cancellable
+[2021-01-08 15:56:35.6650] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2021-01-08 15:56:36.9220] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-08 15:56:36.9220] - DEBUG - [Save session: 4] Before container.writeChanges
+[2021-01-08 15:56:36.9220] - DEBUG - [Save session: 4] Not autosaving to archive, implicitly cancellable
+[2021-01-08 15:56:36.9340] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2021-01-08 15:57:07.3500] - DEBUG - [Save session: 5] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2021-01-08 15:57:07.3500] - DEBUG - [Save session: 5] Before container.writeChanges
+[2021-01-08 15:57:07.3510] - DEBUG - [Save session: 5] Not autosaving to archive, implicitly cancellable
+[2021-01-08 15:57:07.3630] - DEBUG - [Save session: 5] Completed container.writeChanges
+[2021-01-08 15:58:00.1130] - INFO - Backing up to /Users/ruucm/Desktop/framer-confetti/confetti.framerfx/.backups/2021-01-08 15.58.00.zip
+[2021-01-08 16:08:00.1200] - INFO - Backing up to /Users/ruucm/Desktop/framer-confetti/confetti.framerfx/.backups/2021-01-08 16.08.00.zip
