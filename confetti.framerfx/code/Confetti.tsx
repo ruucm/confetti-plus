@@ -18,8 +18,8 @@ export function Confetti(props) {
   } = props
   const particles = []
   const activeParticles = []
-  const [activeNum, setActiveNum] = React.useState(-1)
   let activeCount
+  let confettiComplete = false
 
   init()
 
@@ -65,7 +65,10 @@ export function Confetti(props) {
             const item = particles[i]
             item.init()
           }
-        setActiveNum(0)
+        if (!confettiComplete) {
+          onConfettiComplete()
+          confettiComplete = true
+        }
         activeCount = -1 // prevent repeating loop
       }
       animationFrameId = window.requestAnimationFrame(render)
@@ -76,10 +79,6 @@ export function Confetti(props) {
       window.cancelAnimationFrame(animationFrameId)
     }
   }, [play])
-
-  useEffect(() => {
-    if (activeNum === 0) onConfettiComplete()
-  }, [activeNum])
 
   return <canvas ref={canvasRef} {...props} />
 }
