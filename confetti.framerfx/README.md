@@ -36,3 +36,7 @@ This is a project made by [Framer Korea Library Crew](https://framerkorea.org)
 - alexpong
 - ShinD
 - [yongmin ruucm](https://harbor.school)
+
+## Issues?
+
+Feel free to leave questions/bugs on the [GitHub repository](https://github.com/ruucm/confetti-plus) for this package.
