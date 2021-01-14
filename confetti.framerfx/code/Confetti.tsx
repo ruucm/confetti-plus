@@ -141,6 +141,18 @@ addPropertyControls(Confetti, {
       return props.type !== "shape" || props.shape !== "rect"
     },
   },
+  particleSize: {
+    type: ControlType.Number,
+    defaultValue: 30,
+    min: 0,
+    max: 1000,
+    unit: "px",
+    step: 5,
+    displayStepper: true,
+    hidden(props) {
+      return props.type === "shape" && props.shape === "rect"
+    },
+  },
   velocity: {
     type: ControlType.Number,
     defaultValue: 10,
