@@ -2,6 +2,8 @@
 
 A customizable confetti component built with Framer Property Controls.
 
+[Example Project](https://framer.com/projects/Framer-Library-04-Confetti-Plus--rmhVjM40Bs4DYYqtWCLy-9866i)
+
 ## Properties
 
 | Property Name      | Type         | Description                                                                                        |
